@@ -1,0 +1,1344 @@
+! Title: HedgehogInTheCPP additional list
+! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
+! Expires: 1 days
+! 2022.02.01 12:40 UTC+3
+
+
+@@studia2000.sytes.net
+
+
+
+leroymerlin.ru##.main > .drpdwn > .inner > .tng
+
+||leroymerlin.ru/upload/iblock/dbe/okna_1248x300_4_.jpg$image
+
+leroymerlin.ru###blockimgslider:nth-of-type(1) > .owl-wrapper-outer > .owl-wrapper
+
+leroymerlin.ru###progressBar
+
+leroymerlin.ru###blockimgslider:nth-of-type(1) > .clickable.owl-controls
+
+leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn > .inner > a[href="/nckd/"]
+
+leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn > .inner
+
+leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
+
+
+
+
+habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
+
+habr.com##.dont-add-our-site-pls
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
+
+habr.com###broadcast_tabs_posts > .menu_inline.menu.tabs__menu_posts.tabs__menu
+
+habr.com###broadcast_posts_now
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .similar_questions.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .similar-posts__title
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .privet > .firskill__label[href="https://special.habr.com/advertising/"]
+
+habr.com###layout > .inner > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
+
+habr.com###broadcast_tabs_comments > .menu_inline.menu.tabs__menu_comments.tabs__menu
+
+habr.com###broadcast_comments_now
+
+habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .similar-posts__title
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .float_block.corporate_blog.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_geektimes.live-broadcast > .live-broadcast__title
+
+habr.com###layout > .inner > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_geektimes.live-broadcast > .live-broadcast__title
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .corporate_blog.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .corporate_news.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_links.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .no_bg.twitter_stream.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_widget > .announce
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .firskill__label[href="https://special.habr.com/advertising/"]
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right > .company_widgets
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right > .corporate_blog.block
+
+habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .content_left > .company_post > .block_after_post > .similar-posts
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .similar-posts_full.similar-posts > .similar-posts__title
+
+habr.com###adriver_banner_1109509440 > .html_banner_text
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .wrapper-sticky > .is_visible.js-ad_sticky
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.xyz_wrapper
+
+habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .sticky-active.wrapper-sticky > .sticky.js-ad_sticky
+
+habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .is_visible.xyz_wrapper
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .html_banner_wrap > .firskill__label
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .content-list_similar-posts.content-list
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
+
+habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .wrapper-sticky > .js-ad_sticky > .xyz_wrapper
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_content-area.sidebar_right
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .content-list_similar-posts.content-list
+
+habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
+
+habr.com##.layout > .layout__base > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .similar-posts_full.similar-posts
+
+habr.com##.layout > .layout__base > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_geektimes.live-broadcast > .live-broadcast__title
+
+habr.com##.layout > .layout__base > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
+
+habr.com##.layout > .layout__base > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper
+
+habr.com##.similar-posts
+
+habr.com##.similar-posts:nth-of-type(2)
+
+habr.com##.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
+
+habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .default-block
+
+habr.com##.js-sidebar_right.sidebar_right > .default-block_content.default-block
+
+habr.com##.default-block_content.default-block:nth-of-type(2)
+
+habr.com##.default-block_content.default-block:nth-of-type(4)
+
+habr.com##.js-sidebar_right.sidebar_right > .default-block_content.default-block
+
+habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .default-block
+
+habr.com##.sidebar_right > .default-block_content.default-block
+
+habr.com##.default-block_content.default-block:nth-of-type(4)
+
+habr.com##.default-block_content.default-block:nth-of-type(2)
+
+habr.com##.shortcuts_item:nth-of-type(4) > .default-block
+
+habr.com##.company_post > .default-block_content.default-block
+
+habr.com##.js-content_left.content_left > .default-block
+
+habr.com##.sticky.is_visible.js-ad_sticky
+
+habr.com##.js-sidebar_right.sidebar_right
+
+habr.com##.is_visible.js-ad_sticky
+
+habr.com##.default-block_sidebar
+
+habr.com##.sticky_init
+
+habr.com##.sticky
+
+habr.com##.js-ad_sticky
+
+habr.com##.column-wrapper__last.column-wrapper > .sidebar_stick-top.sidebar > .sidebar_right_stick-top.sidebar_right
+
+habr.com##.default-block_content.default-block
+
+habr.com##.tm-sexy-sidebar_stick-top
+
+
+
+
+
+
+
+
+
+
+
+! Exclude fix for the error in the list located here hg.adblockplus.org/ruadlist/raw-file/tip/bitblock/annoyance_specific_block.txt 
+! Login page isn't working
+@@printdirect.ru/crud/model_call
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+my.mail.ru###menu-app-list
+
+*.mail.ru##div.article__item_teaser_article
+
+mail.ru###grid\:middle
+
+
+
+
+
+winaero.com###content > .hentry.format-standard.status-publish.type-post.post > .entry-header > div:nth-of-type(1) > strong
+
+winaero.com###post-tweaker > .entry-content > div:nth-of-type(1) > .fborder > tbody > tr:nth-of-type(2) > td
+
+winaero.com###headright
+
+winaero.com###post-tweaker > .entry-content > div:nth-of-type(1) > .fborder > tbody > tr:nth-of-type(2) > td
+
+winaero.com###post-8009 > .entry-header > .entry-line-header
+
+winaero.com##.entry-line-header > strong
+
+winaero.com##.entry-header > div:nth-of-type(1)
+
+
+
+
+
+www.solidfiles.com###dlm-btn[href^="http://sfl.rbk.downloadfilesnow.info/handle"]
+
+
+
+
+
+vk.com###ads_left > div > .size_site.repeat_ver.ver.ads_ads_box > .size_site.repeat_ver.ver.ads_ads_box2
+
+vk.com###posthashtag_recoms
+
+vk.com##.audio_sound_bars
+
+
+
+
+moslenta.ru##.social-floating
+
+
+
+
+
+www.moya-planeta.ru##.relap-default__visible.relap-default__animate.relap-default__pos-right.relap-default__with-shadow.relap-default__popup-container
+
+www.moya-planeta.ru###interview_popup_topper
+
+www.moya-planeta.ru###interview_popup_mider
+
+www.moya-planeta.ru###ajax_pageload_block_23848 > .standart_table > tbody > tr > .standart_table_right
+
+
+
+
+||ip-calculator.ru/img/calk.gif
+
+
+
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-related
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share > .ShareButtons--isInMaterialTopBar.ShareButtons--default.ShareButtons
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--fun.Material--materialTopBarVisible.Material > .Material-related
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share > .ShareButtons--isInMaterialTopBar.ShareButtons--default.ShareButtons
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-close
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share
+
+meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar
+
+meduza.io##.Material-related
+
+meduza.io##.RelatedBlock-root
+
+
+
+
+yablyk.com###arvlbdata
+
+yablyk.com##.ArevicoModal-iframe.ArevicoModal
+
+yablyk.com##.ArevicoModal-iframe.ArevicoModal-bg
+
+yablyk.com##.clearfix.wrap > .sidebar__single.sidebar
+
+
+
+
+www.macdigger.ru##._panaur-popover._panaur-welcome
+
+
+
+
+www.adme.ru###js-aside-recommend-block > .gallery-more.article-list
+
+www.adme.ru###js-aside
+
+www.adme.ru##.page > .footer-placeholder.wrap > .container > .more-articles-container > .js-article-more-list.gallery-more.article-list
+
+www.adme.ru##.page > .footer-placeholder.wrap > .container > .more-articles-container > .js-article-more-link.article-more[href="#"]
+
+www.adme.ru##.page > .footer-placeholder.wrap > .container > .more-articles-container > .gallery-more-title.theme-title
+
+www.adme.ru###js-article-content > .js-article-content.article > p:nth-of-type(9)
+
+www.adme.ru###js-block-2444215 > p:nth-of-type(31)
+
+
+
+
+
+moschange.ru##.container-fluid.page__wrapper > .js-social-floating.social-floating
+
+moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-social-floating.social-floating
+
+
+
+
+
+
+
+
+postnauka.ru###ad_h
+
+postnauka.ru###sb
+
+postnauka.ru###project
+
+postnauka.ru###m
+
+postnauka.ru###post > .text > .p-extra
+
+postnauka.ru###menu-courses
+
+postnauka.ru###p-head > .p-cat
+
+postnauka.ru##.notification__wrapper
+
+
+
+
+
+
+iscience.ru###secondary
+
+iscience.ru###post-13249 > .related-posts
+
+iscience.ru###post-13240 > .related-posts > .clearfix
+
+
+
+
+www.gosthelp.ru###ya_direct1 > div
+
+
+
+
+www.nat-geo.ru##.main-wrapper > .content > .section-wrapper > .section-box > .section-content > .section-item__active.section-item__article.section-item > .content-aside-box:nth-of-type(5)
+www.nat-geo.ru##.main-wrapper > .content > .section-wrapper > .section-box > .section-content > .section-item__article.section-item:nth-of-type(2) > .content-aside-box:nth-of-type(5)
+
+www.nat-geo.ru##.section-item__article.section-item:nth-of-type(1) > .content-aside-box:nth-of-type(5)
+
+www.nat-geo.ru##.section-item__active.section-item__article.section-item > .content-box-top.content-aside-box
+
+www.nat-geo.ru##.section-item__article.section-item:nth-of-type(2) > .section-content-body-column
+
+
+
+
+www.netall.ru##.DetailButtom
+
+www.netall.ru##.rightCol
+
+www.netall.ru##.leftCol
+
+www.netall.ru##.left_panel
+
+www.netall.ru##.right_panel
+
+www.netall.ru##body > table > tbody > tr:nth-of-type(5) > td:nth-of-type(1)
+
+www.netall.ru##.cont
+
+www.netall.ru###r_detail_bottom
+
+www.netall.ru##.podmain > div:nth-of-type(1) > table
+
+www.netall.ru##.detail_text > table
+
+www.netall.ru##.r_a
+
+
+
+
+id41.ru##.commerc_tp
+
+
+
+
+
+
+www.ozon.ru##.products-carousel
+
+
+
+
+
+magicair.tion.ru###shop-button
+
+
+
+
+
+
+
+
+
+
+
+www.yahoo.com###YDC-Stream
+
+
+
+
+
+lenta.ru###root > .js-topic.b-topic-layout > .g-layout > .row > .span12 > .b-article-sidebar > .b-yellow-box
+
+lenta.ru###root > .js-topic.b-topic-layout > .g-layout > .row > .span12 > .b-topic_article.b-topic > .b-links.b-topic-addition
+
+lenta.ru###root > .js-topic.b-topic-layout > .g-layout > .b-topic-addition.b-topic-longgrid
+
+lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(1)
+
+lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(3)
+
+lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(4)
+
+lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(6)
+
+lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(7)
+
+lenta.ru###root > .b-topic-layout > .g-layout > .row > .span4 > .b-yellow-box
+
+||lentaru.media.eagleplatform.com$subdocument
+lenta.ru##.b-video-box__info
+
+
+
+
+
+
+
+
+ria.ru##.b-article-popular
+*.ria.ru##.b-article-popular
+
+ria.ru##.b-comments
+*.ria.ru##.b-comments
+
+ria.ru##.recommend
+*.ria.ru##.recommend
+
+
+
+
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(11)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(7)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(3)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(13)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(17)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(21)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(5)
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote
+
+takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-base-format.content-720 > .text-quote
+
+
+
+
+
+
+
+www.bbc.com###page > div:nth-of-type(2) > .container > .column-clearfix.container--primary-and-secondary-columns > .column--primary > .story-more > .more-on-this-story.story-alsos.group
+
+
+
+
+
+
+post-tracker.ru##.maintable > tbody > tr:nth-of-type(1) > td > .mainfield > .content > table > tbody > tr > .menucellborder > .partner
+
+||post-tracker.ru/*.gif$image
+
+post-tracker.ru##[href="https://goo.gl/*"]
+
+post-tracker.ru##.counters
+
+
+
+
+
+securityxploded.com###ieed044fa0c834837ce8021f6a9ad9b566ccffeb7-container
+
+
+
+
+www.inoreader.com###sinner_container
+
+www.inoreader.com###sb_rp_upgrade_button
+
+www.inoreader.com###consent_bbb
+
+
+
+
+
+my-chrome.ru###main > .relap-default-wrapper > .relap-default-column-quantity-2.relap-default__with-under-header-line.relap-default__description-font-style-normal.relap-default__description-font-weight-400.relap-default__description-font-family-arial.relap-default__title-font-style-normal.relap-default__title-font-weight-400.relap-default__title-font-family-arial.relap-default__float-none.relap-default__block-title-font-style-normal.relap-default__block-title-font-weight-400.relap-default__block-title-font-family-arial.relap-default__view-strings.relap-default__widget-plain.relap-default__full-item-link.relap-default_img-size-5.relap-default__with-brand.\30 .js-relap__top-container.relap-default__top-container > .js-relap__items-container.relap-default__items-container
+
+my-chrome.ru###main > .relap-default-wrapper > .relap-default-column-quantity-2.relap-default__with-under-header-line.relap-default__description-font-style-normal.relap-default__description-font-weight-400.relap-default__description-font-family-arial.relap-default__title-font-style-normal.relap-default__title-font-weight-400.relap-default__title-font-family-arial.relap-default__float-none.relap-default__block-title-font-style-normal.relap-default__block-title-font-weight-400.relap-default__block-title-font-family-arial.relap-default__view-strings.relap-default__widget-plain.relap-default__full-item-link.relap-default_img-size-5.relap-default__with-brand.\30 .js-relap__top-container.relap-default__top-container > .relap-default__block-title
+
+
+
+
+
+
+eda.yandex##div.CatalogPageCarousel_root
+
+
+zen.yandex.ru##._has-animation-fit
+
+
+
+market.yandex.ru###journal-pages
+
+
+yandex.ru##.media-grid__media-content
+
+yandex.ru##.news__header
+
+||avatars.mds.yandex.net/get-vh$image
+yandex.ru##.thumb-preview_js_inited
+
+
+
+
+music.yandex.ru##.audio-advert__block
+
+music.yandex.ru##.app-sms_theme_banner.app-sms > .app-sms__content
+
+music.yandex.ru##.app-sms__content_details.app-sms__content
+
+music.yandex.ru##.footer-app-install
+
+! no
+!music.yandex.ru##.d-track__bubble
+
+! we want yandex misic without podcasts.
+music.yandex.ru##.page-main__line_podcasts
+music.yandex.ru##.auto-playlists__item_podcasts
+! additionally promotions is only stupid pops... with podcasts.
+music.yandex.ru##.page-main__line_promotions
+
+
+
+strm.yandex.ru/get-video-an/*
+
+
+
+zen.yandex.ru##.zen-app
+
+zen.yandex.ru##.article-recommender
+
+zen.yandex.ru##.article-similar
+
+zen.yandex.ru##.article-recommender-feed-title__title
+
+
+
+
+mail.yandex.ru###js-page > .b-page__content > .block-app > .js-layout.b-layout > .js-layout-left.b-layout__left > .block-folders > .b-folders > .b-folders__i > .b-folders_inbox__nesting.b-folders__nesting > .b-folders__nesting
+
+mail.yandex.ru###js-page > .b-page__content > .block-app > .js-layout.b-layout > .js-layout-left.b-layout__left > .block-informer-box > .block-informer-news > .b-news
+
+mail.yandex.ru###js-page > .b-page__content > .block-app > .js-layout.b-layout > .js-layout-left.b-layout__left > .block-folders > .b-folders > .b-folders__i > .b-folders_inbox__nesting.b-folders__nesting > .b-folders__nesting
+
+mail.yandex.ru##.js-mail-App.mail-App.ns-view-id-1.ns-view-app > .mail-App-Content > .ui-resizable.mail-Layout_2pane.js-mail-layout.mail-Layout > .mail-Layout-Inner > .mail-Layout-Aside_maximum.ui-resizable.js-layout-left.mail-Layout-Aside > .js-scroller-left.mail-Layout-Aside-Inner > .mail-Layout-Aside-Inner-Box.ns-view-id-6.ns-view-left-box > .mail-Informer-Box.ns-view-id-44.ns-view-informer-box > .mail-Informer-News.ns-view-id-45.ns-view-informer-news > .mail-News
+
+mail.yandex.ru##.mail-Informer-Box
+
+
+
+
+
+
+
+vc.ru##.b-container > .viewed.b-articles-p-w_sponsored.b-articles-p-w
+
+vc.ru##.b-container > .b-content-w-comments_live.b-content-w-comments.b-content-w > .b-content > .b-content__main-w
+
+vc.ru###best-articles-block-*
+
+vc.ru##.b-last-comments
+
+vc.ru##.js-popular-articles
+!vc.ru##.js-popular-articles.b-popular
+
+vc.ru##.js-best-articles
+! vc.ru##.js-best-articles.b-best
+
+
+
+
+
+
+ocean-media.su###sidebar
+
+
+
+
+
+
+
+
+fishki.net##.clearfix.container-slider-top.container
+
+fishki.net##.sidebar--right.sidebar
+
+fishki.net##.slider--captions > .inited.cycle-slideshow
+
+fishki.net##.slider--captions > .slider__arrow--left.slider__arrow
+
+fishki.net##.slider--captions > .slider__arrow--right.slider__arrow
+
+fishki.net##.related-posts-wrap
+
+
+
+
+
+
+novafilm.tv##.column.vatop.right
+
+
+
+
+
+
+
+
+
+www.ksv.ru##.a-toTop.a-side
+
+
+
+
+7tor.org##center
+
+7tor.org##tr:nth-of-type(7) > td
+
+
+
+
+
+
+www.1tv.ru##.footer
+
+
+
+
+! 22.03.2017, 19:59:04 https://tion.ru/shop/breezer/ перделка, звенелка, с мигающим значком звонка - отвлекает 
+!jivosite.com
+
+! 22.03.2017, 19:59:04 https://tion.ru/shop/breezer/
+!roistat.com
+
+! 22.03.2017, 19:59:04 https://tion.ru/shop/breezer/
+!mango-office.ru
+
+
+
+
+
+
+
+
+
+
+theoryandpractice.ru##.facebook__modal-overlay.show.overlay
+
+theoryandpractice.ru##.facebook__modalcontent-wrapper
+
+theoryandpractice.ru##.filter-popup.pop_up.facebook__modal
+
+
+
+
+
+
+translate.google.ru##.gb_g.gb_Lc.gb_kd
+
+
+
+
+
+
+
+
+lifehacker.ru##.article-card__middle
+
+lifehacker.ru##.other-content__sidebar-widgets
+
+lifehacker.ru##.zen-rotation__article-card
+
+lifehacker.ru##.left-sidebar
+
+lifehacker.ru##.above-comments-widgets__container
+
+
+
+
+
+
+
+windowstips.ru##.related-posts-content > .cactus-listing-wrap > .style-3.style-1.cactus-listing-config > .container > .row > .cactus-listing-content.col-md-12
+
+windowstips.ru##.title-related-post
+
+windowstips.ru##.test-class.main-sidebar-col.cactus-sidebar.col-md-4
+
+windowstips.ru###top-nav > .navbar-default.navbar > .container
+
+
+
+
+
+remontka.pro##.uk-width-medium-1-2.uk-width-1-1:nth-of-type(2)
+
+remontka.pro##.uk-width-medium-1-2.uk-width-1-1:nth-of-type(1)
+
+remontka.pro##.SPOSTARBUST-Related-Posts
+
+remontka.pro##.rem-linkdiv
+
+remontka.pro###nrelate_related_0
+
+remontka.pro##nav:nth-of-type(2) > .uk-panel-box-primary.uk-panel-box.uk-panel
+
+remontka.pro##aside > .uk-panel-box-primary.uk-panel-box.uk-panel
+
+
+
+
+
+
+
+www.popmech.ru##.slider_spec_proj
+
+www.popmech.ru##.feature
+
+www.popmech.ru##.social
+
+www.popmech.ru##.announces_list
+
+www.popmech.ru##.article-relevant-insertion
+
+
+
+
+
+
+
+
+pikabu.ru##.login_f
+
+pikabu.ru##.b-story-blocks.b-social
+
+
+
+
+www.native-english.ru##.wrapper > .in.alert_error.fade.alert
+
+
+
+
+
+
+
+www.xgay.ru###also_block
+
+www.xgay.ru###other_block
+
+www.xgay.ru###most_discussed
+
+www.xgay.ru##.right_column_target
+
+
+
+
+
+
+www.flightradar24.com###menuBlog
+
+www.flightradar24.com###menuTwitter
+
+
+
+
+
+
+
+
+spark.ru##.other_posts
+
+spark.ru###readAlsoBlock
+
+
+
+
+
+
+
+wikihow.com###side_related_articles
+
+wikihow.com###side_featured_articles
+
+
+
+
+
+
+
+tjournal.ru##.best_entries
+
+tjournal.ru##.live__item
+
+tjournal.ru##.live
+
+tjournal.ru##.live-wrapper
+
+tjournal.ru##.best_comments
+
+tjournal.ru##.entry_related_entries
+
+
+
+
+
+
+naked-science.ru##.no-mobile
+
+naked-science.ru##.pane-block-in-article-top-choice
+
+naked-science.ru##.content-right
+
+naked-science.ru##.pane-popular-articles
+
+naked-science.ru##.similar-node
+
+naked-science.ru##.section-node-popular
+
+naked-science.ru##.section-popular-footer
+
+naked-science.ru##.view-id-advertising_node
+
+naked-science.ru##.view-advertising-node
+
+naked-science.ru##.view-id-advertising_node_text_bottom
+
+naked-science.ru##.pane-node-similar
+
+naked-science.ru##.pane-advertising-sidebar
+
+naked-science.ru##.animate-custom
+
+
+
+
+
+
+
+nplus1.ru###latest
+
+nplus1.ru###also
+
+nplus1.ru###difficult
+
+nplus1.ru###wrapper-footer
+
+nplus1.ru###next
+
+nplus1.ru###earlier
+
+nplus1.ru###header > .line-up.container > .line-second.line
+
+
+
+
+
+rubrowsers.ru##.sidebar
+
+
+
+
+3dnews.ru###most-commented
+
+3dnews.ru##.relatedbox
+
+
+
+
+ixbt.com,www.ixbt.com##.block__newslist
+
+ixbt.com,www.ixbt.com##.b-ixbttv
+
+ixbt.com,www.ixbt.com##.block__rightnewslist
+
+ixbt.com,www.ixbt.com##.b-block__conflist
+
+prosound.ixbt.com##.ym-gbox-right
+
+
+
+
+4pda.ru##.materials-box
+
+
+
+
+welcomeworld.ru##.itemRelated
+
+welcomeworld.ru###yt_spotlight1 > .yt-main
+
+welcomeworld.ru###position-4
+
+
+
+
+www.m24.ru##.b-material-incut-themes-links
+
+www.m24.ru##.b-materials-slider
+
+www.m24.ru##.g-columns-right
+
+
+
+
+emojikeyboard.org##li:nth-of-type(13) > a[href="https://emojiconnect.net"]
+
+emojikeyboard.org###guessemoji_ad
+
+
+
+varlamov.ru##.j-e-afterpost
+
+
+
+
+
+proglib.io##.td-pb-border-top
+
+
+
+
+toster.ru##.panel-heading_inner
+
+
+
+
+www.zelenograd.ru##.news-item_theme_advertising
+
+www.zelenograd.ru##.news-item_banner1
+
+
+
+
+
+
+tech.onliner.by##.news-popular
+
+
+
+||experience.tripster.ru/partner/$subdocument
+
+
+
+skepticsociety.ru##.yuzo_related_post
+
+skepticsociety.ru##.yuzo_related_post_widget
+
+skepticsociety.ru###yuzo_widget-3
+
+
+
+lk.megafon.ru##.lk_banner_large
+
+lk.megafon.ru##.lk_banner_mid
+
+mobilebanner.ru
+
+megafonpro.ru
+
+
+
+joyreactor.cc##.sidebar_block
+
+joyreactor.cc##.blog_results
+
+joyreactor.cc##.mainheader
+
+joyreactor.cc###contentinner > table
+
+rxjqpt.joyreactor.cc
+
+
+
+www.sobyanin.ru##.see-also
+
+www.sobyanin.ru##.see-also-header
+
+
+
+m.vedomosti.ru##.more_preview__content
+
+
+
+
+www.utorrent.com##.container:nth-of-type(1) > .span12
+
+
+
+
+medialeaks.ru##.seealso
+
+medialeaks.ru##.-ns-more
+
+medialeaks.ru##.post_most_popular
+
+medialeaks.ru##.native_block
+
+medialeaks.ru###tlg_link_aftertext
+
+
+
+
+
+www.utorrent.com##.container:nth-of-type(1) > .span12
+
+
+
+
+||www.onlime.ru/warning.php$subdocument
+
+
+
+
+
+www.mk.ru##.main__left-column
+
+www.mk.ru##.main__right-column
+
+www.mk.ru###article > aside
+
+www.mk.ru##.breaking-news
+
+
+
+
+www.znak.com##.bytags
+
+www.znak.com##div.c1-ads
+
+www.znak.com##.news
+
+www.znak.com##.rubber-wrapper
+
+www.znak.com##.x1
+
+
+
+
+
+
+
+
+
+
+moscowwalks.ru##.related_post
+
+moscowwalks.ru##.related_post_title
+
+
+
+
+
+printbar.ru##.productCard__features-madeInRussia
+
+printbar.ru##.line-ark
+
+printbar.ru##.happy_clients
+
+printbar.ru##.nreviews__title
+
+printbar.ru##.spinner__fix
+
+
+
+22century.ru##.content_sidebar_wrapper
+
+22century.ru##.further_block
+
+
+
+
+www.speedtest.net##.eot-dd-content
+
+speedtest.net##.eot-dd-content
+
+
+
+
+||lk.cdek.ru/*.gif$image
+
+
+
+
+
+msk.tele2.ru##.combined-offers
+
+
+
+
+lk.megafon.ru##.ng_personal_popup_start
+
+lk.megafon.ru##.ng_personal_popup
+
+
+
+
+tass.ru##.news-content_default
+
+
+
+
+www.rbc.ru###js_col_left
+www.rbc.ru###js-rbcslider-slide
+
+
+
+www.kommersant.ru##.sticky_box_400
+www.kommersant.ru##.sticky_box
+
+
+
+akket.com##div.posts_uni
+akket.com##.tagcloud
+akket.com###sidebar
+akket.com###interesting_articles
+akket.com###interesting_articles_google
+akket.com##.navleft
+akket.com##.botnavi
+
+
+
+
+www.techwalla.com##.right-rail
+www.techwalla.com###jwplayer-section
+
+
+
+
+likeyou.io###sidebar
+likeyou.io##.artItems
+
+
+
+
+
+
+||userstyles.org/ui/images/280x294.png$image
+userstyles.org##.fallbackDiv
+
+
+
+
+
+aliexpress.com##.gps-recommend-wrap
+*.aliexpress.com##.gps-recommend-wrap
+
+aliexpress.com##.gps-recommend-dialog-title
+*.aliexpress.com##.gps-recommend-dialog-title
+
+
+
+
+archspeech.com###notification_response
+
+archspeech.com##.right-side-list
+
+archspeech.com##.relative-posts.main-wrap
+
+
+
+
+
+wikium.ru,www.wikium.net##.news
+
+wikium.ru,www.wikium.net##.footer
+
+wikium.ru,www.wikium.net##.train-sidenav
+
+wikium.ru,www.wikium.net##.header__premium-btn
+
+wikium.ru,www.wikium.net##.header__premium-btn--animation
+
+
+
+
+
+www.boincstats.com###japie
+
+www.boincstats.com##.tableAd
+
+
+
+
+
+
+
+
+www.1tv.ru##div.slick-slide
+
+www.1tv.ru##.slick-slider
+
+
+
+
+
+www.nsnews.com###adBoxWithLinksContainer
+
+www.nsnews.com##.article-continues
+
+www.nsnews.com###relatedElementsLinks
+
+
+
+
+
+www.last.fm##li.js-link-block.features-footer-item
+
+
+
+
+! мигающее, дёргающее, ездющее по экрану нечто -> удалить. Сайт плохой. Еда дорогая, пользоваться не нужно.
+levelkitchen.com##.container.ticker
+
+levelkitchen.com##.swiper-container
+
+
+
+||www.rlsnet.ru/images/banners
+
+
+
+
+zdravcity.ru##.b-donations
+
+zdravcity.ru##.b-main-banner-new
+
+zdravcity.ru##.js-slider-brand-new-container
+
+zdravcity.ru##.b-slider-main-new--product
+
+zdravcity.ru##.b-slider-main-new--banner
+
+
+
+
+
+docs.exponenta.ru##.splash
+
+
+
+!!!www.youtube.com###secondary
+
+www.youtube.com##ytd-watch-next-secondary-results-renderer
+
+
+
+
+roskomsvoboda.org##.article.article_type-2
+
+
+
+lasky.ru###cookie_notification
+
+
+
+afisha.ru##.js-hover-item
+
+afisha.ru##.article-details
+
+afisha.ru##.js-recommends-block
+
+afisha.ru##.afisha-recommends
+
+afisha.ru##.yandex-dzen
+
+afisha.ru##.another-materials
+
+afisha.ru##noindex
