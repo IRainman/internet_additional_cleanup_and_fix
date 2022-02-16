@@ -1,7 +1,7 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Expires: 1 days
-! 2022.02.01 12:40 UTC+3
+! 2022.02.16 12:40 UTC+3
 
 
 @@studia2000.sytes.net
@@ -1342,3 +1342,11 @@ afisha.ru##.yandex-dzen
 afisha.ru##.another-materials
 
 afisha.ru##noindex
+
+
+
+||gorzdrav.org/medias/21-1-1920x120.jpg$image
+
+
+cian.ru###similarOffers
+
