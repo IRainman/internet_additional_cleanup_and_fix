@@ -1347,3 +1347,7 @@ afisha.ru##noindex
 
 cian.ru###similarOffers
 
+
+# cleanup for toxic news
+yandex.ru/news
+zen.yandex.ru
