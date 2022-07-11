@@ -1348,6 +1348,10 @@ afisha.ru##noindex
 
 
 
+rlsnet.ru##.js-banner-group
+rlsnet.ru##.b-tile-banner-wrap
+
+
 lk.mgts.ru###zoneBottomCarousel
 lk.mgts.ru###news
 
