@@ -1031,6 +1031,8 @@ skepticsociety.ru###yuzo_widget-3
 
 lk.megafon.ru##.lk_banner_large
 
+lk.megafon.ru##.available-options-interesting
+
 lk.megafon.ru##.lk_banner_mid
 
 mobilebanner.ru
