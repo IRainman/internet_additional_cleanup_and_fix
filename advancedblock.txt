@@ -1,7 +1,7 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Expires: 1 days
-! 2022.11.07 12:06 UTC+3
+! 2022.11.21 07:27 UTC+6
 
 
 
@@ -1363,6 +1363,13 @@ rlsnet.ru##.b-tile-banner-wrap
 
 lk.mgts.ru###zoneBottomCarousel
 lk.mgts.ru###news
+
+||live.mts.ru/widget-mtsru$subdocument
+||goodok.mts.ru$subdocument
+lk.mts.ru##.goodok
+||widget.kion.ru$subdocument
+lk.mts.ru##.ng-trigger-toggleBanner
+lk.ssl.mts.ru##.banner
 
 ||gorzdrav.org/medias/21-1-1920x120.jpg$image
 
