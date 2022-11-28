@@ -1,23 +1,13 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Expires: 1 days
-! 2022.11.21 07:27 UTC+6
+! 2022.11.28 12:48 UTC+6
 
 
 
 leroymerlin.ru##.main > .drpdwn > .inner > .tng
 
-||leroymerlin.ru/upload/iblock/dbe/okna_1248x300_4_.jpg$image
-
-leroymerlin.ru###blockimgslider:nth-of-type(1) > .owl-wrapper-outer > .owl-wrapper
-
 leroymerlin.ru###progressBar
-
-leroymerlin.ru###blockimgslider:nth-of-type(1) > .clickable.owl-controls
-
-leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn > .inner > a[href="/nckd/"]
-
-leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn > .inner
 
 leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
 
@@ -174,45 +164,9 @@ habr.com##.tm-sexy-sidebar_stick-top
 
 
 
-
-
-
-
-
-
-
-
 ! Exclude fix for the error in the list located here hg.adblockplus.org/ruadlist/raw-file/tip/bitblock/annoyance_specific_block.txt 
 ! Login page isn't working
 @@printdirect.ru/crud/model_call
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-my.mail.ru###menu-app-list
-
-*.mail.ru##div.article__item_teaser_article
-
-mail.ru###grid\:middle
 
 
 
@@ -231,14 +185,6 @@ winaero.com###post-8009 > .entry-header > .entry-line-header
 winaero.com##.entry-line-header > strong
 
 winaero.com##.entry-header > div:nth-of-type(1)
-
-
-
-
-
-www.solidfiles.com###dlm-btn[href^="http://sfl.rbk.downloadfilesnow.info/handle"]
-
-
 
 
 
@@ -320,31 +266,9 @@ www.macdigger.ru##._panaur-popover._panaur-welcome
 
 
 
-www.adme.ru###js-aside-recommend-block > .gallery-more.article-list
-
-www.adme.ru###js-aside
-
-www.adme.ru##.page > .footer-placeholder.wrap > .container > .more-articles-container > .js-article-more-list.gallery-more.article-list
-
-www.adme.ru##.page > .footer-placeholder.wrap > .container > .more-articles-container > .js-article-more-link.article-more[href="#"]
-
-www.adme.ru##.page > .footer-placeholder.wrap > .container > .more-articles-container > .gallery-more-title.theme-title
-
-www.adme.ru###js-article-content > .js-article-content.article > p:nth-of-type(9)
-
-www.adme.ru###js-block-2444215 > p:nth-of-type(31)
-
-
-
-
-
 moschange.ru##.container-fluid.page__wrapper > .js-social-floating.social-floating
 
 moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-social-floating.social-floating
-
-
-
-
 
 
 
@@ -372,9 +296,7 @@ postnauka.ru##.notification__wrapper
 
 iscience.ru###secondary
 
-iscience.ru###post-13249 > .related-posts
-
-iscience.ru###post-13240 > .related-posts > .clearfix
+iscience.ru##.related-posts
 
 
 
@@ -420,11 +342,7 @@ www.netall.ru##.r_a
 
 
 
-
 id41.ru##.commerc_tp
-
-
-
 
 
 
@@ -432,63 +350,11 @@ www.ozon.ru##.products-carousel
 
 
 
-
-
 magicair.tion.ru###shop-button
 
 
 
-
-
-
-
-
-
-
-
 www.yahoo.com###YDC-Stream
-
-
-
-
-
-lenta.ru###root > .js-topic.b-topic-layout > .g-layout > .row > .span12 > .b-article-sidebar > .b-yellow-box
-
-lenta.ru###root > .js-topic.b-topic-layout > .g-layout > .row > .span12 > .b-topic_article.b-topic > .b-links.b-topic-addition
-
-lenta.ru###root > .js-topic.b-topic-layout > .g-layout > .b-topic-addition.b-topic-longgrid
-
-lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(1)
-
-lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(3)
-
-lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(4)
-
-lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(6)
-
-lenta.ru###root > .js-tabloid.b-tabloid > .g-layout > .row.b-tabloid__row:nth-of-type(7)
-
-lenta.ru###root > .b-topic-layout > .g-layout > .row > .span4 > .b-yellow-box
-
-||lentaru.media.eagleplatform.com$subdocument
-lenta.ru##.b-video-box__info
-
-
-
-
-
-
-
-
-ria.ru##.b-article-popular
-*.ria.ru##.b-article-popular
-
-ria.ru##.b-comments
-*.ria.ru##.b-comments
-
-ria.ru##.recommend
-*.ria.ru##.recommend
-
 
 
 
@@ -513,30 +379,18 @@ takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-base-fo
 
 
 
+www.bbc.com##.story-more
 
 
 
 
-www.bbc.com###page > div:nth-of-type(2) > .container > .column-clearfix.container--primary-and-secondary-columns > .column--primary > .story-more > .more-on-this-story.story-alsos.group
-
-
-
-
-
-
-post-tracker.ru##.maintable > tbody > tr:nth-of-type(1) > td > .mainfield > .content > table > tbody > tr > .menucellborder > .partner
+post-tracker.ru##.partner
 
 ||post-tracker.ru/*.gif$image
 
 post-tracker.ru##[href="https://goo.gl/*"]
 
 post-tracker.ru##.counters
-
-
-
-
-
-securityxploded.com###ieed044fa0c834837ce8021f6a9ad9b566ccffeb7-container
 
 
 
@@ -550,20 +404,7 @@ www.inoreader.com###consent_bbb
 
 
 
-
-my-chrome.ru###main > .relap-default-wrapper > .relap-default-column-quantity-2.relap-default__with-under-header-line.relap-default__description-font-style-normal.relap-default__description-font-weight-400.relap-default__description-font-family-arial.relap-default__title-font-style-normal.relap-default__title-font-weight-400.relap-default__title-font-family-arial.relap-default__float-none.relap-default__block-title-font-style-normal.relap-default__block-title-font-weight-400.relap-default__block-title-font-family-arial.relap-default__view-strings.relap-default__widget-plain.relap-default__full-item-link.relap-default_img-size-5.relap-default__with-brand.\30 .js-relap__top-container.relap-default__top-container > .js-relap__items-container.relap-default__items-container
-
-my-chrome.ru###main > .relap-default-wrapper > .relap-default-column-quantity-2.relap-default__with-under-header-line.relap-default__description-font-style-normal.relap-default__description-font-weight-400.relap-default__description-font-family-arial.relap-default__title-font-style-normal.relap-default__title-font-weight-400.relap-default__title-font-family-arial.relap-default__float-none.relap-default__block-title-font-style-normal.relap-default__block-title-font-weight-400.relap-default__block-title-font-family-arial.relap-default__view-strings.relap-default__widget-plain.relap-default__full-item-link.relap-default_img-size-5.relap-default__with-brand.\30 .js-relap__top-container.relap-default__top-container > .relap-default__block-title
-
-
-
-
-
-
 eda.yandex##div.CatalogPageCarousel_root
-
-
-zen.yandex.ru##._has-animation-fit
 
 
 
@@ -575,8 +416,10 @@ yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
 
 ||avatars.mds.yandex.net/get-vh$image
+
 yandex.ru##.thumb-preview_js_inited
 
+yandex.ru##.home-panel-content-view__body
 
 
 
@@ -587,45 +430,6 @@ music.yandex.ru##.app-sms_theme_banner.app-sms > .app-sms__content
 music.yandex.ru##.app-sms__content_details.app-sms__content
 
 music.yandex.ru##.footer-app-install
-
-! no
-!music.yandex.ru##.d-track__bubble
-
-! we want yandex misic without podcasts.
-music.yandex.ru##.page-main__line_podcasts
-music.yandex.ru##.auto-playlists__item_podcasts
-! additionally promotions is only stupid pops... with podcasts.
-music.yandex.ru##.page-main__line_promotions
-
-
-
-strm.yandex.ru/get-video-an/*
-
-
-
-zen.yandex.ru##.zen-app
-
-zen.yandex.ru##.article-recommender
-
-zen.yandex.ru##.article-similar
-
-zen.yandex.ru##.article-recommender-feed-title__title
-
-
-
-
-mail.yandex.ru###js-page > .b-page__content > .block-app > .js-layout.b-layout > .js-layout-left.b-layout__left > .block-folders > .b-folders > .b-folders__i > .b-folders_inbox__nesting.b-folders__nesting > .b-folders__nesting
-
-mail.yandex.ru###js-page > .b-page__content > .block-app > .js-layout.b-layout > .js-layout-left.b-layout__left > .block-informer-box > .block-informer-news > .b-news
-
-mail.yandex.ru###js-page > .b-page__content > .block-app > .js-layout.b-layout > .js-layout-left.b-layout__left > .block-folders > .b-folders > .b-folders__i > .b-folders_inbox__nesting.b-folders__nesting > .b-folders__nesting
-
-mail.yandex.ru##.js-mail-App.mail-App.ns-view-id-1.ns-view-app > .mail-App-Content > .ui-resizable.mail-Layout_2pane.js-mail-layout.mail-Layout > .mail-Layout-Inner > .mail-Layout-Aside_maximum.ui-resizable.js-layout-left.mail-Layout-Aside > .js-scroller-left.mail-Layout-Aside-Inner > .mail-Layout-Aside-Inner-Box.ns-view-id-6.ns-view-left-box > .mail-Informer-Box.ns-view-id-44.ns-view-informer-box > .mail-Informer-News.ns-view-id-45.ns-view-informer-news > .mail-News
-
-mail.yandex.ru##.mail-Informer-Box
-
-
-
 
 
 
@@ -639,20 +443,13 @@ vc.ru###best-articles-block-*
 vc.ru##.b-last-comments
 
 vc.ru##.js-popular-articles
-!vc.ru##.js-popular-articles.b-popular
 
 vc.ru##.js-best-articles
-! vc.ru##.js-best-articles.b-best
-
-
 
 
 
 
 ocean-media.su###sidebar
-
-
-
 
 
 
@@ -674,51 +471,11 @@ fishki.net##.related-posts-wrap
 
 
 
-
 novafilm.tv##.column.vatop.right
 
 
 
-
-
-
-
-
-
 www.ksv.ru##.a-toTop.a-side
-
-
-
-
-7tor.org##center
-
-7tor.org##tr:nth-of-type(7) > td
-
-
-
-
-
-
-www.1tv.ru##.footer
-
-
-
-
-! 22.03.2017, 19:59:04 https://tion.ru/shop/breezer/ перделка, звенелка, с мигающим значком звонка - отвлекает 
-!jivosite.com
-
-! 22.03.2017, 19:59:04 https://tion.ru/shop/breezer/
-!roistat.com
-
-! 22.03.2017, 19:59:04 https://tion.ru/shop/breezer/
-!mango-office.ru
-
-
-
-
-
-
-
 
 
 
@@ -727,17 +484,6 @@ theoryandpractice.ru##.facebook__modal-overlay.show.overlay
 theoryandpractice.ru##.facebook__modalcontent-wrapper
 
 theoryandpractice.ru##.filter-popup.pop_up.facebook__modal
-
-
-
-
-
-
-translate.google.ru##.gb_g.gb_Lc.gb_kd
-
-
-
-
 
 
 
@@ -755,9 +501,6 @@ lifehacker.ru##.above-comments-widgets__container
 
 
 
-
-
-
 windowstips.ru##.related-posts-content > .cactus-listing-wrap > .style-3.style-1.cactus-listing-config > .container > .row > .cactus-listing-content.col-md-12
 
 windowstips.ru##.title-related-post
@@ -770,17 +513,11 @@ windowstips.ru###top-nav > .navbar-default.navbar > .container
 
 
 
-remontka.pro##.uk-width-medium-1-2.uk-width-1-1:nth-of-type(2)
-
-remontka.pro##.uk-width-medium-1-2.uk-width-1-1:nth-of-type(1)
-
 remontka.pro##.SPOSTARBUST-Related-Posts
 
 remontka.pro##.rem-linkdiv
 
 remontka.pro###nrelate_related_0
-
-remontka.pro##nav:nth-of-type(2) > .uk-panel-box-primary.uk-panel-box.uk-panel
 
 remontka.pro##aside > .uk-panel-box-primary.uk-panel-box.uk-panel
 
@@ -815,8 +552,6 @@ pikabu.ru##.b-story-blocks.b-social
 
 
 www.native-english.ru##.wrapper > .in.alert_error.fade.alert
-
-
 
 
 
@@ -934,9 +669,6 @@ nplus1.ru###header > .line-up.container > .line-second.line
 
 
 
-rubrowsers.ru##.sidebar
-
-
 
 
 3dnews.ru###most-commented
@@ -972,16 +704,6 @@ welcomeworld.ru###position-4
 
 
 
-
-www.m24.ru##.b-material-incut-themes-links
-
-www.m24.ru##.b-materials-slider
-
-www.m24.ru##.g-columns-right
-
-
-
-
 emojikeyboard.org##li:nth-of-type(13) > a[href="https://emojiconnect.net"]
 
 emojikeyboard.org###guessemoji_ad
@@ -1009,11 +731,7 @@ www.zelenograd.ru##.news-item_theme_advertising
 www.zelenograd.ru##.news-item_banner1
 
 
-
-
-
-
-tech.onliner.by##.news-popular
+onliner.by##.news-popular
 
 
 
@@ -1029,15 +747,15 @@ skepticsociety.ru###yuzo_widget-3
 
 
 
-lk.megafon.ru##.lk_banner_large
+lk.megafon.ru##.ng_personal_popup_start
 
-lk.megafon.ru##.available-options-interesting
+lk.megafon.ru##.ng_personal_popup
+
+lk.megafon.ru##.lk_banner_large
 
 lk.megafon.ru##.lk_banner_mid
 
-mobilebanner.ru
-
-megafonpro.ru
+lk.megafon.ru##.available-options-interesting
 
 
 
@@ -1049,22 +767,11 @@ joyreactor.cc##.mainheader
 
 joyreactor.cc###contentinner > table
 
-rxjqpt.joyreactor.cc
-
 
 
 www.sobyanin.ru##.see-also
 
 www.sobyanin.ru##.see-also-header
-
-
-
-m.vedomosti.ru##.more_preview__content
-
-
-
-
-www.utorrent.com##.container:nth-of-type(1) > .span12
 
 
 
@@ -1169,25 +876,6 @@ msk.tele2.ru##.combined-offers
 
 
 
-lk.megafon.ru##.ng_personal_popup_start
-
-lk.megafon.ru##.ng_personal_popup
-
-
-
-
-tass.ru##.news-content_default
-
-
-
-
-www.rbc.ru###js_col_left
-www.rbc.ru###js-rbcslider-slide
-
-
-
-www.kommersant.ru##.sticky_box_400
-www.kommersant.ru##.sticky_box
 
 
 
@@ -1267,14 +955,6 @@ www.boincstats.com##.tableAd
 
 
 
-www.1tv.ru##div.slick-slide
-
-www.1tv.ru##.slick-slider
-
-
-
-
-
 www.nsnews.com###adBoxWithLinksContainer
 
 www.nsnews.com##.article-continues
@@ -1290,7 +970,6 @@ www.last.fm##li.js-link-block.features-footer-item
 
 
 
-! мигающее, дёргающее, ездющее по экрану нечто -> удалить. Сайт плохой. Еда дорогая, пользоваться не нужно.
 levelkitchen.com##.container.ticker
 
 levelkitchen.com##.swiper-container
@@ -1334,10 +1013,6 @@ www.youtube.com##ytd-watch-next-secondary-results-renderer
 
 
 roskomsvoboda.org##.article.article_type-2
-
-
-
-lasky.ru###cookie_notification
 
 
 
