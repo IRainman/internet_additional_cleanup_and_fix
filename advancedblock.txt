@@ -16,6 +16,8 @@ leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wra
 
 habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
 
+habr.com##.tm-block_spacing-bottom
+
 habr.com##.dont-add-our-site-pls
 
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
