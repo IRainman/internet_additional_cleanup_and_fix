@@ -502,6 +502,8 @@ lifehacker.ru##.left-sidebar
 
 lifehacker.ru##.above-comments-widgets__container
 
+lifehacker.ru##.widgets-renderer
+
 
 
 
