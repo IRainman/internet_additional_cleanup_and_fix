@@ -179,7 +179,6 @@
 ||clickcashmoney.com
 ||church.by
 ||cont.ws
-||cyclowiki.org
 ||czarizm.ru
 ||dayonline.ru
 ||diaconia.ru
@@ -346,7 +345,6 @@
 ||wink.ru
 ||worldcongress.*
 ||worldluxrealty.com
-||wikireality.ru
 ||wsws.org
 ||xn--80aa3aekaebe4a6lc.xn--p1ai
 ||xn--h1ajim.xn--p1ai
