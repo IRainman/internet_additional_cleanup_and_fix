@@ -105,6 +105,7 @@
 ||gredclicks.club
 ||imaill.*
 ||interfax.ru
+||interfax-russia.ru
 ||kp.ru
 ||lenta.ru
 ||megaffon.ru
