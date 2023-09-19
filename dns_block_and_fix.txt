@@ -332,6 +332,7 @@
 ||ura.news
 ||uralinform.ru
 ||uchkom.info
+||uncyclopedia.co
 ||v-pravda.ru
 ||vizitnlo.ru
 ||vgtrk.ru
