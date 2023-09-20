@@ -1,3 +1,5 @@
+# Title: HedgehogInTheCPP additional list
+# Description: This is the my extendent DNS filter lists. Suitable and tested only with AdGuard Home.
 @@||xray.mail.ru^
 @@||cdn.eapteka.ru^
 @@||leechers-paradise.org^
