@@ -12,7 +12,8 @@
 ||24h.tv
 ||2tv.center
 ||5-tv.ru
-||cdnvideo.ru
+#bug on Avito sites
+#||cdnvideo.ru
 ||chas.tv
 ||ctc.ru
 ||debilizator.tv
