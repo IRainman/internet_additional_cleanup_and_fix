@@ -6,7 +6,7 @@
 @@||newslink.reuters.com^
 ##################################################################################
 # IP-TV bad
-/^(oneliketv.*|telik.*|tivix.*|teledays.*|smotret.*|smotrim.*|gtrk.*|vesti.*|russia.*|rus.*)\.(tv|ru|cc|live|co?|net)$/
+/^(oneliketv\.|telik\.|tivix\.|teledays\.|smotret\.|smotrim\.|gtrk\.|vesti\.|russia\.|rus\.)\.(tv|ru|cc|live|co?|net)$/
 ||1internet.tv
 ||1tv.ru
 ||24h.tv
