@@ -302,6 +302,7 @@
 ||rustoria.ru
 ||rusvesna.su
 ||rutube.ru
+||ruwiki.ru
 ||ryb.ru
 ||sevastopol.su
 ||shock-news.net
