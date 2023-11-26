@@ -64,7 +64,6 @@
 ||clickpush.biz
 ||commontools.net
 ||creofun.com
-||criteo.*
 ||crwdcntrl.net
 ||curiousblogs.com
 ||dealply.com
@@ -108,11 +107,8 @@
 ||msads.net
 ||msecn.net
 ||mydas.mobi
-||nashstore.ru
 ||news-assets.rovio.com
 ||nexage.com
-||nnn.ru
-||nnm.club
 ||opencandy.com
 ||piguiqproxy.com
 ||profitboosterapp.com
@@ -121,7 +117,6 @@
 ||radarurl.com
 ||redichat.com
 ||revsci.net
-||rtb-media.ru
 ||rubiconproject.com
 ||rutarget.ru
 ||samilia.ru
@@ -182,7 +177,6 @@
 ||top-fwz1.mail.ru
 ||news.mail.ru
 ||browser.ru
-#||mail.ru
 ##################################################################################
 # Google
 ||googlesyndication.com
@@ -201,8 +195,4 @@
 #||clck.yandex.*
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
 #avatars-fast.yandex.*
-#||yandex.ru
-#||yandex.com
 ||browser.yandex.ru
-# war propaganda for child
-||razgovor.edsoo.ru
