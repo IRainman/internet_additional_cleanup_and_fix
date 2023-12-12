@@ -1014,6 +1014,8 @@ docs.exponenta.ru##.splash
 
 !!!www.youtube.com###secondary
 
+www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 
 
