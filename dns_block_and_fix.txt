@@ -1,9 +1,10 @@
 # Title: HedgehogInTheCPP additional list
 # Description: This is the my extendent DNS filter and fix list. Suitable and tested only with AdGuard Home.
 @@||xray.mail.ru^$important
-@@||stats.mos.ru
+@@||stats.mos.ru^$important
 @@||cdn.eapteka.ru^$important
 @@||leechers-paradise.org^$important
+@@||lgbtdom.com^$important
 @@||newslink.reuters.com^$important
 @@||international^$important
 @@||x230.0fees.us^$important
