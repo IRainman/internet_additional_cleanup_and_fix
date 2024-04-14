@@ -175,20 +175,9 @@ habr.com##.tm-stories-block
 
 
 
-
-winaero.com###content > .hentry.format-standard.status-publish.type-post.post > .entry-header > div:nth-of-type(1) > strong
-
-winaero.com###post-tweaker > .entry-content > div:nth-of-type(1) > .fborder > tbody > tr:nth-of-type(2) > td
-
 winaero.com###headright
-
-winaero.com###post-tweaker > .entry-content > div:nth-of-type(1) > .fborder > tbody > tr:nth-of-type(2) > td
-
-winaero.com###post-8009 > .entry-header > .entry-line-header
-
-winaero.com##.entry-line-header > strong
-
-winaero.com##.entry-header > div:nth-of-type(1)
+winaero.com##.windiv
+winaero.com###indbl
 
 
 
