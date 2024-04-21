@@ -1,7 +1,7 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Expires: 1 days
-! 2024.04.17 11:49 UTC+3
+! 2024.04.21 19:04 UTC+3
 
 
 
@@ -165,6 +165,8 @@ habr.com##.default-block_content.default-block
 habr.com##.tm-sexy-sidebar_stick-top
 
 habr.com##.tm-stories-block
+
+habr.com##.habr-block-megaposts__container
 
 
 
