@@ -8,6 +8,7 @@
 @@||international^$important
 @@||x230.0fees.us^$important
 @@||imgsmail.ru^$important
+@@||bodis.com^$important
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru
