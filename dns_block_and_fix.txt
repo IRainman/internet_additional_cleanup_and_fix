@@ -9,6 +9,7 @@
 @@||x230.0fees.us^$important
 @@||imgsmail.ru^$important
 @@||bodis.com^$important
+@@||rarbg.me^$important
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru
