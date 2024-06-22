@@ -985,14 +985,14 @@ docs.exponenta.ru##.splash
 
 
 
-!!!www.youtube.com###secondary
+www.youtube.com###secondary
 
-www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
-www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
-www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
-||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
+!www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
+!www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
+!www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
+!||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
 
-www.youtube.com##ytd-watch-next-secondary-results-renderer
+!www.youtube.com##ytd-watch-next-secondary-results-renderer
 
 
 
