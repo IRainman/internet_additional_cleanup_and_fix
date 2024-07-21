@@ -492,6 +492,13 @@ windowstips.ru###top-nav > .navbar-default.navbar > .container
 
 
 
+winaero.com##.winrec
+
+winaero.com##div.windiv
+
+
+
+
 
 remontka.pro##.SPOSTARBUST-Related-Posts
 
