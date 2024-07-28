@@ -1,7 +1,7 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Expires: 1 days
-! 2024.07.28 14:20 UTC+3
+! 2024.07.28 15:40 UTC+3
 
 
 
@@ -40,69 +40,37 @@ habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_links.block
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .no_bg.twitter_stream.block
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_widget > .announce
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .firskill__label[href="https://special.habr.com/advertising/"]
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right > .company_widgets
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right > .corporate_blog.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .content_left > .company_post > .block_after_post > .similar-posts
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .similar-posts_full.similar-posts > .similar-posts__title
-
 habr.com###adriver_banner_1109509440 > .html_banner_text
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .wrapper-sticky > .is_visible.js-ad_sticky
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.xyz_wrapper
-
 habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .sticky-active.wrapper-sticky > .sticky.js-ad_sticky
-
 habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .is_visible.xyz_wrapper
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .html_banner_wrap > .firskill__label
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .content-list_similar-posts.content-list
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-
 habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .wrapper-sticky > .js-ad_sticky > .xyz_wrapper
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_content-area.sidebar_right
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .content-list_similar-posts.content-list
-
 habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-
 habr.com##.layout > .layout__base > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .similar-posts_full.similar-posts
-
 habr.com##.layout > .layout__base > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_geektimes.live-broadcast > .live-broadcast__title
-
 habr.com##.layout > .layout__base > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
-
 habr.com##.layout > .layout__base > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper
-
 habr.com##.similar-posts
-
 habr.com##.similar-posts:nth-of-type(2)
-
 habr.com##.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-
 habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .default-block
-
 habr.com##.js-sidebar_right.sidebar_right > .default-block_content.default-block
-
 habr.com##.default-block_content.default-block:nth-of-type(2)
-
 habr.com##.default-block_content.default-block:nth-of-type(4)
-
 habr.com##.js-sidebar_right.sidebar_right > .default-block_content.default-block
-
 habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .default-block
-
 habr.com##.sidebar_right > .default-block_content.default-block
 
 habr.com##.default-block_content.default-block:nth-of-type(4)
@@ -158,11 +126,8 @@ moslenta.ru##.social-floating
 
 
 www.moya-planeta.ru##.relap-default__visible.relap-default__animate.relap-default__pos-right.relap-default__with-shadow.relap-default__popup-container
-
 www.moya-planeta.ru###interview_popup_topper
-
 www.moya-planeta.ru###interview_popup_mider
-
 www.moya-planeta.ru###ajax_pageload_block_23848 > .standart_table > tbody > tr > .standart_table_right
 
 
@@ -215,7 +180,6 @@ www.macdigger.ru##._panaur-popover._panaur-welcome
 
 
 moschange.ru##.container-fluid.page__wrapper > .js-social-floating.social-floating
-
 moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-social-floating.social-floating
 
 
