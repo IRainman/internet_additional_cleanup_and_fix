@@ -6,68 +6,39 @@
 
 
 leroymerlin.ru##.main > .drpdwn > .inner > .tng
-
 leroymerlin.ru###progressBar
-
 leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
 
 
 
 
 habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
-
 habr.com##.tm-block_spacing-bottom
-
 habr.com##.dont-add-our-site-pls
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-
 habr.com###broadcast_tabs_posts > .menu_inline.menu.tabs__menu_posts.tabs__menu
-
 habr.com###broadcast_posts_now
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .similar_questions.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .similar-posts__title
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .privet > .firskill__label[href="https://special.habr.com/advertising/"]
-
 habr.com###layout > .inner > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-
 habr.com###broadcast_tabs_comments > .menu_inline.menu.tabs__menu_comments.tabs__menu
-
 habr.com###broadcast_comments_now
-
 habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .similar-posts__title
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .float_block.corporate_blog.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_geektimes.live-broadcast > .live-broadcast__title
-
 habr.com###layout > .inner > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_geektimes.live-broadcast > .live-broadcast__title
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .corporate_blog.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .corporate_news.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_links.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .no_bg.twitter_stream.block
-
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_widget > .announce
 
 habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .firskill__label[href="https://special.habr.com/advertising/"]
@@ -386,29 +357,25 @@ eda.yandex##div.CatalogPageCarousel_root
 
 
 market.yandex.ru###journal-pages
-
-market.yandex.ru##.premiumIncutDesktop
+market.yandex.ru##.premiumIncutDeskto
+#market.yandex.ru###ServerLayoutRendererp
+market.yandex.ru##RecomLayout
+market.yandex.ru###RecommendationRoll
+market.yandex.ru###cleanable
 
 
 
 yandex.ru##.media-grid__media-content
-
 yandex.ru##.news__header
-
 ||avatars.mds.yandex.net/get-vh$image
-
 yandex.ru##.thumb-preview_js_inited
-
 yandex.ru##.home-panel-content-view__body
 
 
 
 music.yandex.ru##.audio-advert__block
-
 music.yandex.ru##.app-sms_theme_banner.app-sms > .app-sms__content
-
 music.yandex.ru##.app-sms__content_details.app-sms__content
-
 music.yandex.ru##.footer-app-install
 
 
@@ -901,19 +868,16 @@ userstyles.org##.fallbackDiv
 
 
 
-aliexpress.com##.gps-recommend-wrap
-*.aliexpress.com##.gps-recommend-wrap
-
-aliexpress.com##.gps-recommend-dialog-title
-*.aliexpress.com##.gps-recommend-dialog-title
+aliexpress.com,aliexpress.ru##.gps-recommend-wrap
+*.aliexpress.com,aliexpress.ru##.gps-recommend-wrap
+aliexpress.com,aliexpress.ru##.gps-recommend-dialog-title
+*.aliexpress.com,aliexpress.ru##.gps-recommend-dialog-title
 
 
 
 
 archspeech.com###notification_response
-
 archspeech.com##.right-side-list
-
 archspeech.com##.relative-posts.main-wrap
 
 
@@ -921,13 +885,9 @@ archspeech.com##.relative-posts.main-wrap
 
 
 wikium.ru,www.wikium.net##.news
-
 wikium.ru,www.wikium.net##.footer
-
 wikium.ru,www.wikium.net##.train-sidenav
-
 wikium.ru,www.wikium.net##.header__premium-btn
-
 wikium.ru,www.wikium.net##.header__premium-btn--animation
 
 
@@ -935,7 +895,6 @@ wikium.ru,www.wikium.net##.header__premium-btn--animation
 
 
 www.boincstats.com###japie
-
 www.boincstats.com##.tableAd
 
 
@@ -946,9 +905,7 @@ www.boincstats.com##.tableAd
 
 
 www.nsnews.com###adBoxWithLinksContainer
-
 www.nsnews.com##.article-continues
-
 www.nsnews.com###relatedElementsLinks
 
 
@@ -961,7 +918,6 @@ www.last.fm##li.js-link-block.features-footer-item
 
 
 levelkitchen.com##.container.ticker
-
 levelkitchen.com##.swiper-container
 
 
@@ -972,19 +928,12 @@ levelkitchen.com##.swiper-container
 
 
 zdravcity.ru##.b-donations
-
 zdravcity.ru##.b-main-banner-new
-
 zdravcity.ru##.js-slider-brand-new-container
-
 zdravcity.ru##.b-slider-main-new--product
-
 zdravcity.ru##.b-slider-main-new--banner
-
 zdravcity.ru##.form-donation
-
 zdravcity.ru##section:nth-of-type(2)
-
 zdravcity.ru##section:nth-of-type(3)
 
 
@@ -1000,7 +949,6 @@ www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
 ||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
-
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 
 
@@ -1011,17 +959,11 @@ roskomsvoboda.org##.article.article_type-2
 
 
 afisha.ru##.js-hover-item
-
 afisha.ru##.article-details
-
 afisha.ru##.js-recommends-block
-
 afisha.ru##.afisha-recommends
-
 afisha.ru##.yandex-dzen
-
 afisha.ru##.another-materials
-
 afisha.ru##noindex
 
 
