@@ -1,7 +1,7 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Expires: 1 days
-! 2024.07.28 15:40 UTC+3
+! 2024.07.28 15:51 UTC+3
 
 
 
@@ -828,14 +828,6 @@ likeyou.io##.artItems
 ||userstyles.org/ui/images/280x294.png$image
 userstyles.org##.fallbackDiv
 
-
-
-
-
-aliexpress.com,aliexpress.ru##.gps-recommend-wrap
-*.aliexpress.com,aliexpress.ru##.gps-recommend-wrap
-aliexpress.com,aliexpress.ru##.gps-recommend-dialog-title
-*.aliexpress.com,aliexpress.ru##.gps-recommend-dialog-title
 
 
 
