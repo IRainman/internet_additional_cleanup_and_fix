@@ -1,6 +1,6 @@
 # Title: HedgehogInTheCPP additional list
-# Description: This is the my extendent DNS filter and fix list. Suitable and tested only with AdGuard Home.
-
+# Description: This is my extendent DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home.
+##################################################################################
 # Fixes for other lists
 @@||xray.mail.ru^$important
 @@||stats.mos.ru^$important
@@ -161,11 +161,13 @@
 ||xad.com^$important
 ||xevil.net^$important
 ||yadro.ru^$important
+##################################################################################
 # Mobile OP's
 ||tb.beeline.ru^$important
 ||toolbar.beeline.ru^$important
 ||mobilebanner.ru^$important
 ||megafonpro.ru^$important
+##################################################################################
 # MSN
 ||mobileads.msn.com^$important
 ||rad.live.com^$important
@@ -178,10 +180,13 @@
 ||eyewonder.com^$important
 ||2mdn.net^$important
 ||serving-sys.com^$important
+##################################################################################
 # Pandora
 ||adserver.pandora.com^$important
+##################################################################################
 # Skype
 ||apps.skype.com^$important
+##################################################################################
 # VK
 ||ad.mail.ru^$important
 ||rs.mail.ru^$important
@@ -194,6 +199,7 @@
 ||google-analytics.com^$important
 ||google-analyzing.com^$important
 ||googleadservices.com^$important
+##################################################################################
 # Yandex
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
@@ -208,3 +214,4 @@
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
 #avatars-fast.yandex.*^$important
 ||browser.yandex.ru^$important
+##################################################################################
