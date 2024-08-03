@@ -191,6 +191,7 @@
 ||googlesyndication.com
 ||google-analytics.com
 ||google-analyzing.com
+||googleadservices.com
 # Yandex
 ||an.yandex.*
 ||direct.yandex.*
