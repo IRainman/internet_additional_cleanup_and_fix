@@ -479,3 +479,14 @@ cian.ru###similarOffers
 happymod.com##.appx.cbox
 
 leetcode.com##.justify-start.items-start.w-full.flex.group\/ads
+
+msk.rt.ru##.cmp-client-only
+msk.rt.ru##.popular-services__cards
+msk.rt.ru##.productBanner
+msk.rt.ru##.special-services__cards
+msk.rt.ru##.sp-t-orange
+
+my.rt.ru##.news-block
+my.rt.ru##.banners
+
+
