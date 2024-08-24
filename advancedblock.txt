@@ -489,4 +489,4 @@ msk.rt.ru##.sp-t-orange
 my.rt.ru##.news-block
 my.rt.ru##.banners
 
-
+www.wildberries.ru##.j-lottery-banner
