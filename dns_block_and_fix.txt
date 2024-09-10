@@ -132,7 +132,8 @@
 ||rubiconproject.com^$important
 ||rutarget.ru^$important
 ||samilia.ru^$important
-||scorecardresearch.co^$importantm
+||scorecardresearch.com^$important
+||shalltry.com^$important
 ||shorek.ru^$important
 ||smaato.net^$important
 ||smokenosov.blogspot.com^$important
