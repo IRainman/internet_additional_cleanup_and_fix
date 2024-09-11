@@ -13,6 +13,7 @@
 @@||imgsmail.ru^$important
 @@||bodis.com^$important
 @@||rarbg.me^$important
+@@||openvpn.net^$important
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru^$important
