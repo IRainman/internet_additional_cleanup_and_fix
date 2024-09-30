@@ -489,6 +489,8 @@ msk.rt.ru##.sp-t-orange
 my.rt.ru##.news-block
 my.rt.ru##.banners
 
+ya.ru##.SplashscreenDefault
+
 www.wildberries.ru##.j-lottery-banner
 
 www.amazon.com##div#audible-carousel-container.a-carousel-initialized.audible-carousel-desktop-style.a-spacing-top-medium.a-carousel-transition-slide.a-carousel-display-stretchyGoodness.a-carousel-container.a-begin
