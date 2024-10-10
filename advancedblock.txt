@@ -187,7 +187,7 @@ eda.yandex##div.CatalogPageCarousel_root
 market.yandex.ru###\/content\/header\/headerPromo
 market.yandex.ru###journal-pages
 market.yandex.ru##.premiumIncutDeskto
-#market.yandex.ru###ServerLayoutRendererp
+!market.yandex.ru###ServerLayoutRendererp
 market.yandex.ru##RecomLayout
 market.yandex.ru###RecommendationRoll
 market.yandex.ru###cleanable
@@ -205,7 +205,6 @@ music.yandex.ru##.footer-app-install
 
 vc.ru##.b-container > .viewed.b-articles-p-w_sponsored.b-articles-p-w
 vc.ru##.b-container > .b-content-w-comments_live.b-content-w-comments.b-content-w > .b-content > .b-content__main-w
-vc.ru###best-articles-block-*
 vc.ru##.b-last-comments
 vc.ru##.js-popular-articles
 vc.ru##.js-best-articles
