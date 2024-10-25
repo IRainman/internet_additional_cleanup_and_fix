@@ -4,6 +4,7 @@
 # Fixes for other lists
 @@||watson.events.data.microsoft.com^$important
 @@||crashlytics.com^$important
+@@||crashlyticsreports-pa.googleapis.com
 @@||xray.mail.ru^$important
 @@||stats.mos.ru^$important
 @@||cdn.eapteka.ru^$important
