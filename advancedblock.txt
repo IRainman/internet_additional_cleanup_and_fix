@@ -185,6 +185,7 @@ www.inoreader.com###consent_bbb
 eda.yandex##div.CatalogPageCarousel_root
 
 market.yandex.ru###\/content\/header\/headerPromo
+market.yandex.ru###\/content\/page\/fancyPage\/cms
 market.yandex.ru###journal-pages
 market.yandex.ru##.premiumIncutDeskto
 !market.yandex.ru###ServerLayoutRendererp
