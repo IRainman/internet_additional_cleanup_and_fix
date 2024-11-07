@@ -191,6 +191,7 @@ market.yandex.ru##.premiumIncutDeskto
 market.yandex.ru##RecomLayout
 market.yandex.ru###RecommendationRoll
 market.yandex.ru###cleanable
+market.yandex.ru###optimize
 
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
