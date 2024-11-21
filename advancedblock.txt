@@ -294,6 +294,7 @@ naked-science.ru##.pane-node-similar
 naked-science.ru##.pane-advertising-sidebar
 naked-science.ru##.animate-custom
 
+nplus1.ru###adv-banner-link-sidebar
 nplus1.ru###latest
 nplus1.ru###also
 nplus1.ru###difficult
@@ -301,6 +302,7 @@ nplus1.ru###wrapper-footer
 nplus1.ru###next
 nplus1.ru###earlier
 nplus1.ru###header > .line-up.container > .line-second.line
+
 3dnews.ru###most-commented
 3dnews.ru##.relatedbox
 
