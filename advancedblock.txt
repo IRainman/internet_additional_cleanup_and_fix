@@ -182,6 +182,7 @@ www.inoreader.com###sinner_container
 www.inoreader.com###sb_rp_upgrade_button
 www.inoreader.com###consent_bbb
 
+||yandex.ru/safeclick/*
 ||yandex.ru/an/*
 eda.yandex##div.CatalogPageCarousel_root
 
