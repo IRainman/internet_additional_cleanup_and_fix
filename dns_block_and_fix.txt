@@ -243,5 +243,6 @@
 ||api-stories.tinkoff.ru^$important
 ||api-statist.tinkoff.ru^$important
 ||ms-gateway.tinkoff.ru^$important
+||ms-static-images.t-static.ru^$important
 ||tinkoffjournal.ru^$important
 # 
