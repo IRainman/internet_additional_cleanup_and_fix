@@ -223,6 +223,7 @@
 ##################################################################################
 # 2Gis
 ||tjam.api.2gis.*^$important
+||tips.api.2gis.*^$important
 ||jam.api.2gis.*^$important
 ||tugc.2gis.*^$important
 ||goods-backend.api.2gis.*^$important
