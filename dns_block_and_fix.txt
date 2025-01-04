@@ -221,3 +221,6 @@
 #avatars-fast.yandex.*^$important
 ||browser.yandex.ru^$important
 ##################################################################################
+# 2Gis
+||tjam.2gis.*^$important
+||jam.2gis.*^$important
