@@ -229,4 +229,5 @@
 ||goods-backend.api.2gis.*^$important
 ||stories.api.2gis.*^$important
 ||bonuses.api.2gis.*^$important
+||hybrid.api.2gis.*^$important
 ||binario-delivery.api.2gis.*^$important
