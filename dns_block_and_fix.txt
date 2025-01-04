@@ -222,7 +222,6 @@
 ||browser.yandex.ru^$important
 ##################################################################################
 # 2Gis
-||apptracer.ru^$important
 ||mis.2gis.*^$important
 ||tips.api.2gis.*^$important
 ||jam.api.2gis.*^$important
@@ -232,4 +231,5 @@
 ||bonuses.api.2gis.*^$important
 # errors 
 #||hybrid.api.2gis.*^$important
+#||apptracer.ru^$important
 ||binario-delivery.api.2gis.*^$important
