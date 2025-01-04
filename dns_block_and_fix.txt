@@ -222,7 +222,8 @@
 ||browser.yandex.ru^$important
 ##################################################################################
 # 2Gis
-||tjam.2gis.*^$important
-||jam.2gis.*^$important
+||tjam.api.2gis.*^$important
+||jam.api.2gis.*^$important
 ||tugc.2gis.*^$important
 ||goods-backend.api.2gis.*^$important
+||stories.api.2gis.*^$important
