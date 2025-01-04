@@ -225,3 +225,4 @@
 ||tjam.2gis.*^$important
 ||jam.2gis.*^$important
 ||tugc.2gis.*^$important
+||goods-backend.api.2gis.*^$important
