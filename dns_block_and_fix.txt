@@ -224,3 +224,4 @@
 # 2Gis
 ||tjam.2gis.*^$important
 ||jam.2gis.*^$important
+||tugc.2gis.*^$important
