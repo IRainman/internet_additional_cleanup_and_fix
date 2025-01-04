@@ -234,5 +234,5 @@
 ||bonuses.api.2gis.*^$important
 # errors 
 #||hybrid.api.2gis.*^$important
-#||apptracer.ru^$important
+||apptracer.ru^$important
 ||binario-delivery.api.2gis.*^$important
