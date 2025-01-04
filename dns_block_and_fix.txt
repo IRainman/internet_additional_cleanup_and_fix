@@ -241,4 +241,6 @@
 ||media.tinkoff.ru^$important
 ||api-stories.tinkoff.ru^$important
 ||api-statist.tinkoff.ru^$important
+||ms-gateway.tinkoff.ru^$important
+||tinkoffjournal.ru^$important
 # 
