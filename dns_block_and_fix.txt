@@ -227,7 +227,8 @@
 ||jam.api.2gis.*^$important
 ||tugc.2gis.*^$important
 ||disk.2gis.*^$important
-||bss.2gis.*^$important
+# TODO
+#||bss.2gis.*^$important
 ||goods-backend.api.2gis.*^$important
 ||stories.api.2gis.*^$important
 ||bonuses.api.2gis.*^$important
