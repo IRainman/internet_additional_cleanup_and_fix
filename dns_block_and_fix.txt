@@ -236,3 +236,9 @@
 #||hybrid.api.2gis.*^$important
 ||apptracer.ru^$important
 ||binario-delivery.api.2gis.*^$important
+##################################################################################
+# Tinkoff
+||media.tinkoff.ru^$important
+||api-stories.tinkoff.ru^$important
+||api-statist.tinkoff.ru^$important
+# 
