@@ -222,7 +222,9 @@
 #||clck.yandex.*^$important
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
 #avatars-fast.yandex.*^$important
-||browser.yandex.ru^$important
+||browser.yandex.*^$important
+#carsharing, i'm don't drive and no one my family also.
+||carsharing.yandex.*^$important
 ##################################################################################
 # 2Gis
 ||link.2gis.*^$important
