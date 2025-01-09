@@ -210,6 +210,7 @@
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
+||media-adv.market.yandex.*^$important
 ||yandex*change.*^$important
 ||kiks.yandex.*^$important
 ||banners.mobile.yandex.*^$important
