@@ -41,6 +41,7 @@
 ||51.la^$important
 ||ad.ddestiny.ru^$important
 ||adexpro.com^$important
+||adjust.com^$important
 ||adfox.ru^$important
 ||adgear.com^$important
 ||adlabs.ru^$important
