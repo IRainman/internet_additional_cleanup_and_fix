@@ -209,7 +209,6 @@
 ##################################################################################
 # Yandex
 ||an.yandex.*^$important
-||tc.mobile.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
 ||media-adv.market.yandex.*^$important
