@@ -138,7 +138,6 @@
 ||rutarget.ru^$important
 ||samilia.ru^$important
 ||scorecardresearch.com^$important
-||shalltry.com^$important
 ||shorek.ru^$important
 ||smaato.net^$important
 ||smokenosov.blogspot.com^$important
