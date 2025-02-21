@@ -245,4 +245,7 @@
 ||ms-gateway.tinkoff.ru^$important
 ||ms-static-images.t-static.ru^$important
 ||tinkoffjournal.ru^$important
+##################################################################################
+# HH
+||adsrv.hh.ru^$important
 # 
