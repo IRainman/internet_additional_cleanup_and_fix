@@ -244,8 +244,9 @@ windowstips.ru##.title-related-post
 windowstips.ru##.test-class.main-sidebar-col.cactus-sidebar.col-md-4
 windowstips.ru###top-nav > .navbar-default.navbar > .container
 
-winaero.com##.winrec
-winaero.com##div.windiv
+!
+!winaero.com##.winrec
+!winaero.com##div.windiv
 
 remontka.pro##.SPOSTARBUST-Related-Posts
 remontka.pro##.rem-linkdiv
