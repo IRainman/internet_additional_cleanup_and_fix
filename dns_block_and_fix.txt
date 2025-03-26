@@ -18,10 +18,7 @@
 @@||rarbg.me^$important
 @@||openvpn.net^$important
 # Fixes for other lists -> reblock
-||chrome.cloudflare-dns.com^$important
-||cloudflare-dns.com^$important
-||mozilla.cloudflare-dns.com^$important
-||www.cloudflare-dns.com^$important
+# nothing
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru^$important
