@@ -1,7 +1,7 @@
 # Title: HedgehogInTheCPP additional list
 # Description: This is my extendent DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home.
 ##################################################################################
-# Fixes for other lists
+# Fixes for other lists -> unblock
 @@||watson.events.data.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
 @@||crashlytics.com^$important
@@ -17,6 +17,8 @@
 @@||bodis.com^$important
 @@||rarbg.me^$important
 @@||openvpn.net^$important
+# Fixes for other lists -> reblock
+||chrome.cloudflare-dns.com^$important
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru^$important
