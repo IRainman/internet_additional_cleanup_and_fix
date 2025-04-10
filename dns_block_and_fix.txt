@@ -222,6 +222,7 @@
 ||banners.mobile.yandex.*^$important
 ||analytics.mobile.yandex.*^$important
 ||appmetrica.yandex.*^$important
+||market-click-baobab.yandex.*^$important
 # Yandex tracker (if enabled I get many errors in their services)
 #||clck.yandex.*^$important
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
