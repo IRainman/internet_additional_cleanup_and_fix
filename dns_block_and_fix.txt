@@ -2,6 +2,7 @@
 # Description: This is my extendent DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home.
 ##################################################################################
 # Fixes for other lists -> unblock
+@@||incoming.telemetry.mozilla.org^$important
 @@||watson.events.data.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
 @@||crashlytics.com^$important
