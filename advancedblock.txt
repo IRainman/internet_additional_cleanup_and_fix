@@ -85,6 +85,7 @@ habr.com##.tm-stories-block
 habr.com##.habr-block-megaposts__container
 
 qna.habr.com##.panel-heading_inner
+qna.habr.com##.fixed-ad-banner
 
 ! Exclude fix for the error in the list located here hg.adblockplus.org/ruadlist/raw-file/tip/bitblock/annoyance_specific_block.txt 
 ! Login page isn't working
@@ -110,6 +111,7 @@ meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material
 meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar
 meduza.io##.Material-related
 meduza.io##.RelatedBlock-root
+meduza.io##.Grid-module-container
 
 yablyk.com###arvlbdata
 yablyk.com##.ArevicoModal-iframe.ArevicoModal
@@ -181,6 +183,8 @@ post-tracker.ru##.counters
 www.inoreader.com###sinner_container
 www.inoreader.com###sb_rp_upgrade_button
 www.inoreader.com###consent_bbb
+
+www.kinopoisk.ru##.footer
 
 ||yandex.ru/safeclick/*
 ||yandex.ru/an/*
