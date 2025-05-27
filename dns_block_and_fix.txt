@@ -262,4 +262,5 @@
 ##################################################################################
 # CDEK
 ||cdek.shopping^$important
+||uxcam.com^$important
 #mobile-apps.cdek.ru^$important
