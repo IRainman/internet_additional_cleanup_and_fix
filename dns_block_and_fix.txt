@@ -122,6 +122,7 @@
 ||malohit.ru^$important
 ||martberry.ru^$important
 ||mediamath.com^$important
+||mindbox.ru^$important
 ||mixpanel.com^$important
 ||moatads.com^$important
 ||mobfox.com^$important
