@@ -262,4 +262,4 @@
 ##################################################################################
 # CDEK
 ||cdek.shopping^$important
-||mobile-apps.cdek.ru^$important
+#mobile-apps.cdek.ru^$important
