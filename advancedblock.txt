@@ -6,87 +6,6 @@ leroymerlin.ru##.main > .drpdwn > .inner > .tng
 leroymerlin.ru###progressBar
 leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
 
-habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
-habr.com##.tm-block_spacing-bottom
-habr.com##.dont-add-our-site-pls
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-habr.com###broadcast_tabs_posts > .menu_inline.menu.tabs__menu_posts.tabs__menu
-habr.com###broadcast_posts_now
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .similar_questions.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .similar-posts__title
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .similar-posts > .content-list_posts.content-list > .content-list__item
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .privet > .firskill__label[href="https://special.habr.com/advertising/"]
-habr.com###layout > .inner > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-habr.com###broadcast_tabs_comments > .menu_inline.menu.tabs__menu_comments.tabs__menu
-habr.com###broadcast_comments_now
-habr.com###layout > .inner > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .similar-posts__title
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item:nth-of-type(1)
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .content_left > .company_post > .block_after_post > .similar-posts > .content-list_posts.content-list > .content-list__item
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .float_block.corporate_blog.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-sidebar_right.sidebar_right > .daily_best_posts.live-broadcast_geektimes.live-broadcast > .live-broadcast__title
-habr.com###layout > .inner > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_geektimes.live-broadcast > .live-broadcast__title
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .corporate_blog.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .corporate_news.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_links.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .no_bg.twitter_stream.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .sidebar_right > .company_widgets > .company_widget > .announce
-habr.com###layout > .inner > .column-wrapper:nth-of-type(2) > .js-content_left.content_left > .firskill__label[href="https://special.habr.com/advertising/"]
-habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right
-habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right > .company_widgets
-habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .sidebar_right > .corporate_blog.block
-habr.com###layout > .inner > .column-wrapper:nth-of-type(3) > .content_left > .company_post > .block_after_post > .similar-posts
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .similar-posts_full.similar-posts > .similar-posts__title
-habr.com###adriver_banner_1109509440 > .html_banner_text
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .wrapper-sticky > .is_visible.js-ad_sticky
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.xyz_wrapper
-habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .sticky-active.wrapper-sticky > .sticky.js-ad_sticky
-habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .is_visible.xyz_wrapper
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .html_banner_wrap > .firskill__label
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .content-list_similar-posts.content-list
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-habr.com###layout > .inner > .js-sticky-wrapper.column-wrapper > .js-sidebar_right.sidebar_right > .wrapper-sticky > .js-ad_sticky > .xyz_wrapper
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sidebar_content-area.sidebar_right
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .content-list_similar-posts.content-list
-habr.com###layout > .inner > .column-wrapper_content.content_wrapper > .js-sticky-wrapper.column-wrapper > .sticky_init.sidebar_content-area.sidebar_right > .is_visible.js-broadcast.broadcast.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-habr.com##.layout > .layout__base > .column-wrapper_content.content_wrapper > .column-wrapper:nth-of-type(2) > .indented.content_left > .similar-posts_full.similar-posts
-habr.com##.layout > .layout__base > .column-wrapper_comments.column-wrapper > .sidebar_right > .live-broadcast_geektimes.live-broadcast > .live-broadcast__title
-habr.com##.layout > .layout__base > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .live-broadcast_feed.live-broadcast
-habr.com##.layout > .layout__base > .column-wrapper_bordered.column-wrapper_bottom.column-wrapper
-habr.com##.similar-posts
-habr.com##.similar-posts:nth-of-type(2)
-habr.com##.live-broadcast_habrahabr.live-broadcast > .live-broadcast__title
-habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .default-block
-habr.com##.js-sidebar_right.sidebar_right > .default-block_content.default-block
-habr.com##.default-block_content.default-block:nth-of-type(2)
-habr.com##.default-block_content.default-block:nth-of-type(4)
-habr.com##.js-sidebar_right.sidebar_right > .default-block_content.default-block
-habr.com##.column-wrapper_bordered.column-wrapper_bottom.column-wrapper > .content_left > .default-block
-habr.com##.sidebar_right > .default-block_content.default-block
-habr.com##.default-block_content.default-block:nth-of-type(4)
-habr.com##.default-block_content.default-block:nth-of-type(2)
-habr.com##.shortcuts_item:nth-of-type(4) > .default-block
-habr.com##.company_post > .default-block_content.default-block
-habr.com##.js-content_left.content_left > .default-block
-habr.com##.sticky.is_visible.js-ad_sticky
-habr.com##.js-sidebar_right.sidebar_right
-habr.com##.is_visible.js-ad_sticky
-habr.com##.default-block_sidebar
-habr.com##.sticky_init
-habr.com##.sticky
-habr.com##.js-ad_sticky
-habr.com##.column-wrapper__last.column-wrapper > .sidebar_stick-top.sidebar > .sidebar_right_stick-top.sidebar_right
-habr.com##.default-block_content.default-block
-habr.com##.tm-sexy-sidebar_stick-top
-habr.com##.tm-stories-block
-habr.com##.habr-block-megaposts__container
-
-qna.habr.com##.panel-heading_inner
-qna.habr.com##.fixed-ad-banner
-
 ! Exclude fix for the error in the list located here hg.adblockplus.org/ruadlist/raw-file/tip/bitblock/annoyance_specific_block.txt 
 ! Login page isn't working
 @@printdirect.ru/crud/model_call
@@ -100,15 +19,6 @@ www.moya-planeta.ru###ajax_pageload_block_23848 > .standart_table > tbody > tr >
 
 ||ip-calculator.ru/img/calk.gif
 
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-related
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share > .ShareButtons--isInMaterialTopBar.ShareButtons--default.ShareButtons
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--feature.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--fun.Material--materialTopBarVisible.Material > .Material-related
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share > .ShareButtons--isInMaterialTopBar.ShareButtons--default.ShareButtons
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-close
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar > .MaterialTopBar-share
-meduza.io###app > .App--isMaterial.App > .App-content > .Material--card.Material--materialTopBarVisible.Material > .Material-materialTopBar > .MaterialTopBar
 meduza.io##.Material-related
 meduza.io##.RelatedBlock-root
 meduza.io##.Grid-module-container
@@ -127,21 +37,13 @@ postnauka.ru###ad_h
 postnauka.ru###sb
 postnauka.ru###project
 postnauka.ru###m
-postnauka.ru###post > .text > .p-extra
 postnauka.ru###menu-courses
-postnauka.ru###p-head > .p-cat
 postnauka.ru##.notification__wrapper
 
 iscience.ru###secondary
 iscience.ru##.related-posts
 
 www.gosthelp.ru###ya_direct1 > div
-
-www.nat-geo.ru##.main-wrapper > .content > .section-wrapper > .section-box > .section-content > .section-item__active.section-item__article.section-item > .content-aside-box:nth-of-type(5)
-www.nat-geo.ru##.main-wrapper > .content > .section-wrapper > .section-box > .section-content > .section-item__article.section-item:nth-of-type(2) > .content-aside-box:nth-of-type(5)
-www.nat-geo.ru##.section-item__article.section-item:nth-of-type(1) > .content-aside-box:nth-of-type(5)
-www.nat-geo.ru##.section-item__active.section-item__article.section-item > .content-box-top.content-aside-box
-www.nat-geo.ru##.section-item__article.section-item:nth-of-type(2) > .section-content-body-column
 
 www.netall.ru##.DetailButtom
 www.netall.ru##.rightCol
@@ -163,22 +65,7 @@ magicair.tion.ru###shop-button
 
 www.yahoo.com###YDC-Stream
 
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(11)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(7)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(3)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(13)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(17)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(21)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote:nth-of-type(5)
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-big-quote
-takiedela.ru###content-article > .article-text.white-bgr.wrap > .article-base-format.content-720 > .text-quote
-
 www.bbc.com##.story-more
-
-post-tracker.ru##.partner
-||post-tracker.ru/*.gif$image
-post-tracker.ru##[href="https://goo.gl/*"]
-post-tracker.ru##.counters
 
 www.inoreader.com###sinner_container
 www.inoreader.com###sb_rp_upgrade_button
