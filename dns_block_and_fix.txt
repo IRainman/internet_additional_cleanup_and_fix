@@ -178,6 +178,7 @@
 ||xad.com^$important
 ||xevil.net^$important
 ||yadro.ru^$important
+||yadro.com^$important
 ##################################################################################
 # Mobile OP's
 ||tb.beeline.ru^$important
