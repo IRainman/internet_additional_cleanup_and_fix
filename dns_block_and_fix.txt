@@ -80,6 +80,7 @@
 ||auditorius.ru^$important
 ||babylon.com^$important
 ||begun.ru^$important
+||betsonsport.ru^$important
 ||betweendigital.ru^$important
 ||bidstalk.com^$important
 ||bignox.com^$important
@@ -148,6 +149,7 @@
 ||revsci.net^$important^$important
 ||rubiconproject.com^$important
 ||rutarget.ru^$important
+||rutrk.org^$important
 ||samilia.ru^$important
 ||scorecardresearch.com^$important
 ||shorek.ru^$important
