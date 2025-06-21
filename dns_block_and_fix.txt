@@ -213,6 +213,7 @@
 ||top-fwz1.mail.ru^$important
 ||news.mail.ru^$important
 ||browser.ru^$important
+||dzeninfra.ru^$important
 ##################################################################################
 # Google
 ||googlesyndication.com^$important
