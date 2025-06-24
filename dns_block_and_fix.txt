@@ -21,6 +21,8 @@
 @@||imgsmail.ru^$important
 @@||bodis.com^$important
 @@||rarbg.me^$important
+@@||nhacmp3youtube.com^$important
+@@||limetorrents.pro^$important
 @@||openvpn.net^$important
 # Fixes for other lists -> reblock
 # nothing
