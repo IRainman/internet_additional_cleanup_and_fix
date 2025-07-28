@@ -407,3 +407,14 @@ www.wildberries.ru##.j-lottery-banner
 www.amazon.com##div#audible-carousel-container.a-carousel-initialized.audible-carousel-desktop-style.a-spacing-top-medium.a-carousel-transition-slide.a-carousel-display-stretchyGoodness.a-carousel-container.a-begin
 www.amazon.com##div#similarities_feature_div.celwidget
 www.amazon.com###similarities_feature_div:has-text(/Customers who bought this also listened to these Amazon Music podcasts/)
+
+
+www.giantfreakinrobot.com##.related-article
+www.giantfreakinrobot.com##.ml-lg-3.d-block
+www.giantfreakinrobot.com##.posts-trending
+www.giantfreakinrobot.com##.trending
+www.giantfreakinrobot.com##.top-stories
+www.giantfreakinrobot.com##.posts-top-stories
+www.giantfreakinrobot.com##.breaking-now
+www.giantfreakinrobot.com##.posts-breaking-now
+
