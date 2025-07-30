@@ -88,6 +88,7 @@ market.yandex.ru###\/content\/header\/madvHeaderPromo
 market.yandex.ru###\/content\/orderConfirmation\/heroBannerCarousel
 market.yandex.ru###\/content\/page\/fancyPage\/heroBannerCarousel
 market.yandex.ru###\/content\/orderConfirmation\/recommendationRoll
+market.yandex.ru###\/content\/footer\/appPromoLoader
 market.yandex.ru###\/cardRecommendationRollV42
 market.yandex.ru###\/content\/header\/headerPromo
 market.yandex.ru###\/content\/page\/fancyPage\/cms
