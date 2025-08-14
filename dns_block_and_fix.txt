@@ -224,8 +224,6 @@
 ||googleadservices.com^$important
 ##################################################################################
 # Yandex
-||yandex.ru^$dnstype=A|AAAA
-@@||*.yandex.ru^
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
