@@ -272,3 +272,6 @@
 ||cdek.shopping^$important
 ||uxcam.com^$important
 #mobile-apps.cdek.ru^$important
+##################################################################################
+# RuStore
+||ads.rustore.ru^$important
