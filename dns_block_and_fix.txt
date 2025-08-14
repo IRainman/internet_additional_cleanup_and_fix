@@ -224,7 +224,7 @@
 ||googleadservices.com^$important
 ##################################################################################
 # Yandex
-0.0.0.0 yandex.ru
+|yandex.ru^$important
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
