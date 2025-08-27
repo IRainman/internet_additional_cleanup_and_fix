@@ -224,8 +224,8 @@
 ||googleadservices.com^$important
 ##################################################################################
 # Yandex
-# Yandex ads meh (if enabled I get many errors in their services)
-#|yandex.ru^$important
+# Yandex ads meh (if enabled I get many errors in their services, but it's OK)
+|yandex.ru^$important
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
