@@ -259,9 +259,12 @@
 # Tinkoff
 ||media.tinkoff.ru^$important
 ||tsocial.tinkoff.ru^$important
+||stories-rtb.t-bank.ru^$important
 ||api-stories.tinkoff.ru^$important
 ||api-statist.tinkoff.ru^$important
 ||ms-gateway.tinkoff.ru^$important
+||ms-social.tinkoff.ru^$important
+||social-api.t-bank-app.ru^$important
 ||ms-static-images.t-static.ru^$important
 ||tinkoffjournal.ru^$important
 ##################################################################################
