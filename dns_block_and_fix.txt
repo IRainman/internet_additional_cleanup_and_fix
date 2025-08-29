@@ -258,6 +258,7 @@
 ##################################################################################
 # Tinkoff
 ||tads.t-bank.ru^$important
+||gtech-gus.t-bank-app.ru^$important
 ||media.tinkoff.ru^$important
 ||tsocial.tinkoff.ru^$important
 ||stories-rtb.t-bank.ru^$important
