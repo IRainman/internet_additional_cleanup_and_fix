@@ -257,6 +257,9 @@
 ||binario-delivery.api.2gis.*^$important
 ##################################################################################
 # Tinkoff
+||ms-dsp.t-bank-app.ru^$important
+||as.t-bank-app.ru^$important
+||brands-prod.cdn-tinkoff.ru^$important
 ||pulse-image-post.cdn-tinkoff.ru^$important
 ||nfs-imgproxy-cdn.t-static.ru^$important
 ||tads.t-bank.ru^$important
