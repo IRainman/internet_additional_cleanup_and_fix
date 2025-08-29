@@ -257,6 +257,8 @@
 ||binario-delivery.api.2gis.*^$important
 ##################################################################################
 # Tinkoff
+||pulse-image-post.cdn-tinkoff.ru^$important
+||nfs-imgproxy-cdn.t-static.ru^$important
 ||tads.t-bank.ru^$important
 ||gtech-gus.t-bank-app.ru^$important
 ||media.tinkoff.ru^$important
