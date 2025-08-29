@@ -271,6 +271,7 @@
 ||api-statist.tinkoff.ru^$important
 ||ms-gateway.tinkoff.ru^$important
 ||ms-social.tinkoff.ru^$important
+||ms-social-api.tinkoff.ru^$important
 ||social-api.t-bank-app.ru^$important
 ||ms-static-images.t-static.ru^$important
 ||tinkoffjournal.ru^$important
