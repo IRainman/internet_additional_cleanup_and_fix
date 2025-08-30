@@ -5,6 +5,7 @@
 @@||addons.mozilla.org^$important
 @@||mozilla.org^$important
 @@||mozilla.com^$important
+@@||firefox.com^$important
 @@||telemetry.mozilla.org^$important
 @@||incoming.telemetry.mozilla.org^$important
 @@||watson.events.data.microsoft.com^$important
