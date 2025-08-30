@@ -286,3 +286,8 @@
 ##################################################################################
 # RuStore
 ||ads.rustore.ru^$important
+##################################################################################
+# Oppo (don't buy this shit!)
+||oppomobile.com^$important
+||heytapdl.com^$important
+||heytapmobi.com^$important
