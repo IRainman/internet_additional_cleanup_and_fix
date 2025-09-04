@@ -229,8 +229,8 @@
 ||googleadservices.com^$important
 ##################################################################################
 # Yandex
-# Yandex ads meh (if enabled I get many errors in their services, but it's OK)
-|yandex.ru^$important
+# errors
+#|yandex.ru^$important
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
@@ -248,7 +248,8 @@
 ||browser.yandex.*^$important
 ##################################################################################
 # 2Gis
-||link.2gis.*^$important
+# errors
+#||link.2gis.*^$important
 ||mis.2gis.*^$important
 ||tips.api.2gis.*^$important
 ||jam.api.2gis.*^$important
