@@ -245,10 +245,11 @@
 #||clck.yandex.*^$important
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
 #avatars-fast.yandex.*^$important
-||browser.yandex.*^$important
+# browser, too much
+#||browser.yandex.*^$important
 ##################################################################################
 # 2Gis
-#||link.2gis.*^$important
+||link.2gis.*^$important
 ||mis.2gis.*^$important
 ||tips.api.2gis.*^$important
 ||jam.api.2gis.*^$important
