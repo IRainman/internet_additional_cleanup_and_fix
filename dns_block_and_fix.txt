@@ -81,7 +81,6 @@
 ||amazon-adsystem.com^$important
 ||appads.com^$important
 ||applift.com^$important
-||applovin.com^$important
 ||atdmt.com^$important
 ||auditorius.ru^$important
 ||babylon.com^$important
