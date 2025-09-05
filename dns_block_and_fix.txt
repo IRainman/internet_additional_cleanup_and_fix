@@ -215,7 +215,8 @@
 ||rs.mail.ru^$important
 ||top-fwz1.mail.ru^$important
 ||news.mail.ru^$important
-||browser.ru^$important
+# browser, too much
+#||browser.ru^$important
 ||dzeninfra.ru^$important
 ##################################################################################
 # Google
