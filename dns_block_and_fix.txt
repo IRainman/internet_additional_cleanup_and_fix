@@ -211,9 +211,6 @@
 # Pandora
 ||adserver.pandora.com^$important
 ##################################################################################
-# Skype
-||apps.skype.com^$important
-##################################################################################
 # VK
 ||ad.mail.ru^$important
 ||rs.mail.ru^$important
