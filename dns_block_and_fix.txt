@@ -217,10 +217,10 @@
 ||dzeninfra.ru^$important
 ##################################################################################
 # Google
-||googlesyndication.com^$important
-||google-analytics.com^$important
-||google-analyzing.com^$important
-||googleadservices.com^$important
+#||googlesyndication.com^$important
+#||google-analytics.com^$important
+#||google-analyzing.com^$important
+#||googleadservices.com^$important
 ##################################################################################
 # Yandex
 # errors
