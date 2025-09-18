@@ -204,8 +204,8 @@
 ||2mdn.net^$important
 ||serving-sys.com^$important
 ##################################################################################
-# Pandora
-||adserver.pandora.com^$important
+##### Pandora
+#####||adserver.pandora.com^$important
 ##################################################################################
 # VK
 ||ad.mail.ru^$important
@@ -216,15 +216,15 @@
 #||browser.ru^$important
 ||dzeninfra.ru^$important
 ##################################################################################
-# Google
-#||googlesyndication.com^$important
-#||google-analytics.com^$important
-#||google-analyzing.com^$important
-#||googleadservices.com^$important
+##### Google
+#####||googlesyndication.com^$important
+#####||google-analytics.com^$important
+#####||google-analyzing.com^$important
+#####||googleadservices.com^$important
 ##################################################################################
 # Yandex
-# errors
-#|yandex.ru^$important
+# many errors in Yandex services, but unfck many other apps.
+|yandex.ru^$important
 ||an.yandex.*^$important
 ||direct.yandex.*^$important
 ||mc.yandex.*^$important
