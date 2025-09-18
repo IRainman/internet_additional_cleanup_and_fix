@@ -204,9 +204,6 @@
 ||2mdn.net^$important
 ||serving-sys.com^$important
 ##################################################################################
-##### Pandora
-#####||adserver.pandora.com^$important
-##################################################################################
 # VK
 ||ad.mail.ru^$important
 ||rs.mail.ru^$important
@@ -215,12 +212,6 @@
 # browser, too much
 #||browser.ru^$important
 ||dzeninfra.ru^$important
-##################################################################################
-##### Google
-#####||googlesyndication.com^$important
-#####||google-analytics.com^$important
-#####||google-analyzing.com^$important
-#####||googleadservices.com^$important
 ##################################################################################
 # Yandex
 # many errors in Yandex services, but unfck many other apps.
