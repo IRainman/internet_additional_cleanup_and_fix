@@ -276,7 +276,8 @@
 ||ms-social-api.tinkoff.ru^$important
 ||social-api.t-bank-app.ru^$important
 ||ms-static-images.t-static.ru^$important
-||tinkoffjournal.ru^$important
+# over there
+#||tinkoffjournal.ru^$important
 ##################################################################################
 # HH
 ||adsrv.hh.ru^$important
