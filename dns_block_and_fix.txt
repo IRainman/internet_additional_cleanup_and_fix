@@ -221,24 +221,7 @@
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
 #avatars-fast.yandex.*^$important
 ##################################################################################
-# Tinkoff
-||tinkoffjournal.ru^$important
-||tinkoffjournal.su^$important
-||t-bank-app.su^$important
-||t-static.ru^$important
-||t-static.su^$important
-||t-bank-app.ru^$important
-||tinkoff.ru^$important
-||tinkoff.su^$important
-||tinkoffapp.ru^$important
-||tinkoffapp.su^$important
-||cdn-tinkoff.ru^$important
-||cdn-tinkoff.su^$important
-#||cdn.t-bank-app.ru^$important
-#||cdn.t-bank-app.su^$important
-@@||certs.t-bank-app.ru^$important
-@@||api.t-bank-app.ru^$important
-@@||id.t-bank-app.ru^$important
+
 ##################################################################################
 # 2Gis
 ||link.2gis.*^$important
