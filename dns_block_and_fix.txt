@@ -204,7 +204,7 @@
 # many errors in Yandex services, but unfck many other apps
 |yandex.ru^$important
 ||browser.yandex.*^$important
-||yastatic.*^$important
+#||yastatic.*^$important
 
 #||an.yandex.*^$important
 #||direct.yandex.*^$important
@@ -220,8 +220,6 @@
 #||clck.yandex.*^$important
 # Yandex direct in the Android apps? (if enabled I get many errors in their services)
 #avatars-fast.yandex.*^$important
-##################################################################################
-
 ##################################################################################
 # 2Gis
 ||link.2gis.*^$important
