@@ -47,6 +47,7 @@
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^$important
 # dead projects
+||znanie.org^$important
 ||roznanie.ru^$important
 ||znanierussia.ru^$important
 ||bigenc.ru^$important
