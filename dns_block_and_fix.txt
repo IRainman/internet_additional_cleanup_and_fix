@@ -49,6 +49,8 @@
 # rashizm
 ||знаниевики.рф^$important
 ||xn--80aeiggcapvb.xn--p1ai^$important
+# project is closed
+||bigenc.ru^$important
 # Эхо (dead domain)
 ||echo.msk.ru^$important
 ||ritmmsk.ru^$important
