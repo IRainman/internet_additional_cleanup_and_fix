@@ -222,6 +222,8 @@
 #avatars-fast.yandex.*^$important
 ##################################################################################
 # Tinkoff
+||tinkoffjournal.ru^$important
+||tinkoffjournal.su^$important
 ||t-bank-app.su^$important
 ||t-bank-app.ru^$important
 ||tinkoff.ru^$important
@@ -234,38 +236,6 @@
 ||cdn.t-bank-app.su^$important
 ||certs.t-bank-app.*^$important
 @@||api.t-bank-app.ru^$important
-
-||t-static.*^$important
-||lifestyle.t-bank-app.*^$important
-||mvno.t-bank-app.*^$important
-||feed.t-bank-app.*^$important
-||tads.t-bank.*^$important
-||tads.tbank.*^$important
-||social-api.t-bank-app.*^$important
-||stories-rtb.t-bank-app.*^$important
-||stories-rtb.t-bank.*^$important
-||ms-dsp.t-bank-app.*^$important
-||tm.t-bank-app.*^$important
-
-||tinkoffjournal.*^$important
-||as.t-bank-app.*^$important
-||gtech-gus.t-bank-app.*^$important
-
-
-
-
-#||brands-prod.cdn-tinkoff.ru^$important
-#||pulse-image-post.cdn-tinkoff.ru^$important
-#||nfs-imgproxy-cdn.t-static.ru^$important
-#||media.tinkoff.ru^$important
-#||tsocial.tinkoff.ru^$important
-#||api-stories.tinkoff.ru^$important
-#||api-statist.tinkoff.ru^$important
-#||ms-gateway.tinkoff.ru^$important
-#||ms-social.tinkoff.ru^$important
-#||ms-social-api.tinkoff.ru^$important
-#||ms-static-images.t-static.ru^$important
-
 ##################################################################################
 # 2Gis
 ||link.2gis.*^$important
