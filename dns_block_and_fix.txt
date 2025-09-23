@@ -75,4 +75,5 @@
 # Yandex
 # many errors in Yandex services, but unfck many other apps.
 |yandex.ru^$important
+||browser.yandex.*^$important
 ##################################################################################
