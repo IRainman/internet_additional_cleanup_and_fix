@@ -53,6 +53,7 @@
 ||greatbook.ru^$important
 ||знаниевики.рф^$important
 ||xn--80aeiggcapvb.xn--p1ai^$important
+||ruwiki.ru^$important
 # Эхо (dead domain)
 ||echo.msk.ru^$important
 ||ritmmsk.ru^$important
