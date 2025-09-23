@@ -226,6 +226,7 @@
 ||cdn-tinkoff.ru^$important
 ||cdn.t-bank-app.ru^$important
 ||t-static.ru^$important
+||lifestyle.t-bank-app.ru^$important
 
 ||feed.t-bank-app.ru^$important
 ||tads.t-bank.ru^$important
