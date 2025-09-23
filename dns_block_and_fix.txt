@@ -79,9 +79,10 @@
 ||tinkoff.ru^$important
 ||cdn-tinkoff.ru^$important
 ||t-static.ru^$important
+||tads.t-bank.ru^$important
 ||ms-dsp.t-bank-app.ru^$important
 
-||tads.t-bank.ru^$important
+
 ||as.t-bank-app.ru^$important
 ||brands-prod.cdn-tinkoff.ru^$important
 ||pulse-image-post.cdn-tinkoff.ru^$important
@@ -97,6 +98,5 @@
 ||ms-social-api.tinkoff.ru^$important
 ||social-api.t-bank-app.ru^$important
 ||ms-static-images.t-static.ru^$important
-# over there
-#||tinkoffjournal.ru^$important
+||tinkoffjournal.ru^$important
 ##################################################################################
