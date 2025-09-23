@@ -222,13 +222,13 @@
 ##################################################################################
 # Tinkoff
 ||tinkoff.ru^$important
+||tinkoffapp.ru^$important
 ||cdn-tinkoff.ru^$important
 ||t-static.ru^$important
 ||tads.t-bank.ru^$important
 ||social-api.t-bank-app.ru^$important
 ||stories-rtb.t-bank.ru^$important
-
-#||ms-dsp.t-bank-app.ru^$important
+||ms-dsp.t-bank-app.ru^$important
 
 #||tinkoffjournal.ru^$important
 #||as.t-bank-app.ru^$important
