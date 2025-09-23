@@ -224,7 +224,10 @@
 ||tinkoff.ru^$important
 ||tinkoffapp.ru^$important
 ||cdn-tinkoff.ru^$important
+||cdn.t-bank-app.ru^$important
 ||t-static.ru^$important
+
+||feed.t-bank-app.ru^$important
 ||tads.t-bank.ru^$important
 ||tads.tbank.ru^$important
 ||social-api.t-bank-app.ru^$important
@@ -233,9 +236,9 @@
 ||ms-dsp.t-bank-app.ru^$important
 ||tm.t-bank-app.ru^$important
 
-#||tinkoffjournal.ru^$important
-#||as.t-bank-app.ru^$important
-#||gtech-gus.t-bank-app.ru^$important
+||tinkoffjournal.ru^$important
+||as.t-bank-app.ru^$important
+||gtech-gus.t-bank-app.ru^$important
 
 
 
