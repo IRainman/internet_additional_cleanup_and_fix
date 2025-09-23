@@ -227,6 +227,7 @@
 ||t-static.ru^$important
 ||tads.t-bank.ru^$important
 ||social-api.t-bank-app.ru^$important
+||stories-rtb.t-bank-app.ru^$important
 ||stories-rtb.t-bank.ru^$important
 ||ms-dsp.t-bank-app.ru^$important
 
