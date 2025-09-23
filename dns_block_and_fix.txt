@@ -282,15 +282,15 @@
 ||dzeninfra.ru^$important
 ##################################################################################
 # MSN
-#||mobileads.msn.com^$important
-#||rad.live.com^$important
-#||g.msn.com^$important
-#||ac3.msn.com^$important
-#||flex.msn.com^$important
-#||ads1.msn.com^$important
-#||rad.msn.com^$important
-#||rads.msn.com^$important
-#||eyewonder.com^$important
-#||2mdn.net^$important
-#||serving-sys.com^$important
+||mobileads.msn.com^$important
+||rad.live.com^$important
+||g.msn.com^$important
+||ac3.msn.com^$important
+||flex.msn.com^$important
+||ads1.msn.com^$important
+||rad.msn.com^$important
+||rads.msn.com^$important
+||eyewonder.com^$important
+||2mdn.net^$important
+||serving-sys.com^$important
 ##################################################################################
