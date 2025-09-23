@@ -232,10 +232,11 @@
 ||tinkoffapp.su^$important
 ||cdn-tinkoff.ru^$important
 ||cdn-tinkoff.su^$important
-@@||cdn.t-bank-app.ru^$important
+||cdn.t-bank-app.ru^$important
 ||cdn.t-bank-app.su^$important
 @@||certs.t-bank-app.ru^$important
 @@||api.t-bank-app.ru^$important
+@@||id.t-bank-app.ru^$important
 ##################################################################################
 # 2Gis
 ||link.2gis.*^$important
