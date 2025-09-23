@@ -226,6 +226,7 @@
 ||cdn-tinkoff.ru^$important
 ||t-static.ru^$important
 ||tads.t-bank.ru^$important
+||tads.tbank.ru^$important
 ||social-api.t-bank-app.ru^$important
 ||stories-rtb.t-bank-app.ru^$important
 ||stories-rtb.t-bank.ru^$important
