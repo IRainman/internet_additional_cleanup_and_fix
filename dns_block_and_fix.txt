@@ -232,9 +232,9 @@
 ||tinkoffapp.su^$important
 ||cdn-tinkoff.ru^$important
 ||cdn-tinkoff.su^$important
-||cdn.t-bank-app.ru^$important
-||cdn.t-bank-app.su^$important
-||certs.t-bank-app.*^$important
+#||cdn.t-bank-app.ru^$important
+#||cdn.t-bank-app.su^$important
+#||certs.t-bank-app.*^$important
 @@||api.t-bank-app.ru^$important
 ##################################################################################
 # 2Gis
