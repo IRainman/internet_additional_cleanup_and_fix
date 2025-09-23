@@ -233,7 +233,8 @@
 ||cdn.t-bank-app.ru^$important
 ||cdn.t-bank-app.su^$important
 ||certs.t-bank-app.*^$important
-||api.t-bank-app.*^$important
+@@||api.t-bank-app.ru^$important
+
 ||t-static.*^$important
 ||lifestyle.t-bank-app.*^$important
 ||mvno.t-bank-app.*^$important
