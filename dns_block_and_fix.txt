@@ -225,6 +225,8 @@
 ||tinkoffjournal.ru^$important
 ||tinkoffjournal.su^$important
 ||t-bank-app.su^$important
+||t-static.ru^$important
+||t-static.su^$important
 @@||t-bank-app.ru^$important
 ||tinkoff.ru^$important
 ||tinkoff.su^$important
@@ -235,7 +237,7 @@
 #||cdn.t-bank-app.ru^$important
 #||cdn.t-bank-app.su^$important
 @@||certs.t-bank-app.ru^$important
-@@||api.t-bank-app.ru^$important
+##@@||api.t-bank-app.ru^$important
 @@||id.t-bank-app.ru^$important
 ##################################################################################
 # 2Gis
