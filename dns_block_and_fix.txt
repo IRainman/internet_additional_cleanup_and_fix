@@ -230,6 +230,7 @@
 ||stories-rtb.t-bank-app.ru^$important
 ||stories-rtb.t-bank.ru^$important
 ||ms-dsp.t-bank-app.ru^$important
+||tm.t-bank-app.ru^$important
 
 #||tinkoffjournal.ru^$important
 #||as.t-bank-app.ru^$important
