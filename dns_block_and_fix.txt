@@ -234,7 +234,7 @@
 ||cdn-tinkoff.su^$important
 #||cdn.t-bank-app.ru^$important
 #||cdn.t-bank-app.su^$important
-#||certs.t-bank-app.*^$important
+@@||certs.t-bank-app.ru^$important
 @@||api.t-bank-app.ru^$important
 ##################################################################################
 # 2Gis
