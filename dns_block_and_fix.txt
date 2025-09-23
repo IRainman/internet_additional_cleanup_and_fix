@@ -50,6 +50,7 @@
 ||roznanie.ru^$important
 ||znanierussia.ru^$important
 ||bigenc.ru^$important
+||greatbook.ru^$important
 ||знаниевики.рф^$important
 ||xn--80aeiggcapvb.xn--p1ai^$important
 # Эхо (dead domain)
