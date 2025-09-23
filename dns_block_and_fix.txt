@@ -222,26 +222,27 @@
 #avatars-fast.yandex.*^$important
 ##################################################################################
 # Tinkoff
-||tinkoff.ru^$important
-||tinkoffapp.ru^$important
-||cdn-tinkoff.ru^$important
-||cdn.t-bank-app.ru^$important
-||certs.t-bank-app.ru^$important
-||t-static.ru^$important
-||lifestyle.t-bank-app.ru^$important
-||mvno.t-bank-app.ru^$important
-||feed.t-bank-app.ru^$important
-||tads.t-bank.ru^$important
-||tads.tbank.ru^$important
-||social-api.t-bank-app.ru^$important
-||stories-rtb.t-bank-app.ru^$important
-||stories-rtb.t-bank.ru^$important
-||ms-dsp.t-bank-app.ru^$important
-||tm.t-bank-app.ru^$important
+||t-bank-app.su^$important
+||tinkoff.*^$important
+||tinkoffapp.*^$important
+||cdn-tinkoff.*^$important
+||cdn.t-bank-app.*^$important
+||certs.t-bank-app.*^$important
+||t-static.*^$important
+||lifestyle.t-bank-app.*^$important
+||mvno.t-bank-app.*^$important
+||feed.t-bank-app.*^$important
+||tads.t-bank.*^$important
+||tads.tbank.*^$important
+||social-api.t-bank-app.*^$important
+||stories-rtb.t-bank-app.*^$important
+||stories-rtb.t-bank.*^$important
+||ms-dsp.t-bank-app.*^$important
+||tm.t-bank-app.*^$important
 
-||tinkoffjournal.ru^$important
-||as.t-bank-app.ru^$important
-||gtech-gus.t-bank-app.ru^$important
+||tinkoffjournal.*^$important
+||as.t-bank-app.*^$important
+||gtech-gus.t-bank-app.*^$important
 
 
 
