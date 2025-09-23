@@ -198,6 +198,7 @@
 ##################################################################################
 # RuStore
 ||ads.rustore.ru^$important
+||vkpns.rustore.ru^$important
 ##################################################################################
 # Yandex
 # many errors in Yandex services, but unfck many other apps
