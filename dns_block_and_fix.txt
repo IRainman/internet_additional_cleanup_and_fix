@@ -46,11 +46,11 @@
 # Fakes
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^$important
-# rashizm
+# dead project
+||znanierussia.ru^$important
+||bigenc.ru^$important
 ||знаниевики.рф^$important
 ||xn--80aeiggcapvb.xn--p1ai^$important
-# project is closed
-||bigenc.ru^$important
 # Эхо (dead domain)
 ||echo.msk.ru^$important
 ||ritmmsk.ru^$important
