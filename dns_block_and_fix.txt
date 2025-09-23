@@ -223,11 +223,17 @@
 ##################################################################################
 # Tinkoff
 ||t-bank-app.su^$important
-||tinkoff.*^$important
-||tinkoffapp.*^$important
-||cdn-tinkoff.*^$important
-||cdn.t-bank-app.*^$important
+||t-bank-app.ru^$important
+||tinkoff.ru^$important
+||tinkoff.su^$important
+||tinkoffapp.ru^$important
+||tinkoffapp.su^$important
+||cdn-tinkoff.ru^$important
+||cdn-tinkoff.su^$important
+||cdn.t-bank-app.ru^$important
+||cdn.t-bank-app.su^$important
 ||certs.t-bank-app.*^$important
+||api.t-bank-app.*^$important
 ||t-static.*^$important
 ||lifestyle.t-bank-app.*^$important
 ||mvno.t-bank-app.*^$important
