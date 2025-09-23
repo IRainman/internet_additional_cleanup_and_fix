@@ -258,6 +258,8 @@
 ||serving-sys.com^$important
 ##################################################################################
 # Tinkoff
-||api-stories.tinkoff.ru^
-||stories-rtb.t-bank-app.ru^
+||api-stories.tinkoff.ru^^$important
+||stories-rtb.t-bank-app.ru^^$important
+||ms-ads-image.t-static.ru^^$important
+||as.t-bank-app.ru^^$important
 ##################################################################################
