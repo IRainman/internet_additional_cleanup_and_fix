@@ -1,5 +1,6 @@
 # Title: HedgehogInTheCPP additional list
 # Description: This is my extendent DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home.
+# Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
 ##################################################################################
 # Fixes for other lists -> unblock
 @@||addons.mozilla.org^$important
