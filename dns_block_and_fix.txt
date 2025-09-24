@@ -205,23 +205,21 @@
 ##################################################################################
 # Yandex
 # many errors in Yandex services, but unfck many other apps
-#|yandex.ru^$important
+|yandex.ru^$important
 #||browser.yandex.*^$important
 #||yastatic.*^$important
 
-#||an.yandex.*^$important
-#||direct.yandex.*^$important
-#||mc.yandex.*^$important
-#||media-adv.market.yandex.*^$important
-#||yandex*change.*^$important
-#||kiks.yandex.*^$important
-#||banners.mobile.yandex.*^$important
-#||analytics.mobile.yandex.*^$important
-#||appmetrica.yandex.*^$important
-#||market-click-baobab.yandex.*^$important
-# Yandex tracker (if enabled I get many errors in their services)
+||direct.yandex.*^$important
+||media-adv.market.yandex.*^$important
+||yandex*change.*^$important
+||kiks.yandex.*^$important
+||banners.mobile.yandex.*^$important
+||analytics.mobile.yandex.*^$important
+||appmetrica.yandex.*^$important
+||market-click-baobab.yandex.*^$important
+# Yandex tracker (many errors in Yandex services)
 #||clck.yandex.*^$important
-# Yandex direct in the Android apps? (if enabled I get many errors in their services)
+# Yandex direct in the Android apps? (many errors in Yandex services)
 #avatars-fast.yandex.*^$important
 ##################################################################################
 # 2Gis
