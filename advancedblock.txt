@@ -518,3 +518,10 @@ magnit.ru##.special-offers
 magnit.ru##.popular
 magnit.ru##.partners-offers
 magnit.ru##.magazine
+
+cosmetic.magnit.ru##.sections-ticker.ticker
+cosmetic.magnit.ru##.unit-ad-block-message
+
+mm.ru##.banner-block
+mm.ru##.offer
+mm.ru##.inline-banner
