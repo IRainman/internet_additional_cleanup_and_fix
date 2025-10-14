@@ -108,6 +108,7 @@ eda.yandex##div.CatalogPageCarousel_root
 disk.yandex.ru##.top-banner_stretch
 
 market.yandex.ru###\/content\/header\/madvHeaderPromo
+market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation\/recommendationRoll
 market.yandex.ru###\/content\/orderConfirmation\/heroBannerCarousel
 market.yandex.ru###\/content\/page\/fancyPage\/heroBannerCarousel
 market.yandex.ru###\/content\/orderConfirmation\/recommendationRoll
