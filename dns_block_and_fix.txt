@@ -25,7 +25,9 @@
 @@||imgsmail.ru^$important
 @@||bodis.com^$important
 @@||nhacmp3youtube.com^$important
+@@||limetorrents.lol^$important
 @@||limetorrents.pro^$important
+@@||lostfilm.top^^$important
 @@||openvpn.net^$important
 # Fixes for other lists -> reblock
 #||51.la^$important
