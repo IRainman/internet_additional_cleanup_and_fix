@@ -101,6 +101,8 @@ www.inoreader.com###consent_bbb
 
 www.kinopoisk.ru##.footer
 
+||avatars.mds.yandex.net/get-adfox-content/*$image
+||avatars.mds.yandex.net/get-market-adv/*$image
 ||yandex.ru/safeclick/*
 ||yandex.ru/an/*
 eda.yandex##div.CatalogPageCarousel_root
