@@ -11,6 +11,7 @@
 @@||incoming.telemetry.mozilla.org^$important
 @@||watson.events.data.microsoft.com^$important
 @@||watson.telemetry.microsoft.com^$important
+@@||umwatson.events.data.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
 @@||crashlytics.com^$important
 @@||crashlyticsreports-pa.googleapis.com
