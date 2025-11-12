@@ -67,6 +67,7 @@
 #||bisnessrussia.xyz^$important
 #||bloginfo.top^$important
 #||casalemedia.com^$important
+#||cookielaw.org^$important
 #||chartboost.com^$important
 #||clickdensity.com^$important
 #||clickfrog.ru^$important
