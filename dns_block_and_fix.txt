@@ -29,6 +29,7 @@
 @@||limetorrents.pro^$important
 @@||lostfilm.top^^$important
 @@||openvpn.net^$important
+@@||tampermonkey.net^$important
 # Fixes for other lists -> reblock
 #||51.la^$important
 #||ad.ddestiny.ru^$important
