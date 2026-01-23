@@ -14,6 +14,7 @@
 @@||umwatson.events.data.microsoft.com^$important
 @@||browser.pipe.aria.microsoft.com^$important
 @@||telemetry.visualstudio.microsoft.com^$important
+@@||activity.windows.com^$important
 @@||crashlytics.com^$important
 @@||crashlyticsreports-pa.googleapis.com
 @@||xray.mail.ru^$important
