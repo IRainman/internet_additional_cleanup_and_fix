@@ -492,6 +492,12 @@ msk.rt.ru##.sp-t-orange
 
 my.rt.ru##.news-block
 my.rt.ru##.banners
+my.rt.ru###top-banner-opener
+
+
+msk.t2.ru##.space-holder-top16
+msk.t2.ru##.dashboard-banner-mixx__content
+msk.t2.ru##.dashboard-two-columns
 
 
 ya.ru##.SplashscreenDefault
