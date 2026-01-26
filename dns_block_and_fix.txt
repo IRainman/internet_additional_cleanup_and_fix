@@ -17,6 +17,7 @@
 @@||activity.windows.com^$important
 @@||crashlytics.com^$important
 @@||crashlyticsreports-pa.googleapis.com
+@@||crashlogs.whatsapp.net^$important
 @@||xray.mail.ru^$important
 @@||stats.mos.ru^$important
 @@||cdn.eapteka.ru^$important
