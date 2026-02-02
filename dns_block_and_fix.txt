@@ -53,6 +53,7 @@
 #||adtechus.com^$important
 #||advertising.com^$important
 #||advertur.ru^$important
+#||aftershock.news^$important
 #||alltheladyz.xyz^$important
 #||amazon-adsystem.com^$important
 #||appads.com^$important
