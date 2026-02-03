@@ -164,6 +164,10 @@
 ||xad.com^$important
 ||xevil.net^$important
 ##################################################################################
+# Human rights violations
+||masterok.livejournal.com
+||kak2z.ru^$important
+##################################################################################
 # Bad security
 ||driverpack-solutions.ru^$important
 ||drp.su^$important
