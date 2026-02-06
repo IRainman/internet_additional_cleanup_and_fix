@@ -18,7 +18,6 @@
 @@||xray.mail.ru^$important
 @@||stats.mos.ru^$important
 @@||cdn.eapteka.ru^$important
-@@||leechers-paradise.org^$important
 @@||newslink.reuters.com^$important
 @@||international^$important
 @@||x230.0fees.us^$important
