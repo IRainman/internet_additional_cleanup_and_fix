@@ -493,6 +493,7 @@ msk.rt.ru##.sp-t-orange
 my.rt.ru##.news-block
 my.rt.ru##.banners
 my.rt.ru###top-banner-opener
+my.rt.ru##.omch-wink-player-container
 
 
 msk.t2.ru##.space-holder-top16
