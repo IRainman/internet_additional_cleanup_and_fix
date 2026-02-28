@@ -30,6 +30,7 @@
 @@||lostfilm.top^^$important
 @@||bt.nnm-club.cc^$important
 @@||boincstats.com^$important
+@@||t2.gstatic.com^$important
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
