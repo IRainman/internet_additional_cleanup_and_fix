@@ -226,6 +226,7 @@
 ||adsrv.hh.ru^$important
 ##################################################################################
 # CDEK
+||ad-cdek.ru^$important
 ||cdek.shopping^$important
 ||uxcam.com^$important
 #mobile-apps.cdek.ru^$important
