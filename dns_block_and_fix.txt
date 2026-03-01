@@ -43,6 +43,7 @@
 @@||gfe.nvidia.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||geomobileservices-pa.googleapis.com^$important
+@@||browser.events.data.microsoft.com^$important
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
