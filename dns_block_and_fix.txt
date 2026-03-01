@@ -49,6 +49,7 @@
 @@||firebaseinstallations.googleapis.com^$important
 @@||firebaselogging-pa.googleapis.com^$important
 @@||location.services.mozilla.com^$important
+@@||locationhistory-pa.googleapis.com^$important
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
