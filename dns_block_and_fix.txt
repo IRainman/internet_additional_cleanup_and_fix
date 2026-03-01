@@ -55,6 +55,7 @@
 ||ad.ddestiny.ru^$important
 ||adexpro.com^$important
 ||adjust.com^$important
+||adjust.io^$important
 ||adfox.ru^$important
 ||adgear.com^$important
 ||adlabs.ru^$important
