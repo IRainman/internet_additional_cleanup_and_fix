@@ -34,6 +34,8 @@
 @@||t2.gstatic.com^$important
 @@||ifconfig.me^$important
 @@||blogspot.com^$important
+@@||locationiq.com^$important
+@@||glpals.com^$important
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
