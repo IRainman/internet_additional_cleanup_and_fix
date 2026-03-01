@@ -40,6 +40,7 @@
 @@||s.youtube.com^$important
 @@||inference.location.live.net^$important
 @@||userlocation.googleapis.com^$important
+@@||gfe.nvidia.com^$important
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
