@@ -46,6 +46,7 @@
 @@||browser.events.data.microsoft.com^$important
 @@||config.edge.skype.com^$important
 @@||intake-analytics.wikimedia.org^$important
+@@||firebaseinstallations.googleapis.com^$important
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
