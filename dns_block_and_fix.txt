@@ -138,7 +138,6 @@
 ||mocean.mobi^$important
 ||modocean.mobi^$important
 ||mopub.com^$important
-||mradx.net^$important
 ||msads.net^$important
 ||msecn.net^$important
 ||mydas.mobi^$important
@@ -274,9 +273,11 @@
 ||binario-delivery.api.2gis.*^$important
 ##################################################################################
 # VK
+||mradx.net^$important
 ||news.mail.ru^$important
 ||browser.ru^$important
 ||dzeninfra.ru^$important
+||horo.mail.ru^$important
 ##################################################################################
 # MSN
 ||mobileads.msn.com^$important
