@@ -138,6 +138,11 @@ music.yandex.ru##.app-sms__content_details.app-sms__content
 music.yandex.ru##.footer-app-install
 
 
+mail.ru##.grid_newscol
+mail.ru##.horoscope
+mail.ru##.tabs__container
+
+
 vc.ru##.b-container > .viewed.b-articles-p-w_sponsored.b-articles-p-w
 vc.ru##.b-container > .b-content-w-comments_live.b-content-w-comments.b-content-w > .b-content > .b-content__main-w
 vc.ru##.b-last-comments
