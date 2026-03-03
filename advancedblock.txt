@@ -77,6 +77,7 @@ www.netall.ru###r_detail_bottom
 www.netall.ru##.podmain > div:nth-of-type(1) > table
 www.netall.ru##.detail_text > table
 www.netall.ru##.r_a
+www.netall.ru##.topic_1
 
 
 id41.ru##.commerc_tp
