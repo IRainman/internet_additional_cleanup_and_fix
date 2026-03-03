@@ -110,12 +110,13 @@ eda.yandex##div.CatalogPageCarousel_root
 disk.yandex.ru##.top-banner_stretch
 
 market.yandex.ru###\/content\/header\/madvHeaderPromo
+market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation
+market.yandex.ru###\/content\/page\/fancyPage\/promoBlockHeroCarouselContainer
 market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation\/recommendationRoll
 market.yandex.ru###\/content\/orderConfirmation\/heroBannerCarousel
 market.yandex.ru###\/content\/page\/fancyPage\/heroBannerCarousel
 market.yandex.ru###\/content\/orderConfirmation\/recommendationRoll
 market.yandex.ru###\/content\/footer\/appPromoLoader
-market.yandex.ru###\/cardRecommendationRollV42
 market.yandex.ru###\/content\/header\/headerPromo
 market.yandex.ru###\/content\/page\/fancyPage\/cms
 market.yandex.ru###journal-pages
@@ -540,3 +541,5 @@ cosmetic.magnit.ru##.unit-ad-block-message
 mm.ru##.banner-block
 mm.ru##.offer
 mm.ru##.inline-banner
+
+pytkam.net##.agent-warning
