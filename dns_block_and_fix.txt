@@ -231,17 +231,22 @@
 ||uxcam.com^$important
 #mobile-apps.cdek.ru^$important
 ##################################################################################
-# RuStore
-||ads.rustore.ru^$important
-||vkpns.rustore.ru^$important
-||rebus.rustore.ru^$important
-||inappstory.ru^$important
+# Wildberries
+ns2.wildberries.ru
+ns1.wildberries.ru
+||wb.ru^$important
 ##################################################################################
 # Yandex
 # many errors in Yandex services, but unfck many other apps
 #|yandex.ru^$important
 #||browser.yandex.*^$important
 #||yastatic.*^$important
+
+# not great, not terrible
+||browser.yandex.ru^
+ns1.yandex.ru
+ns2.yandex.ru
+favicon.yandex.net
 
 ||direct.yandex.*^$important
 ||media-adv.market.yandex.*^$important
@@ -278,6 +283,11 @@
 ||browser.ru^$important
 ||dzeninfra.ru^$important
 ||horo.mail.ru^$important
+# RuStore
+||ads.rustore.ru^$important
+||vkpns.rustore.ru^$important
+||rebus.rustore.ru^$important
+||inappstory.ru^$important
 ##################################################################################
 # MSN
 ||mobileads.msn.com^$important
