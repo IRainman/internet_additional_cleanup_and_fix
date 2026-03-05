@@ -241,12 +241,12 @@ ns1.wildberries.ru
 #|yandex.ru^$important
 #||browser.yandex.*^$important
 #||yastatic.*^$important
+#favicon.yandex.net
 
 # not great, not terrible
 ||browser.yandex.ru^
 ns1.yandex.ru
 ns2.yandex.ru
-favicon.yandex.net
 
 ||direct.yandex.*^$important
 ||media-adv.market.yandex.*^$important
