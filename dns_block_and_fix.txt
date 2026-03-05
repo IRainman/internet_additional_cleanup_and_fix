@@ -232,21 +232,18 @@
 #mobile-apps.cdek.ru^$important
 ##################################################################################
 # Wildberries
-ns2.wildberries.ru
-ns1.wildberries.ru
+ns*.wildberries.ru
 ||wb.ru^$important
 ##################################################################################
 # Yandex
 # many errors in Yandex services, but unfck many other apps
 #|yandex.ru^$important
-#||browser.yandex.*^$important
 #||yastatic.*^$important
-#favicon.yandex.net
 
 # not great, not terrible
-||browser.yandex.ru^
-ns1.yandex.ru
-ns2.yandex.ru
+||browser.yandex.*^$important
+ns*.yandex.*
+favicon.yandex.*
 
 ||direct.yandex.*^$important
 ||media-adv.market.yandex.*^$important
