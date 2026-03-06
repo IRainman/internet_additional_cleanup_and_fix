@@ -52,6 +52,7 @@
 @@||locationhistory-pa.googleapis.com^$important
 @@||dns.msftncsi.com^$important
 @@||certifytheweb.com^$important
+@@||apple-dns.net^$important
 # Global fixes -> reblock
 ||http-dns*.*^
 ||httpdns*.*^
