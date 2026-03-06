@@ -188,7 +188,7 @@
 ||traffstock.ru^$important
 ||tubemogul.com^$important
 ||turn.com^$important
-||vc.ru^$important
+#||vc.ru^$important
 ||videommm.pro^$important
 ||visualwebsiteoptimizer.com^$important
 ||vkk.me^$important
