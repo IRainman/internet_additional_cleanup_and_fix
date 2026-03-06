@@ -293,8 +293,8 @@ ns*.wildberries.ru
 ||max.ru^
 ||oneme.su^
 ||max.su^
-#||mail.ru^
-#||mail.su^
+||mail.ru^
+||mail.su^
 ||mradx.net^$important
 ||news.mail.ru^$important
 ||browser.ru^$important
