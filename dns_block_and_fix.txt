@@ -51,6 +51,7 @@
 @@||location.services.mozilla.com^$important
 @@||locationhistory-pa.googleapis.com^$important
 @@||dns.msftncsi.com^$important
+@@||certifytheweb.com^$important
 # Global fixes -> reblock
 ||http-dns*.*^
 ||httpdns*.*^
