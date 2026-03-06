@@ -50,6 +50,20 @@
 @@||firebaselogging-pa.googleapis.com^$important
 @@||location.services.mozilla.com^$important
 @@||locationhistory-pa.googleapis.com^$important
+# Global fixes -> reblock
+||http-dns*.*^
+||httpdns*.*^
+||httpsdns.*^
+||*-dns.*^
+||dns.*^
+||*dnscrypt*.*^
+||*cert*.*^
+||doh.*^
+||dot.*^
+||ns?.*^
+||family.*^
+||kids.*^
+||ad.*^
 # Fixes for other lists -> reblock
 ||51.la^$important
 ||ad.ddestiny.ru^$important
