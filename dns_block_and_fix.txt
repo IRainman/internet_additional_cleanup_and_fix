@@ -300,8 +300,20 @@ favicon.yandex.*
 ||serving-sys.com^$important
 ##################################################################################
 # Tinkoff
-||api-stories.tinkoff.ru^^$important
-||stories-rtb.t-bank-app.ru^^$important
-||ms-ads-image.t-static.ru^^$important
-||as.t-bank-app.ru^^$important
+||tmiaf.ru^
+||tmiaf.su^
+||sage-collector.tbank.*^
+||certs.t-bank-app.*^
+||acdn.t-bank-app.*^
+||*invest.t-bank-app.*^
+||*cfg.t-bank-app.*
+||*config.t-bank-app.*
+||*loyality*.t-bank-app.*^
+||*stories*.t-bank-app.*^
+||*feed*.t-bank-app.*^
+||*shopping*.t-bank-app.*^
+||*-ads-*.t-static.ru^$important
+||api-stories.tinkoff.ru^$important
+||stories-rtb.t-bank-app.ru^$important
+||as.t-bank-app.ru^$important
 ##################################################################################
