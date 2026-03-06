@@ -242,8 +242,8 @@ ns*.wildberries.ru
 
 # not great, not terrible
 ||browser.yandex.*^$important
-ns*.yandex.*
-favicon.yandex.*
+||ns*.yandex.*^
+||favicon.yandex.*^
 
 ||direct.yandex.*^$important
 ||media-adv.market.yandex.*^$important
