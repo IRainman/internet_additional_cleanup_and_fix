@@ -254,7 +254,7 @@ ns*.wildberries.ru
 ##################################################################################
 # Yandex
 # many errors in Yandex services, but unfck many other apps
-|yandex.ru^$important
+#|yandex.ru^$important
 #||yastatic.*^$important
 
 # not great, not terrible
@@ -296,8 +296,8 @@ ns*.wildberries.ru
 ||max.ru^
 ||oneme.su^
 ||max.su^
-#||mail.ru^
-#||mail.su^
+||mail.ru^
+||mail.su^
 ||mradx.net^$important
 ||news.mail.ru^$important
 ||browser.ru^$important
