@@ -301,6 +301,7 @@ ns*.wildberries.ru
 ||mradx.net^$important
 ||news.mail.ru^$important
 ||browser.ru^$important
+||sso.dzen.ru^
 ||dzeninfra.ru^$important
 ||horo.mail.ru^$important
 # RuStore
