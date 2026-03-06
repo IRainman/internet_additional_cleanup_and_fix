@@ -57,10 +57,10 @@
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
-||*-dns.*^
-||dns.*^
+#||*-dns.*^
+#||dns.*^
 ||*dnscrypt*.*^
-||*cert*.*^
+#||*cert*.*^
 ||doh.*^
 ||dot.*^
 ||ns?.*^
