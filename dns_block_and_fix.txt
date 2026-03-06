@@ -275,6 +275,12 @@ ns*.wildberries.ru
 ||binario-delivery.api.2gis.*^$important
 ##################################################################################
 # VK
+||oneme.ru^
+||max.ru^
+||oneme.su^
+||max.su^
+#||mail.ru^
+#||mail.su^
 ||mradx.net^$important
 ||news.mail.ru^$important
 ||browser.ru^$important
