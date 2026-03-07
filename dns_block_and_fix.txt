@@ -53,6 +53,7 @@
 #@@||dns.msftncsi.com^
 #@@||certifytheweb.com^
 #@@||apple-dns.net^
+##################################################################################
 # Global fixes -> reblock
 ||http-dns*.*^
 ||httpdns*.*^
@@ -67,12 +68,21 @@
 ||family.*^
 ||kids.*^
 ||ad.*^
+##################################################################################
+# Mobile filters fixes
+||ad.*.xiaomi.com^
+||tracking.*.miui.com^
+||ads.heytapmobi.com^
+||ads.heytapmobile.com^
+||push.hihonorcloud.*^
+##################################################################################
 # Fixes for other lists -> reblock
 ||51.la^
 ||ad.ddestiny.ru^
 ||adexpro.com^
 ||adjust.com^
 ||adjust.io^
+||adjust.net.in^
 ||adfox.ru^
 ||adgear.com^
 ||adlabs.ru^
@@ -247,6 +257,7 @@
 ||ad-cdek.ru^
 ||cdek.shopping^
 ||uxcam.com^
+||*sentry.cdek.ru^
 #mobile-apps.cdek.ru^
 ##################################################################################
 # Wildberries
@@ -338,4 +349,10 @@ ns*.wildberries.ru
 ||api-stories.tinkoff.ru^
 ||stories-rtb.t-bank-app.ru^
 ||as.t-bank-app.ru^
+##################################################################################
+# Jetlend
+||sentry.jetlend.ru^
+##################################################################################
+# Ozon
+||xapi.ozon.ru^
 ##################################################################################
