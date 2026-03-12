@@ -513,7 +513,10 @@ msk.t2.ru##.dashboard-two-columns
 ya.ru##.SplashscreenDefault
 
 
-www.wildberries.ru##.j-lottery-banner
+wildberries.*##.j-lottery-banner
+wildberries.*##.cards-list
+wildberries.*##.goods-carousel
+wildberries.*##.goods-slider
 
 
 rule34.xxx##.postListSidebarRight
