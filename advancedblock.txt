@@ -120,6 +120,8 @@ market.yandex.ru###\/content\/orderConfirmation\/recommendationRoll
 market.yandex.ru###\/content\/footer\/appPromoLoader
 market.yandex.ru###\/content\/header\/headerPromo
 market.yandex.ru###\/content\/page\/fancyPage\/cms
+market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
+market.yandex.ru###\/content\/page\/fancyPage\/fomoPopup
 market.yandex.ru###journal-pages
 market.yandex.ru##.premiumIncutDesktop
 !market.yandex.ru###ServerLayoutRendererp
@@ -512,6 +514,9 @@ ya.ru##.SplashscreenDefault
 
 
 www.wildberries.ru##.j-lottery-banner
+
+
+rule34.xxx##.postListSidebarRight
 
 
 www.amazon.com##div#audible-carousel-container.a-carousel-initialized.audible-carousel-desktop-style.a-spacing-top-medium.a-carousel-transition-slide.a-carousel-display-stretchyGoodness.a-carousel-container.a-begin
