@@ -50,9 +50,7 @@
 @@||firebaselogging-pa.googleapis.com^
 @@||location.services.mozilla.com^
 @@||locationhistory-pa.googleapis.com^
-#@@||dns.msftncsi.com^
-#@@||certifytheweb.com^
-#@@||apple-dns.net^
+@@||icann.org^
 ##################################################################################
 # Global fixes -> reblock
 ||http-dns*.*^
