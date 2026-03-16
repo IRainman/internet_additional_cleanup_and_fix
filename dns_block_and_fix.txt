@@ -214,6 +214,7 @@
 # Human rights violations
 ||masterok.livejournal.com
 ||kak2z.ru^
+||casino^
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru^
