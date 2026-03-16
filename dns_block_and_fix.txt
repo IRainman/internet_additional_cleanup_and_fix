@@ -215,20 +215,21 @@
 ||masterok.livejournal.com
 ||kak2z.ru^
 # VK
-||okcdn.ru^
-||oneme.ru^
+#||ok.ru^
+#||okcdn.ru^
+#||oneme.ru^
 ||max.ru^
-||mvk.com^
+#||mvk.com^
 ||oneme.su^
 ||max.su^
 ||mail.ru^
-||mail.su^
+#||mail.su^
 ||mradx.net^
-#||news.mail.ru^
+||news.mail.ru^
 ||browser.ru^
 ||dzen.ru^
 ||dzeninfra.ru^
-#||horo.mail.ru^
+||horo.mail.ru^
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru^
