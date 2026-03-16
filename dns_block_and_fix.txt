@@ -222,8 +222,8 @@
 #||mvk.com^
 ||oneme.su^
 ||max.su^
-||mail.ru^
-#||mail.su^
+#||mail.ru^
+||mail.su^
 ||mradx.net^
 ||news.mail.ru^
 ||browser.ru^
