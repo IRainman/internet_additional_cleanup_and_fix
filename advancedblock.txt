@@ -84,6 +84,7 @@ id41.ru##.commerc_tp
 
 
 www.ozon.ru##.products-carousel
+||ir.ozone.ru/s3/*.png$image
 
 
 magicair.tion.ru###shop-button
@@ -110,6 +111,7 @@ eda.yandex##div.CatalogPageCarousel_root
 
 disk.yandex.ru##.top-banner_stretch
 
+market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/header\/madvHeaderPromo
 market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation
 market.yandex.ru###\/content\/page\/fancyPage\/promoBlockHeroCarouselContainer
