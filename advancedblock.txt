@@ -554,3 +554,8 @@ mm.ru##.offer
 mm.ru##.inline-banner
 
 pytkam.net##.agent-warning
+
+msk1.ru##.w-100
+msk1.ru##.block-opinions
+msk1.ru##div.gridOneThirdLaptop
+msk1.ru##.mt-3.mb-8
