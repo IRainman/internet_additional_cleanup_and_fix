@@ -51,7 +51,6 @@
 @@||location.services.mozilla.com^
 @@||locationhistory-pa.googleapis.com^
 @@||icann.org^
-@@||ru.com^
 ##################################################################################
 # Global fixes -> reblock
 ||http-dns*.*^
