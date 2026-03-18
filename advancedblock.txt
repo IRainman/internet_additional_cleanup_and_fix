@@ -143,6 +143,9 @@ music.yandex.ru##.app-sms_theme_banner.app-sms > .app-sms__content
 music.yandex.ru##.app-sms__content_details.app-sms__content
 music.yandex.ru##.footer-app-install
 
+telemost.yandex.ru##.Orb-Empty
+telemost.yandex.ru##.stubWrapper_
+
 
 mail.ru##.grid_newscol
 mail.ru##.horoscope
@@ -559,3 +562,7 @@ msk1.ru##.w-100
 msk1.ru##.block-opinions
 msk1.ru##div.gridOneThirdLaptop
 msk1.ru##.mt-3.mb-8
+
+zoom.us##.zoom-popover__trigger
+
+www.theguardian.com##.top-banner-ad-container
