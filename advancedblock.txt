@@ -85,8 +85,8 @@ id41.ru##.commerc_tp
 
 www.ozon.ru##.products-carousel
 ||ozone.ru/s3/*.png$image
-||ozone.ru/*.marketing.js
-!||ozone.ru/*vendor-*.js
+!||ozone.ru/*.marketing.js
+||ozone.ru/*vendor-*.js
 finance.ozon.ru##.banner
 finance.ozon.ru##.carousel-container
 
