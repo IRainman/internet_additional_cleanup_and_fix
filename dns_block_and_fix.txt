@@ -148,7 +148,6 @@
 ||fqtag.com^
 ||gemius.pl^
 ||getclicky.com^
-||googleadservices.com^
 ||hghit.com^
 ||hizb-ut-tahrir.org^
 ||hubrus.com^
