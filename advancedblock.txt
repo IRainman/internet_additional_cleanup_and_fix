@@ -84,8 +84,9 @@ id41.ru##.commerc_tp
 
 
 www.ozon.ru##.products-carousel
-||ir.ozone.ru/s3/*.png$image
+||ozone.ru/s3/*.png$image
 ||ozone.ru/*.marketing.js
+||ozone.ru/*.vendor.js
 
 
 magicair.tion.ru###shop-button
