@@ -107,13 +107,14 @@ www.kinopoisk.ru##.footer
 
 ||avatars.mds.yandex.net/get-adfox-content/*$image
 ||avatars.mds.yandex.net/get-market-adv/*$image
+
 ||yandex.ru/safeclick/*
 ||yandex.ru/an/*
+
 eda.yandex##div.CatalogPageCarousel_root
 
 disk.yandex.ru##.top-banner_stretch
 
-market.yandex.ru###\/content\/page\/fancyPage\/recommendationRollTabs
 market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/header\/madvHeaderPromo
 market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation
