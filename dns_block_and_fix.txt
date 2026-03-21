@@ -81,6 +81,11 @@
 ||ublockdns.com^
 ||joindns4.eu^
 |*-*.akam.net^
+||dnsnl.alekberg.net^
+||dns-tunnel-check.googlezip.net^
+||domain1.org^
+||domain2.org^
+||www.css^
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.com^
