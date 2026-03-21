@@ -332,11 +332,11 @@ ns?.wildberries.ru
 # VK
 #||ok.ru^
 #||okcdn.ru^
-||oneme.ru^
-||max.ru^
+#||oneme.ru^
+#||max.ru^
 #||mvk.com^
-||oneme.su^
-||max.su^
+#||oneme.su^
+#||max.su^
 #||mail.ru^
 ||mail.su^
 ||mradx.net^
