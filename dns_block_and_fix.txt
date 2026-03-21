@@ -81,6 +81,7 @@
 ||ublockdns.com^
 ||joindns4.eu^
 |*-*.akam.net^
+||sponsor.*^
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
