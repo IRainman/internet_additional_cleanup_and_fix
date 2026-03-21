@@ -61,6 +61,7 @@
 ||*dnscrypt*.*^
 #||*cert*.*^
 ||doh.*^
+||doh-*.*^
 ||dot.*^
 ||ns.*^
 ||ns?.*^
@@ -77,8 +78,6 @@
 ||dnspod.net^
 ||dnspod.org^
 ||dnsv?.com^
-||doh.pub^
-||dot.pub^
 ||ublockdns.com^
 ||joindns4.eu^
 |*-*.akam.net^
