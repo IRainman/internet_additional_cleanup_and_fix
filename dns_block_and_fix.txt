@@ -81,18 +81,26 @@
 ||ublockdns.com^
 ||joindns4.eu^
 |*-*.akam.net^
+##################################################################################
+# Mobile filters fixes
+||ad.*.xiaomi.*^
+||tracking.*.miui.*^
+||ads.heytapmobi.*^
+||ads.heytapmobile.*^
+||push.hihonorcloud.*^
 ||dnsnl.alekberg.net^
 ||dns-tunnel-check.googlezip.net^
 ||domain1.org^
 ||domain2.org^
 ||www.css^
-##################################################################################
-# Mobile filters fixes
-||ad.*.xiaomi.com^
-||tracking.*.miui.com^
-||ads.heytapmobi.com^
-||ads.heytapmobile.com^
-||push.hihonorcloud.*^
+||configserver.platform.hicloud.*^
+||metrics.dt.hicloud.*^
+||cloudrom-global.emui.dbankcloud.*^
+||query-channel.hicloud.*^
+||dnkeeper.platform.dbankcloud.*^
+||dnkeeper-drru.platform.dbankcloud.*^
+||dnkeeper.dbankcloud.*^
+||dnkeeper.hicloud.*^
 ##################################################################################
 # Fixes for other lists -> reblock
 ||51.la^
