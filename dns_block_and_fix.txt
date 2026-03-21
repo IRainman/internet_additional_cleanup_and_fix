@@ -62,6 +62,7 @@
 #||*cert*.*^
 ||doh.*^
 ||dot.*^
+||ns.*^
 ||ns?.*^
 ||family.*^
 ||kids.*^
