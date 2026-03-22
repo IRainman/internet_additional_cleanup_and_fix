@@ -52,7 +52,7 @@
 @@||locationhistory-pa.googleapis.com^
 @@||icann.org^
 ##################################################################################
-# Global fixes -> reblock
+# Global fixes () -> reblock
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
@@ -68,7 +68,6 @@
 ||ns??.*^
 ||family.*^
 ||kids.*^
-#||ad.*^
 ||dns.pub^
 ||dnsapi.cn^
 ||dnspod.cn^
@@ -105,11 +104,10 @@
 ##################################################################################
 # Fixes for other lists -> reblock
 ||51.la^
+#||ad.*^
 ||ad.ddestiny.ru^
 ||adexpro.com^
-||adjust.com^
-||adjust.io^
-||adjust.net.in^
+||adjust.*^
 ||adfox.ru^
 ||adgear.com^
 ||adlabs.ru^
@@ -332,11 +330,11 @@ ns?.wildberries.ru
 # VK
 #||ok.ru^
 #||okcdn.ru^
-#||oneme.ru^
-#||max.ru^
+||oneme.ru^
+||max.ru^
 #||mvk.com^
-#||oneme.su^
-#||max.su^
+||oneme.su^
+||max.su^
 #||mail.ru^
 ||mail.su^
 ||mradx.net^
