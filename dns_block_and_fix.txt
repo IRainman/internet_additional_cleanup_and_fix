@@ -84,6 +84,9 @@
 ##################################################################################
 # Data leak to Google, we already use DNS filtering and Gate that keep network save.
 ||safebrowsing.googleapis.com^
+# Data leak: now Mozilla is advertising company. They choise it by yourself. As a Google it's untrusted.
+||malware-error.mozilla.com^
+||phish-error.mozilla.com^
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
