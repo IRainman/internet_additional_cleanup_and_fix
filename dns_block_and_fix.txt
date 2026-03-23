@@ -82,6 +82,9 @@
 |*-*.akam.net^
 ||sponsor.*^
 ##################################################################################
+# Data leak to Google, we already use DNS filtering and Gate that keep network save.
+||safebrowsing.googleapis.com^
+##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
 ||tracking.*.miui.*^
