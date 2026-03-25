@@ -248,6 +248,8 @@
 ||masterok.livejournal.com
 ||kak2z.ru^
 ||casino^
+# Original is here https://meduza.io/
+||lenta.ru^
 ##################################################################################
 # Bad security
 ||driverpack-solutions.ru^
@@ -268,7 +270,7 @@
 # Fakes
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^
-# Эхо (dead domain)
+# Original is there https://echofm.online/ Эхо (dead domains), 
 ||echo.msk.ru^
 ||ritmmsk.ru^
 # see yadro.com
@@ -276,7 +278,7 @@
 # tg unfck
 ||tlgrm.ru^
 ##################################################################################
-# Mobile OP's
+# Mobile OP's unfck
 ||tb.beeline.ru^
 ||toolbar.beeline.ru^
 ||mobilebanner.ru^
@@ -303,7 +305,9 @@ ns?.wildberries.ru
 #||yastatic.*^
 # But this is not great, not terrible
 ||browser.yandex.*^
-||ns*.yandex.*^
+||ns.yandex.*^
+||ns?.yandex.*^
+||ns??.yandex.*^
 ||favicon.yandex.*^
 
 ||direct.yandex.*^
