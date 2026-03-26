@@ -53,6 +53,7 @@
 @@||icann.org^
 ##################################################################################
 # Global fixes () -> reblock
+||antivirus.*
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
