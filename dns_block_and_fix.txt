@@ -252,9 +252,14 @@
 ||lenta.ru^
 ##################################################################################
 # Bad security, fakes, honeypots
+# SDI original is here https://snappy-driver-installer.org/ and https://www.glenn.delahoy.com/snappy-driver-installer-origin/
 ||driverpack-solutions.ru^
 ||drp.su^
 ||sdi-tool.org^
+||snappydriverinstaller.com^
+||sdilite.com^
+#... many other, please keep other creaters of the lists to know this shit.
+
 ||imaill.*^
 ||megaffon.ru^
 ||mybrowserbar.com^
