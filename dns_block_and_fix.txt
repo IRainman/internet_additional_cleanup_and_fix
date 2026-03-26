@@ -251,9 +251,10 @@
 # Original is here https://meduza.io/
 ||lenta.ru^
 ##################################################################################
-# Bad security
+# Bad security, fakes, honeypots
 ||driverpack-solutions.ru^
 ||drp.su^
+||sdi-tool.org^
 ||imaill.*^
 ||megaffon.ru^
 ||mybrowserbar.com^
@@ -266,17 +267,22 @@
 ||v2-mail.ru^
 ||viglink.com^
 ||vkmix.com^
-##################################################################################
-# Fakes
+
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^
+
 # Original is there https://echofm.online/ Эхо (dead domains), 
 ||echo.msk.ru^
 ||ritmmsk.ru^
+
 # see yadro.com
 ||yadro.ru^
+
 # tg unfck
 ||tlgrm.ru^
+||telega.info^
+||calls.okcdn.ru^
+||dal.mvk.com^
 ##################################################################################
 # Mobile OP's unfck
 ||tb.beeline.ru^
