@@ -110,6 +110,7 @@
 ##################################################################################
 # Fixes for other lists -> reblock
 ||51.la^
+# too much
 #||ad.*^
 ||ad.ddestiny.ru^
 ||adexpro.com^
@@ -230,7 +231,6 @@
 ||traffstock.ru^
 ||tubemogul.com^
 ||turn.com^
-#||vc.ru^
 ||videommm.pro^
 ||visualwebsiteoptimizer.com^
 ||vkk.me^
