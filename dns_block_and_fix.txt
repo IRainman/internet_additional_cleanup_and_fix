@@ -58,6 +58,7 @@
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
+||freedns.*^
 #||*-dns.*^
 #||dns.*^
 ||*dnscrypt*.*^
