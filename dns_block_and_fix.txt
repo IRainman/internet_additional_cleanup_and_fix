@@ -56,6 +56,7 @@
 ||antivirus.*^
 ||internetsehat.*^
 ||dns*tls.*^
+||tls-dns-u.*^
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
