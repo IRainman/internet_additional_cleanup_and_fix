@@ -81,6 +81,7 @@
 ||joindns4.eu^
 |*-*.akam.net^
 ||sponsor.*^
+||astracat.vercel.app^
 ##################################################################################
 # Data leak to Google, we already use DNS filtering and Gate that keep network save.
 ||safebrowsing.googleapis.com^
