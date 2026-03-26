@@ -4,9 +4,10 @@
 ! Expires: 1 days
 
 
-leroymerlin.ru##.main > .drpdwn > .inner > .tng
-leroymerlin.ru###progressBar
-leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
+# TODO fix me
+#leroymerlin.ru##.main > .drpdwn > .inner > .tng
+#leroymerlin.ru###progressBar
+#leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
 
 
 ! Exclude fix for the error in the list located here hg.adblockplus.org/ruadlist/raw-file/tip/bitblock/annoyance_specific_block.txt 
