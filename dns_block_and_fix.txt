@@ -92,6 +92,8 @@
 ||cleanbrowsing.org^
 ||getdnsapi.net^
 ||openbld.net^
+||rabbitdns.org^
+||rethinkdns.com^
 ##################################################################################
 # Data leak to Google, we already use DNS filtering and Gate that keep network save.
 ||safebrowsing.googleapis.com^
