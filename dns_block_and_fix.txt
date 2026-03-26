@@ -253,6 +253,7 @@
 ##################################################################################
 # Bad security, fakes, honeypots
 # SDI original is here https://snappy-driver-installer.org/ and https://www.glenn.delahoy.com/snappy-driver-installer-origin/
+# Additionally check this, if you don't trust me for some reason https://chatgpt.com/share/69c52986-50f8-8384-a8b5-71bea9c7dfd2
 ||driverpack-solutions.ru^
 ||drp.su^
 ||sdi-tool.org^
