@@ -55,8 +55,7 @@
 # Global fixes () -> reblock
 ||antivirus.*^
 ||internetsehat.*^
-||dnsovertls.*^
-||dns-tls.*^
+||dns*tls.*^
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
