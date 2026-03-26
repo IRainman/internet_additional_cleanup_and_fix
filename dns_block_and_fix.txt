@@ -61,6 +61,7 @@
 ||httpdns*.*^
 ||httpsdns.*^
 ||freedns.*^
+||ordns.*^
 #||*-dns.*^
 #||dns.*^
 ||*dnscrypt*.*^
