@@ -66,6 +66,7 @@
 #||dns.*^
 ||*dnscrypt*.*^
 #||*cert*.*^
+||security.*^
 ||doh.*^
 ||doh-*.*^
 ||dot.*^
