@@ -94,6 +94,7 @@
 ||openbld.net^
 ||rabbitdns.org^
 ||rethinkdns.com^
+||v.recipes^
 ##################################################################################
 # Data leak to Google, we already use DNS filtering and Gate that keep network save.
 ||safebrowsing.googleapis.com^
