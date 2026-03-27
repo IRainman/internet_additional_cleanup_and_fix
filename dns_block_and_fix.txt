@@ -288,13 +288,9 @@
 ||xevil.net^
 ##################################################################################
 # Human rights violations
-
 ||masterok.livejournal.com
-
 ||kak2z.ru^
-
 ||smokenosov.blogspot.com^
-
 ||topwar.ru^
 
 # Used with HaGeZi's Gambling Blocklist:
@@ -389,33 +385,22 @@
 # Yandex direct in the Android apps? (many errors in Yandex services)
 #avatars-fast.yandex.*^
 ##################################################################################
-# 2Gis
-||link.2gis.*^
-||mis.2gis.*^
-||tips.api.2gis.*^
-||jam.api.2gis.*^
-||tugc.2gis.*^
-||goods-backend.api.2gis.*^
-||stories.api.2gis.*^
-||bonuses.api.2gis.*^
-||binario-delivery.api.2gis.*^
-# errors 
-#||disk.2gis.*^
-#||hybrid.api.2gis.*^
+# 2Gis WIP...
+/^*\.(2gis)\.(ru|su|com|net|org)$/
 ##################################################################################
-# VK
-#||ok.ru^
-#||okcdn.ru^
+# VK (mail.ru)
+||ok.ru^
+||okcdn.ru^
 ||oneme.ru^
 ||max.ru^
 #||mvk.com^
 ||oneme.su^
 ||max.su^
-#||mail.ru^
+||mail.ru^
 ||mail.su^
 ||mradx.net^
-||news.mail.ru^
 ||browser.ru^
+||news.mail.ru^
 #||dzen.ru^
 #||dzeninfra.ru^
 ||horo.mail.ru^
