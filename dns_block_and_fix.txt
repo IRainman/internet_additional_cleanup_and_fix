@@ -107,6 +107,7 @@
 ||router.comss.one^
 ||odvr.nic.cz^
 ||dnsforfamily.com^
+||protective.joindns4.eu^
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing.googleapis.com^
