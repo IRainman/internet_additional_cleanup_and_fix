@@ -436,6 +436,7 @@ ns?.wildberries.ru
 ||sage-collector.tbank.*^
 ||certs.t-bank-app.*^
 ||*cdn.t-bank-app.*^
+||*cdn-tinkoff.*^
 ||*invest.t-bank-app.*^
 ||*cfg.t-bank-app.*
 ||*config.t-bank-app.*
