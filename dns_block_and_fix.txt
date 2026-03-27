@@ -127,13 +127,8 @@
 ||malware-error.mozilla.com^
 ||phish-error.mozilla.com^
 
-# Data leak to Meta:
-||graph.facebook.*^
-||*-graph.facebook.*^
-||graph.instagram.*^
-||*-graph.instagram.*^
-||graphs.fb.me^
-||-graphs.fb.me^
+# Data leak to Meta (sorry for thr the regexp):
+/^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
@@ -328,10 +323,10 @@
 ||echo.msk.ru^
 ||ritmmsk.ru^
 
-# see yadro.com
+# see yadro.com - it's company and not scam.
 ||yadro.ru^
 
-# tg unfck
+# telegramm unfck
 ||tlgrm.ru^
 ||telega.info^
 ||telega.me^
