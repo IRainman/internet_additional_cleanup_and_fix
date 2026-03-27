@@ -417,9 +417,11 @@
 ||mradx.net^
 ||browser.ru^
 ||news.mail.ru^
+||horo.mail.ru^
+
+# dzen
 #||dzen.ru^
 #||dzeninfra.ru^
-||horo.mail.ru^
 
 # RuStore
 ||ads.rustore.ru^
