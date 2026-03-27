@@ -443,10 +443,10 @@ ns?.wildberries.ru
 ||*stories*.t-bank-app.*^
 ||*feed*.t-bank-app.*^
 ||*shopping*.t-bank-app.*^
-||*-ads-*.t-static.ru^
-||api-stories.tinkoff.ru^
-||stories-rtb.t-bank-app.ru^
-||as.t-bank-app.ru^
+||*ads*.t-static.*^
+||*stories*.tinkoff.*^
+||*stories*.t-bank-app.*^
+||as.t-bank-app.*^
 ##################################################################################
 # Jetlend
 ||sentry.jetlend.ru^
