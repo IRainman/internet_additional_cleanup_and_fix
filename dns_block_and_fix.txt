@@ -440,7 +440,7 @@
 ||2mdn.net^
 ||serving-sys.com^
 ##################################################################################
-# Tinkoff
+# Z bank
 ||tmiaf.*^
 ||sage-collector.tbank.*^
 ||certs.t-bank-app.*^
@@ -457,6 +457,7 @@
 ||*stories*.tinkoff.*^
 ||*stories*.t-bank-app.*^
 ||as.t-bank-app.*^
+||e.mail.ru^
 ##################################################################################
 # Jetlend
 #||sentry.jetlend.ru^
