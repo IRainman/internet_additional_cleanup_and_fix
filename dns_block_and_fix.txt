@@ -108,6 +108,7 @@
 ||odvr.nic.cz^
 ||dnsforfamily.com^
 ||protective.joindns4.eu^
+||kaitain.restena.lu^
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing.googleapis.com^
