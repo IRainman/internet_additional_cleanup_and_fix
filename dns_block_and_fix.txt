@@ -432,11 +432,10 @@ ns?.wildberries.ru
 ||serving-sys.com^
 ##################################################################################
 # Tinkoff
-||tmiaf.ru^
-||tmiaf.su^
+||tmiaf.*^
 ||sage-collector.tbank.*^
 ||certs.t-bank-app.*^
-||acdn.t-bank-app.*^
+||*cdn.t-bank-app.*^
 ||*invest.t-bank-app.*^
 ||*cfg.t-bank-app.*
 ||*config.t-bank-app.*
