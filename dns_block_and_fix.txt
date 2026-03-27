@@ -385,26 +385,42 @@
 # Yandex direct in the Android apps? (many errors in Yandex services)
 #avatars-fast.yandex.*^
 ##################################################################################
-# 2Gis WIP...
-/^*\.(2gis)\.(ru|su|com|net|org)$/
+# Sber WIP
+/^*\.(rambler)\.(ru|su|com|net|org)$/
+
+/^*\.(sber|sberbank|sbrf)\.(ru|su|com|net|org)$/
+@@|id.sber.ru^
+
+# 2GIS
+/^*\.(2gis)\.(ru|su|ae|com|net|org)$/
+@@|2gis.com^
+@@|id.2gis.com^
+@@|me.2gis.ru^
+@@|d-assets.2gis.ru^
 ##################################################################################
-# VK (mail.ru)
-||ok.ru^
-||okcdn.ru^
+# VK
+#||mvk.com^
+
+# Odnoklassniki
+#||ok.ru^
+#||okcdn.ru^
+
+# Max
 ||oneme.ru^
 ||max.ru^
-#||mvk.com^
 ||oneme.su^
 ||max.su^
-||mail.ru^
-||mail.su^
+
+# mail.ru
+#||mail.ru^
+#||mail.su^
 ||mradx.net^
 ||browser.ru^
 ||news.mail.ru^
 #||dzen.ru^
 #||dzeninfra.ru^
 ||horo.mail.ru^
-##################################################################################
+
 # RuStore
 ||ads.rustore.ru^
 ||vkpns.rustore.ru^
@@ -437,7 +453,4 @@
 ##################################################################################
 # Ozon
 ||xapi.ozon.ru^
-##################################################################################
-# Sber
-||hostmaster.sigma.sbrf.ru^
 ##################################################################################
