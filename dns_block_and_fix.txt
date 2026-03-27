@@ -23,7 +23,6 @@
 @@||newslink.reuters.com^
 @@||international^
 @@||x230.0fees.us^
-@@||imgsmail.ru^
 @@||bodis.com^
 @@||nhacmp3youtube.com^
 @@||limetorrents.lol^
@@ -154,9 +153,10 @@
 ||dnkeeper-*.*^
 ##################################################################################
 # Fixes for other lists -> reblock
-||51.la^
 # too much
 #||ad.*^
+
+||51.la^
 ||ad.ddestiny.ru^
 ||adexpro.com^
 ||adjust.*^
@@ -218,7 +218,6 @@
 ||hghit.com^
 ||hizb-ut-tahrir.org^
 ||hubrus.com^
-||imgsmail.ru^
 ||inmobi.com^
 ||inmobicdn.net^
 ||instreamatic.com^
@@ -262,8 +261,8 @@
 ||samilia.ru^
 ||scorecardresearch.com^
 ||shorek.ru^
+||sentry.*^
 ||smaato.net^
-||smokenosov.blogspot.com^
 ||socfishing.ru^
 ||socgate.ru^
 ||sociomantic.com^
@@ -290,11 +289,24 @@
 ||xevil.net^
 ##################################################################################
 # Human rights violations
+
 ||masterok.livejournal.com
+
 ||kak2z.ru^
-||casino^
+
+||smokenosov.blogspot.com^
+
+||topwar.ru^
+
+# Used with HaGeZi's Gambling Blocklist:
+||*.casino^
+
 # Original is here https://meduza.io/
 ||lenta.ru^
+
+# Original is there https://echofm.online/ Эхо (dead domains), 
+||echo.msk.ru^
+||ritmmsk.ru^
 ##################################################################################
 # Bad security, fakes, honeypots
 # SDI original is here https://snappy-driver-installer.org/ and https://www.glenn.delahoy.com/snappy-driver-installer-origin/
@@ -322,10 +334,6 @@
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^
 
-# Original is there https://echofm.online/ Эхо (dead domains), 
-||echo.msk.ru^
-||ritmmsk.ru^
-
 # see yadro.com - it's company and not scam.
 ||yadro.ru^
 
@@ -349,7 +357,7 @@
 ||ad-cdek.ru^
 ||cdek.shopping^
 ||uxcam.com^
-||*sentry.cdek.ru^
+#||sentry.cdek.ru^
 #mobile-apps.cdek.ru^
 ##################################################################################
 # Wildberries
@@ -450,7 +458,7 @@ ns?.wildberries.ru
 ||as.t-bank-app.*^
 ##################################################################################
 # Jetlend
-||sentry.jetlend.ru^
+#||sentry.jetlend.ru^
 ##################################################################################
 # Ozon
 ||xapi.ozon.ru^
