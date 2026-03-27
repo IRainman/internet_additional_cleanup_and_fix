@@ -110,6 +110,8 @@
 ||dnsforfamily.com^
 ||protective.joindns4.eu^
 ||kaitain.restena.lu^
+||frd4wvnobp.cloudflare-gateway.com^
+||rx.techomespace.com^
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing.googleapis.com^
