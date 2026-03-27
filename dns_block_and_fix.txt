@@ -66,6 +66,8 @@
 ||freedns.*^
 ||ordns.*^
 ||*-dns.*^
+||*-doh.*^
+||*-dot.*^
 #||dns.*^
 ||*dnscrypt*.*^
 #||*cert*.*^
@@ -101,6 +103,10 @@
 ||rethinkdns.com^
 ||v.recipes^
 ||wikimedia-dns.org^
+||canadianshield.cira.ca^
+||router.comss.one^
+||odvr.nic.cz^
+||dnsforfamily.com^
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing.googleapis.com^
