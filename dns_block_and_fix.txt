@@ -58,6 +58,7 @@
 # Many programs and operating systems employ DoH and other DNS servers to transmit unwanted content, including malware, spam, and advertisements.
 ||antivirus.*^
 ||internetsehat.*^
+||resolver.*^
 ||dns*tls.*^
 ||tls-dns-u.*^
 ||http-dns*.*^
