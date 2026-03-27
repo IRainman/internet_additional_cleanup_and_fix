@@ -20,8 +20,6 @@
 @@||crashlytics.com^
 @@||crashlyticsreports-pa.googleapis.com
 @@||crashlogs.whatsapp.net^
-@@||xray.mail.ru^
-@@||stats.mos.ru^
 @@||cdn.eapteka.ru^
 @@||newslink.reuters.com^
 @@||international^
@@ -48,8 +46,6 @@
 @@||findmydevice-pa.googleapis.com^
 @@||geomobileservices-pa.googleapis.com^
 @@||intake-analytics.wikimedia.org^
-@@||firebaseinstallations.googleapis.com^
-@@||firebaselogging-pa.googleapis.com^
 @@||location.services.mozilla.com^
 @@||locationhistory-pa.googleapis.com^
 @@||icann.org^
