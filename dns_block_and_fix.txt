@@ -122,14 +122,18 @@
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing.googleapis.com^
+
 # Data leak: now Mozilla is advertising company. They choise it by yourself. As a Google it's untrusted.
 ||malware-error.mozilla.com^
 ||phish-error.mozilla.com^
+
 # Data leak to Meta:
 ||graph.facebook.*^
 ||*-graph.facebook.*^
 ||graph.instagram.*^
 ||*-graph.instagram.*^
+||graphs.fb.me^
+||-graphs.fb.me^
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
