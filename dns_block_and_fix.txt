@@ -3,7 +3,8 @@
 # Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
 ##################################################################################
 # Fixes for other lists -> unblock.
-# Mainly additional for full, not lite lists, and especially the ShadowWhisperer Tracking List that completely broke to much functionality.
+# Mainly additional for full, not lite lists, and especially the ShadowWhisperer Tracking List that completely broke much functionality, and I still try to integrate it.
+# If you need (for some reason) use of the 1Hosts (Xtra) list, I'm not sorry: please provide feedback to the 1Hosts; I would rather not fix this paranoid mode list.
 @@||adguard-dns.io^
 @@||addons.mozilla.org^
 @@||firefox.com^
