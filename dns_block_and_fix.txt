@@ -52,7 +52,10 @@
 @@||locationhistory-pa.googleapis.com^
 @@||icann.org^
 ##################################################################################
-# Global fixes () -> reblock
+# Global fixes -> reblock by masks
+# The network is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
+# When we have remote clients, we use VPNs to protect their information. 
+# Many programs and operating systems employ DoH and other DNS servers to transmit unwanted content, including malware, spam, and advertisements.
 ||antivirus.*^
 ||internetsehat.*^
 ||dns*tls.*^
@@ -62,7 +65,7 @@
 ||httpsdns.*^
 ||freedns.*^
 ||ordns.*^
-#||*-dns.*^
+||*-dns.*^
 #||dns.*^
 ||*dnscrypt*.*^
 #||*cert*.*^
@@ -70,6 +73,8 @@
 ||doh.*^
 ||doh-*.*^
 ||dot.*^
+||dot?.*^
+||dot??.*^
 ||ns.*^
 ||ns?.*^
 ||ns??.*^
@@ -95,8 +100,9 @@
 ||rabbitdns.org^
 ||rethinkdns.com^
 ||v.recipes^
+||wikimedia-dns.org^
 ##################################################################################
-# Data leak to Google, we already use DNS filtering and Gate that keep network save.
+# Data leak to Google:
 ||safebrowsing.googleapis.com^
 # Data leak: now Mozilla is advertising company. They choise it by yourself. As a Google it's untrusted.
 ||malware-error.mozilla.com^
