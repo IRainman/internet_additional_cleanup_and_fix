@@ -121,11 +121,10 @@
 ||jp.tiar.app^
 ##################################################################################
 # Data leak to Google:
-||safebrowsing.googleapis.com^
+||safebrowsing*.googleapis.com^
 
-# Data leak: now Mozilla is advertising company. They choise it by yourself. As a Google it's untrusted.
-||malware-error.mozilla.com^
-||phish-error.mozilla.com^
+# Data leak: now Mozilla is advertising company (see Google fix below)
+||*-error.mozilla.com^
 
 # Data leak to Meta (sorry for thr the regexp):
 /^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
@@ -138,17 +137,21 @@
 ||push.hihonorcloud.*^
 ||dnsnl.alekberg.net^
 ||dns-tunnel-check.googlezip.net^
+
+# Chinese companies are full of cringe;
+# this is the craziest absurdity I've ever seen before for scams:
 ||domain1.org^
 ||domain2.org^
 ||www.css^
+#
+
 ||configserver.platform.hicloud.*^
 ||metrics.dt.hicloud.*^
 ||cloudrom-global.emui.dbankcloud.*^
 ||query-channel.hicloud.*^
-||dnkeeper.platform.dbankcloud.*^
-||dnkeeper-drru.platform.dbankcloud.*^
-||dnkeeper.dbankcloud.*^
-||dnkeeper.hicloud.*^
+# unfck and have a nice day ;)
+||dnkeeper.*^
+||dnkeeper-*.*^
 ##################################################################################
 # Fixes for other lists -> reblock
 ||51.la^
