@@ -443,7 +443,7 @@
 ||2mdn.net^
 ||serving-sys.com^
 ##################################################################################
-# Z bank
+# T-bank
 ||tmiaf.*^
 ||sage-collector.tbank.*^
 ||certs.t-bank-app.*^
