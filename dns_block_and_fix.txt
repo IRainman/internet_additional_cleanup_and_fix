@@ -461,6 +461,7 @@
 ||*shopping*.t-bank-app.*^
 ||*ads*.t-static.*^
 ||*ads*.t-bank-app.*^
+||*ads*.tbank.*^
 ||*stories*.tinkoff.*^
 ||*stories*.t-bank-app.*^
 ||as.t-bank-app.*^
