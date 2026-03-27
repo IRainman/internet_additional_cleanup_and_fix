@@ -69,9 +69,8 @@
 ||*-dns.*^
 ||*-doh.*^
 ||*-dot.*^
-#||dns.*^
 ||*dnscrypt*.*^
-#||*cert*.*^
+||*-cert.*^
 ||security.*^
 ||doh.*^
 ||doh-*.*^
