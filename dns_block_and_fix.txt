@@ -2,7 +2,8 @@
 # Description: This is my extendent DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home.
 # Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
 ##################################################################################
-# Fixes for other lists -> unblock
+# Fixes for other lists -> unblock.
+# Mainly additional for full, not lite lists, and especially the ShadowWhisperer Tracking List that completely broke to much functionality.
 @@||adguard-dns.io^
 @@||addons.mozilla.org^
 @@||firefox.com^
@@ -42,9 +43,8 @@
 @@||userlocation.googleapis.com^
 @@||gfe.nvidia.com^
 @@||settings-win.data.microsoft.com^
+@@||findmydevice-pa.googleapis.com^
 @@||geomobileservices-pa.googleapis.com^
-@@||browser.events.data.microsoft.com^
-@@||config.edge.skype.com^
 @@||intake-analytics.wikimedia.org^
 @@||firebaseinstallations.googleapis.com^
 @@||firebaselogging-pa.googleapis.com^
