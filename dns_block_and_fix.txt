@@ -4,7 +4,8 @@
 ##################################################################################
 # Fixes for other lists -> unblock.
 # Mainly additional for full, not lite lists, and especially the ShadowWhisperer Tracking List that completely broke much functionality, and I still try to integrate it.
-# If you need (for some reason) use of the 1Hosts (Xtra) list, I'm not sorry: please provide feedback to the 1Hosts; I would rather not fix this paranoid mode list.
+# If you need (for some reason) using of the 1Hosts (Xtra) list, I'm not sorry: please provide feedback to the 1Hosts BEFORE you ask me to enable this list;
+# I would rather not fix this paranoid mode list!
 @@||adguard-dns.io^
 @@||addons.mozilla.org^
 @@||firefox.com^
@@ -57,6 +58,7 @@
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
 # When we have remote clients, we use VPNs to protect their information. 
 # Many programs and operating systems employ DoH and other DNS servers to transmit unwanted content, including malware, spam, and advertisements.
+# This is additional and optimization for the HaGeZi's Encrypted DNS Bypass DNS Blocklist.
 ||antivirus.*^
 ||internetsehat.*^
 ||resolver.*^
