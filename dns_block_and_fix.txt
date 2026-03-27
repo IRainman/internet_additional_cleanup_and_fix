@@ -444,24 +444,25 @@
 #||cdn.t-bank-app.*^
 #||cdn-tinkoff.*^
 
-||tmiaf.*^
-||sage-collector.tbank.*^
-||certs.t-bank-app.*^
-||acdn.t-bank-app.*^
-||*invest.t-bank-app.*^
-||*cfg.t-bank-app.*
-||*config.t-bank-app.*
-||*loyality*.t-bank-app.*^
-||*stories*.t-bank-app.*^
-||*feed*.t-bank-app.*^
-||*shopping*.t-bank-app.*^
-||*ads*.t-static.*^
-||*ads*.t-bank-app.*^
-||*ads*.tbank.*^
-||*stories*.tinkoff.*^
-||*stories*.t-bank-app.*^
-||as.t-bank-app.*^
-||e.mail.ru^
+# WIP...
+#||tmiaf.*^
+#||sage-collector.tbank.*^
+#||certs.t-bank-app.*^
+#||acdn.t-bank-app.*^
+#||*invest.t-bank-app.*^
+#||*cfg.t-bank-app.*
+#||*config.t-bank-app.*
+#||*loyality*.t-bank-app.*^
+#||*stories*.t-bank-app.*^
+#||*feed*.t-bank-app.*^
+#||*shopping*.t-bank-app.*^
+#||*ads*.t-static.*^
+#||*ads*.t-bank-app.*^
+#||*ads*.tbank.*^
+#||*stories*.tinkoff.*^
+#||*stories*.t-bank-app.*^
+#||as.t-bank-app.*^
+#||e.mail.ru^
 ##################################################################################
 # Jetlend
 #||sentry.jetlend.ru^
