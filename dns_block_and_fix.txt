@@ -361,20 +361,21 @@
 #mobile-apps.cdek.ru^
 ##################################################################################
 # Wildberries
-ns.wildberries.ru
-ns?.wildberries.ru
+#ns.wildberries.ru
+#ns?.wildberries.ru
 #||wb.ru^
 ##################################################################################
 # Yandex
+||browser.yandex.*^
 # many errors in Yandex services, but unfck many other apps - not usefull
 #|yandex.ru^
 #||yastatic.*^
 # But this is not great, not terrible
-||browser.yandex.*^
-||ns.yandex.*^
-||ns?.yandex.*^
-||ns??.yandex.*^
+#||ns.yandex.*^
+#||ns?.yandex.*^
+#||ns??.yandex.*^
 ||favicon.yandex.*^
+||mobileproxy.*.yandex.*^
 
 ||direct.yandex.*^
 ||media-adv.market.yandex.*^
