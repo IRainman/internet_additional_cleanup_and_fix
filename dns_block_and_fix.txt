@@ -3,6 +3,7 @@
 # Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
 ##################################################################################
 # Fixes for other lists -> unblock
+@@||adguard-dns.io^
 @@||addons.mozilla.org^
 @@||firefox.com^
 @@||telemetry.mozilla.org^
@@ -53,7 +54,7 @@
 @@||icann.org^
 ##################################################################################
 # Global fixes -> reblock by masks
-# The network is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
+# The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
 # When we have remote clients, we use VPNs to protect their information. 
 # Many programs and operating systems employ DoH and other DNS servers to transmit unwanted content, including malware, spam, and advertisements.
 ||antivirus.*^
@@ -112,12 +113,23 @@
 ||kaitain.restena.lu^
 ||frd4wvnobp.cloudflare-gateway.com^
 ||rx.techomespace.com^
+||root.hagezi.org^
+||wurzn.hagezi.org^
+||juuri.hagezi.org^
+||resolver-eu.lelux.fi^
+||jp.tiarap.org^
+||jp.tiar.app^
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing.googleapis.com^
 # Data leak: now Mozilla is advertising company. They choise it by yourself. As a Google it's untrusted.
 ||malware-error.mozilla.com^
 ||phish-error.mozilla.com^
+# Data leak to Meta:
+||graph.facebook.*^
+||*-graph.facebook.*^
+||graph.instagram.*^
+||*-graph.instagram.*^
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
