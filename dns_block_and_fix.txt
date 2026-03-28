@@ -413,6 +413,7 @@
 # Kinopoisk WIP
 @@|www.kinopoisk.ru^
 @@|graphql.kinopoisk.ru^
+@@|kinopoisk-ru.clstorage.net^
 ##################################################################################
 # Sberbank WIP
 /^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
