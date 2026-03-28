@@ -394,6 +394,8 @@
 @@|eta.api.2gis.ru^
 @@|styles.api.2gis.com^
 @@|disk.2gis.com^
+@@|info.2gis.com^
+@@|docs.2gis.com^
 
 # Rambler if you need it, please tell me?
 /^*\.(rambler)\.(ru)$/
