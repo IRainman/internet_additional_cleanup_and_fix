@@ -299,6 +299,7 @@
 
 # Original is here https://meduza.io/
 ||lenta.ru^
+||lenta.com^
 
 # Original is there https://echofm.online/ Эхо (dead domains), 
 ||echo.msk.ru^
