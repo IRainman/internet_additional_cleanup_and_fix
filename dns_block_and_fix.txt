@@ -154,6 +154,8 @@
 # Fixes for other lists -> reblock
 # too much
 #||ad.*^
+||sentry.*^
+||xapi.*^
 
 ||51.la^
 ||ad.ddestiny.ru^
@@ -260,7 +262,6 @@
 ||samilia.ru^
 ||scorecardresearch.com^
 ||shorek.ru^
-||sentry.*^
 ||smaato.net^
 ||socfishing.ru^
 ||socgate.ru^
@@ -352,7 +353,6 @@
 ||ad-cdek.ru^
 ||cdek.shopping^
 ||uxcam.com^
-#||sentry.cdek.ru^
 #mobile-apps.cdek.ru^
 ##################################################################################
 # Wildberries
@@ -379,7 +379,7 @@
 @@|feedback-*.wbbasket.ru^
 @@|suppliers-shipment-*.wildberries.ru^
 ##################################################################################
-# Yandex WIP
+# Yandex
 /^(.+\.)?(yandex)$/
 /^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients)\.[a-z0-9-]{2,}$/
 @@|ya.ru^
@@ -390,23 +390,24 @@
 @@|api.passport.yandex.ru^
 @@|sso.passport.yandex.ru^
 
-@@|user-id-frontend.s3.yandex.net^
+@@|avatars.mds.yandex.net^
 
+# It's likely to be unreliable:
+@@|yandex.ru^
+@@|cloud-api.yandex.ru^
+# ~
+@@|user-id-frontend.s3.yandex.net^
 @@|maps.yandex.ru^
 @@|maps.yastatic.net^
 @@|maps-yandex-ru.naydex.net^
 @@|core-renderer-tiles.maps.yandex.ru^
-@@|sat01.maps.yandex.net^
-@@|sat02.maps.yandex.net^
-@@|sat03.maps.yandex.net^
-@@|sat04.maps.yandex.net^
+@@|sat*.maps.yandex.net^
 
 @@|market.yandex.ru^
 
 @@|mail.yandex.ru^
 
 @@|reviews.yandex.ru^
-
 ##################################################################################
 # Sberbank WIP
 /^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
@@ -441,39 +442,41 @@
 /^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
 
 ##################################################################################
-# WIP for this...
-# VK
+# WIP for this... does anyone is need this?
+/^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra)\.[a-z0-9-]{2,}$/
+# VK - done
 ||mvk.com^
 ||vk.com^
 ||vk.ru^
 
-# Odnoklassniki
+# Odnoklassniki - done
 ||ok.ru^
 ||okcdn.ru^
 
-# Max
+# Max - done
 ||oneme.ru^
 ||max.ru^
 ||oneme.su^
 ||max.su^
 
-# Mail.ru
+# Mail.ru - done
 ||mail.ru^
 ||mail.su^
 ||mradx.net^
 ||browser.ru^
-||news.mail.ru^
-||horo.mail.ru^
+###########||news.mail.ru^
+###########||horo.mail.ru^
 
-# Dzen
+# Dzen - done
 ||dzen.ru^
 ||dzeninfra.ru^
 
-# RuStore
-||ads.rustore.ru^
-||vkpns.rustore.ru^
-||rebus.rustore.ru^
-||inappstory.ru^
+
+# RuStore - done.
+||rustore.ru^
+###########@@|www.rustore.ru^
+###########@@|static.rustore.ru^
+###########@@|backapi.rustore.ru^
 ##################################################################################
 # MSN
 ||mobileads.msn.com^
@@ -501,5 +504,5 @@
 #||sentry.jetlend.ru^
 ##################################################################################
 # Ozon
-||xapi.ozon.ru^
+#||xapi.ozon.ru^
 ##################################################################################
