@@ -385,9 +385,11 @@
 # Yandex direct in the Android apps? (many errors in Yandex services)
 #avatars-fast.yandex.*^
 ##################################################################################
-# Sber WIP
+# Sberbank WIP
 /^*\.(sber|sberbank|sbrf)\.(ru|su)$/
 @@|id.sber.ru^
+@@|online.sberbank.ru^
+
 
 # 2GIS
 /^*\.(2gis)\.(ru|su|ae|com)$/
