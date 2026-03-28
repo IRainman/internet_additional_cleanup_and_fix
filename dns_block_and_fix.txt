@@ -382,7 +382,7 @@
 ##################################################################################
 # Yandex
 /^(.+\.)?(yandex)$/
-/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx|clstorage)\.[a-z0-9-]{2,}$/
 @@|ya.ru^
 
 @@|yastatic.net^
@@ -409,6 +409,10 @@
 @@|mail.yandex.ru^
 
 @@|reviews.yandex.ru^
+
+# Kinopoisk WIP
+@@|www.kinopoisk.ru^
+@@|graphql.kinopoisk.ru^
 ##################################################################################
 # Sberbank WIP
 /^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
