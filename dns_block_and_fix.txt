@@ -383,37 +383,47 @@
 # Yandex
 /^(.+\.)?(yandex)$/
 /^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx|clstorage)\.[a-z0-9-]{2,}$/
+
+# Search - worked as expected.
 @@|ya.ru^
 
-@@|yastatic.net^
-
+# Passport - worked as expected.
 @@|passport.yandex.ru^
 @@|api.passport.yandex.ru^
 @@|sso.passport.yandex.ru^
+@@|user-id-frontend.s3.yandex.net^
 
+# Static
+@@|yastatic.net^
 @@|avatars.mds.yandex.net^
 
 # It's likely to be unreliable:
+####### many errors in Yandex itself, but unfck many places. What do you think?
 @@|yandex.ru^
 @@|cloud-api.yandex.ru^
 # ~
-@@|user-id-frontend.s3.yandex.net^
+
+# Maps - worked as expected.
 @@|maps.yandex.ru^
 @@|maps.yastatic.net^
 @@|maps-yandex-ru.naydex.net^
 @@|core-renderer-tiles.maps.yandex.ru^
 @@|sat*.maps.yandex.net^
 
+# Market - worked as expected.
 @@|market.yandex.ru^
 
+# Mail - worked as expected.
 @@|mail.yandex.ru^
 
+# Your reviews - worked as expected.
 @@|reviews.yandex.ru^
 
-# Kinopoisk WIP
+# Kinopoisk - worked as expected.
 @@|www.kinopoisk.ru^
 @@|graphql.kinopoisk.ru^
 @@|kinopoisk-ru.clstorage.net^
+@@|st.kp.yandex.net^
 ##################################################################################
 # Sberbank WIP
 /^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
@@ -422,7 +432,7 @@
 @@|esa-res.online.sberbank.ru^
 @@|pl-res.online.sberbank.ru^
 
-# 2GIS
+# 2GIS - worked as expected.
 /^(.+\.)?(2gis)\.[a-z0-9-]{2,}$/
 @@|2gis.ru^
 @@|2gis.com^
@@ -477,7 +487,6 @@
 ||dzen.ru^
 ||dzeninfra.ru^
 
-
 # RuStore - done.
 ||rustore.ru^
 ###########@@|www.rustore.ru^
@@ -497,7 +506,7 @@
 ||2mdn.net^
 ||serving-sys.com^
 ##################################################################################
-# T-bank
+# T-bank - worked as expected.
 /^(.+\.)?(tbank|t-bank-app|t-static|tinkoff|cdn-tinkoff|tmiaf|tbank-online)\.[a-z0-9-]{2,}$/
 @@|www.tbank.ru^
 @@|cdn.tbank.ru^
