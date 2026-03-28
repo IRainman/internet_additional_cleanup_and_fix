@@ -374,8 +374,6 @@
 /^*\.(sber|sberbank|sbrf)\.(ru|su|com)$/
 @@|id.sber.ru^
 @@|online.sberbank.ru^
-@@|pl-res.online.sberbank.ru^
-@@|esa-res.online.sberbank.ru^
 
 # 2GIS
 /^*\.(2gis)\.(ru|su|ae|com)$/
