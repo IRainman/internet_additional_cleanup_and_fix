@@ -355,17 +355,17 @@
 #||sentry.cdek.ru^
 #mobile-apps.cdek.ru^
 ##################################################################################
-# Wildberries WIP
+# Wildberries
 /^(.+\.)?(wildberries|wb|wbbasket|paywb)\.[a-z0-9-]{2,}$/
 @@|www.wildberries.ru^
-@@|static-basket-01.wbbasket.ru^
+@@|static-basket-*.wbbasket.ru^
 @@|wbx-auth.wildberries.ru^
 @@|chat.wildberries.ru^
 @@|chat-prod.wildberries.ru^
 @@|delivery-bt.wildberries.ru^
 @@|paywb.com^
-@@|userstorage-03adm.wb.ru^
-@@|wbx-bell-v3.wildberries.ru^
+@@|userstorage-*adm.wb.ru^
+@@|wbx-bell-v*.wildberries.ru^
 @@|delivery-code.wildberries.ru^
 @@|finance.wildberries.ru^
 @@|wb-balance.wildberries.ru^
@@ -374,7 +374,10 @@
 @@|wishlist.common.geo.paywb.com^
 @@|returns.wildberries.ru^
 @@|questions.wildberries.ru^
-
+@@|basket-*.wbbasket.ru^
+@@|feedbacks*.wb.ru^
+@@|feedback-*.wbbasket.ru^
+@@|suppliers-shipment-*.wildberries.ru^
 ##################################################################################
 # Yandex WIP
 /^(.+\.)?(yandex)$/
