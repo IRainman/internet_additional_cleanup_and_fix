@@ -386,9 +386,11 @@
 #avatars-fast.yandex.*^
 ##################################################################################
 # Sberbank WIP
-/^*\.(sber|sberbank|sbrf)\.(ru|su)$/
+/^*\.(sber|sberbank|sbrf)\.(ru|su|com)$/
 @@|id.sber.ru^
 @@|online.sberbank.ru^
+@@|pl-res.online.sberbank.ru^
+@@|esa-res.online.sberbank.ru^
 
 
 # 2GIS
