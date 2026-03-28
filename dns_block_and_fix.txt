@@ -386,17 +386,31 @@
 #avatars-fast.yandex.*^
 ##################################################################################
 # Sber WIP
-/^*\.(rambler)\.(ru|su|com|net|org)$/
-
-/^*\.(sber|sberbank|sbrf)\.(ru|su|com|net|org)$/
+/^*\.(sber|sberbank|sbrf)\.(ru|su)$/
 @@|id.sber.ru^
 
 # 2GIS
-/^*\.(2gis)\.(ru|su|ae|com|net|org)$/
+/^*\.(2gis)\.(ru|su|ae|com)$/
+@@|2gis.ru^
 @@|2gis.com^
+@@|id.sber.ru^
 @@|id.2gis.com^
+@@|api.auth.2gis.com^
 @@|me.2gis.ru^
+@@|keys.api.2gis.com^
 @@|d-assets.2gis.ru^
+@@|tile0.maps.2gis.com^
+@@|tile1.maps.2gis.com^
+@@|tile2.maps.2gis.com^
+@@|tile3.maps.2gis.com^
+@@|favorites.api.2gis.ru^
+@@|mobile-weather.api.2gis.ru^
+@@|eta.api.2gis.ru^
+@@|styles.api.2gis.com^
+@@|disk.2gis.com^
+
+# Rambler needed?
+/^*\.(rambler)\.(ru)$/
 ##################################################################################
 # VK
 #||mvk.com^
