@@ -355,35 +355,20 @@
 #||sentry.cdek.ru^
 #mobile-apps.cdek.ru^
 ##################################################################################
-# Wildberries
-#ns.wildberries.ru
-#ns?.wildberries.ru
-#||wb.ru^
+# Wildberries WIP
+/^*\.(wildberries|wb|)\.(ru|su|)$/
+@@|wildberries.ru^
+@@|wb.ru^
+
 ##################################################################################
-# Yandex
-||browser.yandex.*^
+# Yandex WIP
+/^*\.(*)\.(yandex)$/
+/^*\.(yandex|ya|)\.(ru|su|com)$/
+@@||ya.ru^
 # many errors in Yandex services, but unfck many other apps - not usefull
 #|yandex.ru^
-#||yastatic.*^
-# But this is not great, not terrible
-#||ns.yandex.*^
-#||ns?.yandex.*^
-#||ns??.yandex.*^
-||favicon.yandex.*^
-||mobileproxy.*.yandex.*^
+@@|yandex.ru^
 
-||direct.yandex.*^
-||media-adv.market.yandex.*^
-||yandex*change.*^
-||kiks.yandex.*^
-||banners.mobile.yandex.*^
-||analytics.mobile.yandex.*^
-||appmetrica.yandex.*^
-||market-click-baobab.yandex.*^
-# Yandex tracker (many errors in Yandex services)
-#||clck.yandex.*^
-# Yandex direct in the Android apps? (many errors in Yandex services)
-#avatars-fast.yandex.*^
 ##################################################################################
 # Sberbank WIP
 /^*\.(sber|sberbank|sbrf)\.(ru|su|com)$/
@@ -391,7 +376,6 @@
 @@|online.sberbank.ru^
 @@|pl-res.online.sberbank.ru^
 @@|esa-res.online.sberbank.ru^
-
 
 # 2GIS
 /^*\.(2gis)\.(ru|su|ae|com)$/
@@ -413,7 +397,7 @@
 @@|styles.api.2gis.com^
 @@|disk.2gis.com^
 
-# Rambler needed?
+# Rambler if you need it, please tell me?
 /^*\.(rambler)\.(ru)$/
 ##################################################################################
 # VK
