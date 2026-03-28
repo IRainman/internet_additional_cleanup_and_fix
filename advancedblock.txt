@@ -24,9 +24,6 @@ www.moya-planeta.ru###interview_popup_mider
 www.moya-planeta.ru###ajax_pageload_block_23848 > .standart_table > tbody > tr > .standart_table_right
 
 
-||ip-calculator.ru/img/calk.gif
-
-
 www.washingtonpost.com##div.ad-slot-component
 www.washingtonpost.com##.adslot-c
 
@@ -386,7 +383,7 @@ speedtest.net##.eot-dd-content
 msk.tele2.ru##.combined-offers
 
 
-akket.com##div.posts_uni
+akket.com##posts_uni
 akket.com##.tagcloud
 akket.com###sidebar
 akket.com###interesting_articles
@@ -522,11 +519,11 @@ msk.t2.ru##.dashboard-two-columns
 
 ya.ru##.SplashscreenDefault
 
-
-wildberries.*##.j-lottery-banner
-wildberries.*##.cards-list
-wildberries.*##.goods-carousel
-wildberries.*##.goods-slider
+www.wildberries.ru###smartBanner
+www.wildberries.ru##.j-lottery-banner
+www.wildberries.ru##.cards-list
+www.wildberries.ru##.goods-carousel
+www.wildberries.ru##.goods-slider
 
 
 rule34.xxx##.postListSidebarRight
@@ -565,7 +562,7 @@ pytkam.net##.agent-warning
 
 msk1.ru##.w-100
 msk1.ru##.block-opinions
-msk1.ru##div.gridOneThirdLaptop
+msk1.ru##gridOneThirdLaptop
 msk1.ru##.mt-3.mb-8
 
 zoom.us##.zoom-popover__trigger
