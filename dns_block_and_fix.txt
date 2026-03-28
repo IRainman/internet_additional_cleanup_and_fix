@@ -356,27 +356,27 @@
 #mobile-apps.cdek.ru^
 ##################################################################################
 # Wildberries WIP
-/^*\.(wildberries|wb|)\.(ru|su|)$/
+/^(.+\.)?(wildberries|wb|)\.[a-z0-9-]{2,}$/
 @@|wildberries.ru^
 @@|wb.ru^
 
 ##################################################################################
 # Yandex WIP
-/^*\.(*)\.(yandex)$/
-/^*\.(ya|yastatic|yandex)\.(ru|su|com|net)$/
+/^(.+\.)?(yandex)$/
+/^(.+\.)?(ya|yastatic|yandex)\.[a-z0-9-]{2,}$/
 @@||ya.ru^
 @@||yastatic.net^
 
 ##################################################################################
 # Sberbank WIP
-/^*\.(sber|sberbank|sbrf)\.(ru|su|com)$/
+/^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
 @@|id.sber.ru^
 @@|online.sberbank.ru^
 @@|esa-res.online.sberbank.ru^
 @@|pl-res.online.sberbank.ru^
 
 # 2GIS
-/^*\.(2gis)\.(ru|su|ae|com)$/
+/^(.+\.)?(2gis)\.[a-z0-9-]{2,}$/
 @@|2gis.ru^
 @@|2gis.com^
 @@|id.sber.ru^
@@ -398,7 +398,7 @@
 @@|docs.2gis.com^
 
 # Rambler if you need it, please tell me?
-/^*\.(rambler)\.(ru)$/
+/^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
 ##################################################################################
 # WIP for this...
 # VK
@@ -448,7 +448,7 @@
 ||serving-sys.com^
 ##################################################################################
 # T-bank
-/^*\.(tbank|t-bank-app|t-static|tinkoff|cdn-tinkoff|tmiaf|tbank-online)\.(ru|su|com|net|org)$/
+/^(.+\.)?(tbank|t-bank-app|t-static|tinkoff|cdn-tinkoff|tmiaf|tbank-online)\.[a-z0-9-]{2,}$/
 @@|www.tbank.ru^
 @@|cdn.tbank.ru^
 @@|api.tbank.ru^
