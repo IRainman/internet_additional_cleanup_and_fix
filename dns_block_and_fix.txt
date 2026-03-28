@@ -363,11 +363,9 @@
 ##################################################################################
 # Yandex WIP
 /^*\.(*)\.(yandex)$/
-/^*\.(yandex|ya|)\.(ru|su|com)$/
+/^*\.(ya|yastatic|yandex)\.(ru|su|com|net)$/
 @@||ya.ru^
-# many errors in Yandex services, but unfck many other apps - not usefull
-#|yandex.ru^
-#@@|yandex.ru^
+@@||yastatic.net^
 
 ##################################################################################
 # Sberbank WIP
