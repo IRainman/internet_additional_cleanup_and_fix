@@ -55,6 +55,7 @@
 # When we have remote clients, we use VPNs to protect their information. 
 # Many programs and operating systems employ DoH and other DNS servers to transmit unwanted content, including malware, spam, and advertisements.
 # This is additional and optimization for the HaGeZi's Encrypted DNS Bypass DNS Blocklist.
+|*-*.akam.net^
 ||antivirus.*^
 ||internetsehat.*^
 ||resolver.*^
@@ -93,7 +94,6 @@
 ||dnsv?.com^
 ||ublockdns.com^
 ||joindns4.eu^
-|*-*.akam.net^
 ||sponsor.*^
 ||astracat.vercel.app^
 ||cleanbrowsing.org^
@@ -121,10 +121,10 @@
 # Data leak to Google:
 ||safebrowsing*.googleapis.com^
 
-# Data leak: now Mozilla is advertising company (see Google fix below)
+# Data leak: now Mozilla is advertising company (see Google fix below, this domain is also used)
 ||*-error.mozilla.com^
 
-# Data leak to Meta (sorry for thr the regexp):
+# Data leak to Meta (sorry for the regexp):
 /^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
 ##################################################################################
 # Mobile filters fixes
@@ -311,7 +311,7 @@
 ||sdi-tool.org^
 ||snappydriverinstaller.com^
 ||sdilite.com^
-#... many other, please keep other creaters of the lists to know this shit.
+#... many other, please keep other creaters of the lists to know this malwaware.
 
 ||imaill.*^
 ||megaffon.ru^
@@ -329,7 +329,7 @@
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^
 
-# see yadro.com - it's company and not scam.
+# see yadro.com - it's a company and not a scam.
 ||yadro.ru^
 
 # telegramm unfck
@@ -356,14 +356,51 @@
 #mobile-apps.cdek.ru^
 ##################################################################################
 # Wildberries WIP
-/^(.+\.)?(wildberries|wb|wbbasket)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(wildberries|wb|wbbasket|paywb)\.[a-z0-9-]{2,}$/
 @@|www.wildberries.ru^
+@@|static-basket-01.wbbasket.ru^
+@@|wbx-auth.wildberries.ru^
+@@|chat.wildberries.ru^
+@@|delivery-bt.wildberries.ru^
+@@|paywb.com^
+@@|userstorage-03adm.wb.ru^
+@@|wbx-bell-v3.wildberries.ru^
+@@|delivery-code.wildberries.ru^
+@@|finance.wildberries.ru^
+@@|wb-balance.wildberries.ru^
+@@|user-grade.wildberries.ru^
+@@|wbxoofex.wildberries.ru^
+@@|wishlist.common.geo.paywb.com^
+@@|returns.wildberries.ru^
 
 ##################################################################################
 # Yandex WIP
 /^(.+\.)?(yandex)$/
-/^(.+\.)?(ya|yastatic|yandex)\.[a-z0-9-]{2,}$/
-@@||ya.ru^
+/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients)\.[a-z0-9-]{2,}$/
+@@|ya.ru^
+
+@@|yastatic.net^
+
+@@|passport.yandex.ru^
+@@|api.passport.yandex.ru^
+@@|sso.passport.yandex.ru^
+
+@@|user-id-frontend.s3.yandex.net^
+
+@@|maps.yandex.ru^
+@@|maps.yastatic.net^
+@@|maps-yandex-ru.naydex.net^
+@@|core-renderer-tiles.maps.yandex.ru^
+@@|sat01.maps.yandex.net^
+@@|sat02.maps.yandex.net^
+@@|sat03.maps.yandex.net^
+@@|sat04.maps.yandex.net^
+
+@@|market.yandex.ru^
+
+@@|mail.yandex.ru^
+
+@@|reviews.yandex.ru^
 
 ##################################################################################
 # Sberbank WIP
@@ -397,6 +434,7 @@
 
 # Rambler if you need it, please tell me?
 /^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
+
 ##################################################################################
 # WIP for this...
 # VK

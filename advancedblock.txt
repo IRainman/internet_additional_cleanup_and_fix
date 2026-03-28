@@ -519,11 +519,14 @@ msk.t2.ru##.dashboard-two-columns
 
 ya.ru##.SplashscreenDefault
 
+
 www.wildberries.ru###smartBanner
 www.wildberries.ru##.j-lottery-banner
 www.wildberries.ru##.cards-list
 www.wildberries.ru##.goods-carousel
 www.wildberries.ru##.goods-slider
+www.wildberries.ru##[href="/lk/myorders/mechtalliontickets"]
+www.wildberries.ru##[href="/lk/certificates"]
 
 
 rule34.xxx##.postListSidebarRight
