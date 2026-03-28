@@ -400,12 +400,15 @@
 # Rambler if you need it, please tell me?
 /^*\.(rambler)\.(ru)$/
 ##################################################################################
+# WIP for this...
 # VK
-#||mvk.com^
+||mvk.com^
+||vk.com^
+||vk.ru^
 
 # Odnoklassniki
-#||ok.ru^
-#||okcdn.ru^
+||ok.ru^
+||okcdn.ru^
 
 # Max
 ||oneme.ru^
@@ -413,17 +416,17 @@
 ||oneme.su^
 ||max.su^
 
-# mail.ru
-#||mail.ru^
-#||mail.su^
+# Mail.ru
+||mail.ru^
+||mail.su^
 ||mradx.net^
 ||browser.ru^
 ||news.mail.ru^
 ||horo.mail.ru^
 
-# dzen
-#||dzen.ru^
-#||dzeninfra.ru^
+# Dzen
+||dzen.ru^
+||dzeninfra.ru^
 
 # RuStore
 ||ads.rustore.ru^
