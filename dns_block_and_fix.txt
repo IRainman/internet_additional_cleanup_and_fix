@@ -448,6 +448,7 @@
 # T-bank
 /^(.+\.)?(tbank|t-bank-app|t-static|tinkoff|cdn-tinkoff|tmiaf|tbank-online)\.[a-z0-9-]{2,}$/
 @@|tbank.ru^
+@@|www.tbank.ru^
 @@|cdn.tbank.ru^
 @@|api.tbank.ru^
 @@|tmsg.tbank.ru
