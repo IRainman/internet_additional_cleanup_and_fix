@@ -367,13 +367,15 @@
 @@||ya.ru^
 # many errors in Yandex services, but unfck many other apps - not usefull
 #|yandex.ru^
-@@|yandex.ru^
+#@@|yandex.ru^
 
 ##################################################################################
 # Sberbank WIP
 /^*\.(sber|sberbank|sbrf)\.(ru|su|com)$/
 @@|id.sber.ru^
 @@|online.sberbank.ru^
+@@|esa-res.online.sberbank.ru^
+@@|pl-res.online.sberbank.ru^
 
 # 2GIS
 /^*\.(2gis)\.(ru|su|ae|com)$/
