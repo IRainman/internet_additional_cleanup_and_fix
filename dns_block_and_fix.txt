@@ -387,6 +387,9 @@
 # Search - worked as expected.
 @@|ya.ru^
 
+# Link shorter
+@@|ya.cc^
+
 # Passport - worked as expected.
 @@|passport.yandex.ru^
 @@|api.passport.yandex.ru^
@@ -500,6 +503,9 @@
 @@|cdn0.youla.io^
 @@|cdn1.youla.io^
 @@|api.youla.io^
+
+# Otzovic
+@@|otzovik.com^
 ##################################################################################
 # MSN
 ||mobileads.msn.com^
