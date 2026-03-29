@@ -498,7 +498,7 @@
 @@|youla-web-static.mrgcdn.ru^
 @@|cdn0.youla.io^
 @@|cdn1.youla.io^
-@@|api.youla.ru^
+@@|api.youla.io^
 ##################################################################################
 # MSN
 ||mobileads.msn.com^
