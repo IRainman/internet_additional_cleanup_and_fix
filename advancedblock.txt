@@ -108,6 +108,7 @@ www.kinopoisk.ru##.footer
 
 ||yandex.ru/safeclick/*
 ||yandex.ru/an/*
+||yandex.ru/ads/*
 
 eda.yandex##div.CatalogPageCarousel_root
 
