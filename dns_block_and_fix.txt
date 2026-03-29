@@ -391,6 +391,9 @@
 # Link shorter
 @@|ya.cc^
 
+# Captcha - worked as expected.
+@@|smartcaptcha.yandexcloud.net^
+
 # Mirror
 @@|mirror.yandex.ru^
 
