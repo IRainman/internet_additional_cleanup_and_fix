@@ -396,6 +396,7 @@
 # Static
 @@|yastatic.net^
 @@|avatars.mds.yandex.net^
+@@|yandex-images.clstorage.net^
 
 # It's likely to be unreliable:
 ####### many errors in Yandex itself, but unfck many places. What do you think?
