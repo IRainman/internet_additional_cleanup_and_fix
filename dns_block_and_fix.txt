@@ -463,49 +463,40 @@
 /^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
 
 ##################################################################################
-# WIP for this... does anyone is need this?
 /^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
-# VK - done
-||mvk.com^
-||vk.com^
-||vk.ru^
+# VK
+@@|vk.com^
+@@|static.vk.com^
+@@|api.vk.com^
+
+# id - worked as expected.
+@@|id.vk.com^
+@@|login.vk.com^
+@@|login.vk.ru^
 
 # Odnoklassniki - done
-||ok.ru^
-||okcdn.ru^
 
 # Max - done
-||oneme.ru^
-||max.ru^
-||oneme.su^
-||max.su^
 
 # Mail.ru - done
-||mail.ru^
-||mail.su^
-||mradx.net^
-||browser.ru^
-###########||news.mail.ru^
-###########||horo.mail.ru^
 
 # Dzen - done
-||dzen.ru^
-||dzeninfra.ru^
 
-# RuStore - done.
-||rustore.ru^
+# RuStore - done
 ###########@@|www.rustore.ru^
 ###########@@|static.rustore.ru^
 ###########@@|backapi.rustore.ru^
 
-# Yola WIP
-@@|www.youla.ru^
+# Yola - worked as expected.
+@@|youla.ru^
 @@|youla-web-static.mrgcdn.ru^
-@@|cdn0.youla.io^
-@@|cdn1.youla.io^
+@@|cdn*.youla.io^
+@@|cache*.youla.io^
+@@|api-gw.youla.ru^
 @@|api.youla.io^
+@@|api.youla.ru^
 
-# Otzovic
+# Otzovic - done
 @@|otzovik.com^
 ##################################################################################
 # MSN
