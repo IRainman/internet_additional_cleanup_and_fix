@@ -395,6 +395,7 @@
 @@|smartcaptcha.yandexcloud.net^
 
 # Cloud
+@@|yandex.cloud^
 @@|cloud.yandex.ru^
 @@|cloud-api.yandex.ru^
 
