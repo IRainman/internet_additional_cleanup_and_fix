@@ -459,7 +459,7 @@
 
 ##################################################################################
 # WIP for this... does anyone is need this?
-/^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
 # VK - done
 ||mvk.com^
 ||vk.com^
@@ -492,6 +492,13 @@
 ###########@@|www.rustore.ru^
 ###########@@|static.rustore.ru^
 ###########@@|backapi.rustore.ru^
+
+# Yola WIP
+@@|www.youla.ru^
+@@|youla-web-static.mrgcdn.ru^
+@@|cdn0.youla.io^
+@@|cdn1.youla.io^
+@@|api.youla.ru^
 ##################################################################################
 # MSN
 ||mobileads.msn.com^
