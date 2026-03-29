@@ -60,6 +60,7 @@
 ||antivirus.*^
 ||internetsehat.*^
 ||resolver.*^
+||sponsor.*^
 ||dns*tls.*^
 ||tls-dns-u.*^
 ||http-dns*.*^
@@ -95,7 +96,8 @@
 ||dnsv?.com^
 ||ublockdns.com^
 ||joindns4.eu^
-||sponsor.*^
+||dnsnl.alekberg.net^
+||dns-tunnel-check.googlezip.net^
 ||astracat.vercel.app^
 ||cleanbrowsing.org^
 ||getdnsapi.net^
@@ -134,8 +136,6 @@
 ||ads.heytapmobi.*^
 ||ads.heytapmobile.*^
 ||push.hihonorcloud.*^
-||dnsnl.alekberg.net^
-||dns-tunnel-check.googlezip.net^
 
 # Chinese companies are full of cringe;
 # this is the craziest absurdity I've ever seen before for scams:
