@@ -398,7 +398,7 @@
 @@|cloud.yandex.ru^
 @@|cloud-api.yandex.ru^
 
-# Mirror
+# Mirror - worked as expected.
 @@|mirror.yandex.ru^
 
 # Passport - worked as expected.
@@ -439,12 +439,20 @@
 @@|kinopoisk-ru.clstorage.net^
 @@|st.kp.yandex.net^
 ##################################################################################
-# Sberbank WIP
+# Sberbank - worked as expected.
 /^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
 @@|id.sber.ru^
+@@|mc-cbro.online.sberbank.ru^
+@@|cdn.sberbank.ru^
+@@|cdnweb.sberbank.ru^
+@@|websbol.ant.sberbank.ru^
 @@|online.sberbank.ru^
 @@|esa-res.online.sberbank.ru^
 @@|pl-res.online.sberbank.ru^
+@@|node*.vito.sber.ru^
+@@|web*.online.sberbank.ru^
+@@|cms-res.online.sberbank.ru^
+@@|cms-res-web.online.sberbank.ru^
 
 # 2GIS - worked as expected.
 /^(.+\.)?(2gis)\.[a-z0-9-]{2,}$/
