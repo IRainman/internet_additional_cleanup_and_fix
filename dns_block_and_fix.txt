@@ -391,6 +391,9 @@
 # Link shorter
 @@|ya.cc^
 
+# Mirror
+@@|mirror.yandex.ru^
+
 # Passport - worked as expected.
 @@|passport.yandex.ru^
 @@|api.passport.yandex.ru^
