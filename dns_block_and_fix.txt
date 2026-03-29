@@ -394,6 +394,10 @@
 # Captcha - worked as expected.
 @@|smartcaptcha.yandexcloud.net^
 
+# Cloud
+@@|cloud.yandex.ru^
+@@|cloud-api.yandex.ru^
+
 # Mirror
 @@|mirror.yandex.ru^
 
@@ -411,7 +415,6 @@
 # It's likely to be unreliable:
 ####### many errors in Yandex itself, but unfck many places. What do you think?
 @@|yandex.ru^
-@@|cloud-api.yandex.ru^
 # ~
 
 # Maps - worked as expected.
