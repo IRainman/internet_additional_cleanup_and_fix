@@ -395,9 +395,11 @@
 @@|smartcaptcha.yandexcloud.net^
 
 # Cloud
+@@|yndx.auth.yandex.cloud^
 @@|yandex.cloud^
 @@|cloud.yandex.ru^
 @@|cloud-api.yandex.ru^
+@@|storage.yandexcloud.net^
 
 # Mirror - worked as expected.
 @@|mirror.yandex.ru^
