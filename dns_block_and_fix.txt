@@ -410,6 +410,7 @@
 @@|cloud.yandex.ru^
 @@|cloud-api.yandex.ru^
 @@|storage.yandexcloud.net^
+@@|yandex.net^
 
 # Mirror - worked as expected.
 @@|mirror.yandex.ru^
