@@ -390,7 +390,7 @@
 ##################################################################################
 # Yandex
 /^(.+\.)?(yandex)$/
-/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx|clstorage)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx)\.[a-z0-9-]{2,}$/
 
 # Search - worked as expected.
 @@|ya.ru^
@@ -405,7 +405,7 @@
 @@|smartcaptcha.yandexcloud.net^
 
 # Cloud
-@@|yndx.auth.yandex.cloud^
+@@|yandexcloud.net^
 @@|yandex.cloud^
 @@|cloud.yandex.ru^
 @@|cloud-api.yandex.ru^
@@ -419,11 +419,11 @@
 @@|api.passport.yandex.ru^
 @@|sso.passport.yandex.ru^
 @@|user-id-frontend.s3.yandex.net^
+@@|yndx.auth.yandex.cloud^
 
 # Static
 @@|yastatic.net^
 @@|avatars.mds.yandex.net^
-@@|yandex-images.clstorage.net^
 
 # Maps - worked as expected.
 @@|maps.yandex.ru^
@@ -444,7 +444,6 @@
 # Kinopoisk - worked as expected.
 @@|www.kinopoisk.ru^
 @@|graphql.kinopoisk.ru^
-@@|kinopoisk-ru.clstorage.net^
 @@|st.kp.yandex.net^
 ##################################################################################
 # Sberbank - worked as expected.
