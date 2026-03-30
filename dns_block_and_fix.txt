@@ -389,6 +389,9 @@
 # Search - worked as expected.
 @@|ya.ru^
 
+# Technical domain, use uBlock Origin and don't use apps.
+@|yandex.ru^
+
 # Link shorter
 @@|ya.cc^
 
@@ -415,11 +418,6 @@
 @@|yastatic.net^
 @@|avatars.mds.yandex.net^
 @@|yandex-images.clstorage.net^
-
-# It's likely to be unreliable:
-####### many errors in Yandex itself, but unfck many places. What do you think?
-@@|yandex.ru^
-# ~
 
 # Maps - worked as expected.
 @@|maps.yandex.ru^
@@ -539,7 +537,8 @@
 @@|cdn.tbank.ru^
 @@|api.tbank.ru^
 @@|tmsg.tbank.ru
-@@|id.tbank.ru
+@@|id.tbank.ru^
+@@|id.tinkoff.ru^
 @@|sso-forms-prod.t-static.ru^
 ##################################################################################
 # Jetlend
