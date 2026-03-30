@@ -421,6 +421,7 @@
 @@|sso.passport.yandex.ru^
 @@|user-id-frontend.s3.yandex.net^
 @@|yndx.auth.yandex.cloud^
+@@|oauth.yandex.ru^
 
 # Static
 @@|yastatic.net^
@@ -546,27 +547,8 @@
 @@|id.tbank.ru^
 @@|sso-forms-prod.t-static.ru^
 
-# T-pay
+# T-pay - patches are welcome
 @@|tpay.tbank.ru^
-@@|u.tbank.ru^
+#@@|u.tbank.ru^
 
-# App
-@@|id.t-bank-app.ru
-@@|api.t-bank-app.ru
-@@|acdn.t-bank-app.ru^
 ##################################################################################
-# Jetlend
-#||sentry.jetlend.ru^
-##################################################################################
-# Ozon
-#||xapi.ozon.ru^
-##################################################################################
-# DNS shop - already fixed in other list.
-#||dns-shop.ru^
-#@@|www.dns-shop.ru^
-#@@|a.dns-shop.ru^
-#@@|b.dns-shop.ru^
-#@@|c.dns-shop.ru^
-#@@|chat.dns-shop.ru^
-#@@|restapi.dns-shop.ru^
-#@@|user-events-notifier.dns-shop.ru
