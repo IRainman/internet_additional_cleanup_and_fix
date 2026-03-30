@@ -538,7 +538,7 @@
 ||serving-sys.com^
 ##################################################################################
 # T-bank - worked as expected.
-/^(.+\.)?(tbank|t-bank-app|t-static|tinkoff|cdn-tinkoff|tmiaf|tbank-online)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(tbank|t-bank-app|t-static|tinkoff|cdn-tinkoff|tmiaf|tbank-online)\.(ru|su)$/
 @@|www.tbank.ru^
 @@|cdn.tbank.ru^
 @@|api.tbank.ru^
@@ -547,8 +547,11 @@
 @@|sso-forms-prod.t-static.ru^
 
 # T-pay
-@@|tpay.tbank.ru
-#@@|u.tbank.ru
+@@|tpay.tbank.ru^
+#@@|u.tbank.ru^
+
+# temporarily
+@@acdn.t-bank-app.ru^
 ##################################################################################
 # Jetlend
 #||sentry.jetlend.ru^
@@ -558,9 +561,10 @@
 ##################################################################################
 # DNS shop
 ||dns-shop.ru^
-@@|www.dns-shop.ru
-#@@|a.dns-shop.ru
-#@@|c.dns-shop.ru
-@@|chat.dns-shop.ru
-@@|restapi.dns-shop.ru
+@@|www.dns-shop.ru^
+@@|a.dns-shop.ru^
+@@|b.dns-shop.ru^
+@@|c.dns-shop.ru^
+@@|chat.dns-shop.ru^
+@@|restapi.dns-shop.ru^
 @@|user-events-notifier.dns-shop.ru
