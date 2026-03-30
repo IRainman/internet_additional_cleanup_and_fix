@@ -550,7 +550,8 @@
 @@|tpay.tbank.ru^
 @@|u.tbank.ru^
 
-# temporarily
+# App
+@@|id.t-bank-app.ru
 @@|api.t-bank-app.ru
 @@|acdn.t-bank-app.ru^
 ##################################################################################
@@ -560,12 +561,12 @@
 # Ozon
 #||xapi.ozon.ru^
 ##################################################################################
-# DNS shop
-||dns-shop.ru^
-@@|www.dns-shop.ru^
-@@|a.dns-shop.ru^
-@@|b.dns-shop.ru^
-@@|c.dns-shop.ru^
-@@|chat.dns-shop.ru^
-@@|restapi.dns-shop.ru^
-@@|user-events-notifier.dns-shop.ru
+# DNS shop - already fixed in other list.
+#||dns-shop.ru^
+#@@|www.dns-shop.ru^
+#@@|a.dns-shop.ru^
+#@@|b.dns-shop.ru^
+#@@|c.dns-shop.ru^
+#@@|chat.dns-shop.ru^
+#@@|restapi.dns-shop.ru^
+#@@|user-events-notifier.dns-shop.ru
