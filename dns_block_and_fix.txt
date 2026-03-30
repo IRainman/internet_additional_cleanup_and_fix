@@ -396,7 +396,7 @@
 @@|ya.ru^
 
 # Technical domain, use uBlock Origin and don't use apps.
-@|yandex.ru^
+@@|yandex.ru^
 
 # Link shorter
 @@|ya.cc^
