@@ -133,6 +133,9 @@
 
 # Data leak to Meta (sorry for the regexp):
 /^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
+
+# Data leak to Microsoft:
+||smartscreen*.microsoft.com^
 ##################################################################################
 # Mobile filters fixes
 ||ad.*.xiaomi.*^
