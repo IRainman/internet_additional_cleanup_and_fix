@@ -548,10 +548,11 @@
 
 # T-pay
 @@|tpay.tbank.ru^
-#@@|u.tbank.ru^
+@@|u.tbank.ru^
 
 # temporarily
-@@acdn.t-bank-app.ru^
+@@|api.t-bank-app.ru
+@@|acdn.t-bank-app.ru^
 ##################################################################################
 # Jetlend
 #||sentry.jetlend.ru^
