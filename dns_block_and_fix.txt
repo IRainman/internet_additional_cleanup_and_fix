@@ -541,7 +541,6 @@
 @@|api.tbank.ru^
 @@|tmsg.tbank.ru
 @@|id.tbank.ru^
-@@|id.tinkoff.ru^
 @@|sso-forms-prod.t-static.ru^
 ##################################################################################
 # Jetlend
