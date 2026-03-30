@@ -545,6 +545,10 @@
 @@|tmsg.tbank.ru
 @@|id.tbank.ru^
 @@|sso-forms-prod.t-static.ru^
+
+# T-pay
+@@|tpay.tbank.ru
+#@@|u.tbank.ru
 ##################################################################################
 # Jetlend
 #||sentry.jetlend.ru^
@@ -552,3 +556,11 @@
 # Ozon
 #||xapi.ozon.ru^
 ##################################################################################
+# DNS shop
+||dns-shop.ru^
+@@|www.dns-shop.ru
+#@@|a.dns-shop.ru
+#@@|c.dns-shop.ru
+@@|chat.dns-shop.ru
+@@|restapi.dns-shop.ru
+@@|user-events-notifier.dns-shop.ru
