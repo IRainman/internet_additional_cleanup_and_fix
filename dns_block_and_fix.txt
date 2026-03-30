@@ -10,11 +10,14 @@
 @@||firefox.com^
 @@||telemetry.mozilla.org^
 @@||telemetry-incoming.*.services.mozilla.com^
-@@||watson.events.data.microsoft.com^
-@@||watson.telemetry.microsoft.com^
-@@||umwatson.events.data.microsoft.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||telemetry.visualstudio.microsoft.com^
+@@||data.microsoft.com^
+@@||telemetry.microsoft.com^
+@@||events.data.microsoft.com^
+@@||blob.core.windows.net^
+@@||login.live.com^
+@@||oca.microsoft.com^
 @@||activity.windows.com^
 @@||crashlytics.com^
 @@||crashlyticsreports-pa.googleapis.com
