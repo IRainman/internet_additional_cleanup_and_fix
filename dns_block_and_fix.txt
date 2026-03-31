@@ -385,22 +385,24 @@
 
 # No plus, no pay, no bank, no cloud - it's really naher. Setup Mir Pay for cards and it's all.
 # If you really need this info shit - please tell me.
-#@@||yandex-bank.net^
-#@@||ya.ru^
-#@@||yandex.ru^
-#@@||yandex.net^
-#@@||yandexcloud.net^
-#@@||yandex.cloud^
+@@||yandex-bank.net^
+@@||ya.ru^
+@@||yandex.ru^
+@@||yandex.net^
+@@||yandexcloud.net^
+@@||yandex.cloud^
 
+# Browser - done.
+||browser.yandex.*^
 
 # Search - worked as expected.
-@|ya.ru^
+#@@|ya.ru^
 
 # Technical domain, all subshit cleanup by uBlock Origin. Don't use apps.
-@|yandex.ru^
+#@@|yandex.ru^
 
 # Link shorter
-@|ya.cc^
+@@|ya.cc^
 
 # Captcha - worked as expected.
 @@|smartcaptcha.yandexcloud.net^
