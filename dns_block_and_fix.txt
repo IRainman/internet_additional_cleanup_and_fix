@@ -405,8 +405,9 @@
 # Search - worked as expected.
 @@|ya.ru^
 
-# Technical domain, all subshit cleanup by uBlock Origin. Don't use apps.
+# Technical domains, all subshit cleanup by uBlock Origin. Don't use apps!
 @@|yandex.ru^
+@@|yastatic.net^
 
 # Link shorter
 @@|ya.cc^
