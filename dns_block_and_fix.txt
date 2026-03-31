@@ -497,9 +497,9 @@
 # Dzen - done
 
 # RuStore - done
-###########@@|www.rustore.ru^
-###########@@|static.rustore.ru^
-###########@@|backapi.rustore.ru^
+@@|www.rustore.ru^
+@@|static.rustore.ru^
+@@|backapi.rustore.ru^
 
 # Yola - worked as expected.
 @@|youla.ru^
