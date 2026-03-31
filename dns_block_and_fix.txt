@@ -379,68 +379,68 @@
 @@|feedback-*.wbbasket.ru^
 @@|suppliers-shipment-*.wildberries.ru^
 ##################################################################################
-# Yandex
-/^(.+\.)?(yandex)$/
-/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx)\.[a-z0-9-]{2,}$/
+# Yandex - naher.
+#/^(.+\.)?(yandex)$/
+#/^(.+\.)?(meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx)\.[a-z0-9-]{2,}$/
 
 # Search - worked as expected.
-@@|ya.ru^
+#@@|ya.ru^
 
 # Technical domain, use uBlock Origin and don't use apps.
-@@|yandex.ru^
+#@@|yandex.ru^
 
 # Link shorter
-@@|ya.cc^
+#@@|ya.cc^
 
 # Captcha - worked as expected.
-@@|smartcaptcha.yandexcloud.net^
+#@@|smartcaptcha.yandexcloud.net^
 
 # Cloud
-@@|yandexcloud.net^
-@@|yandex.cloud^
-@@|cloud.yandex.ru^
-@@|cloud-api.yandex.ru^
-@@|storage.yandexcloud.net^
-@@|yandex.net^
+#@@|yandexcloud.net^
+#@@|yandex.cloud^
+#@@|cloud.yandex.ru^
+#@@|cloud-api.yandex.ru^
+#@@|storage.yandexcloud.net^
+#@@|yandex.net^
 
 # Mirror - worked as expected.
-@@|mirror.yandex.ru^
+#@@|mirror.yandex.ru^
 
 # Passport - worked as expected.
-@@|passport.yandex.ru^
-@@|api.passport.yandex.ru^
-@@|sso.passport.yandex.ru^
-@@|user-id-frontend.s3.yandex.net^
-@@|yndx.auth.yandex.cloud^
-@@|oauth.yandex.ru^
+#@@|passport.yandex.ru^
+#@@|api.passport.yandex.ru^
+#@@|sso.passport.yandex.ru^
+#@@|user-id-frontend.s3.yandex.net^
+#@@|yndx.auth.yandex.cloud^
+#@@|oauth.yandex.ru^
 
 # Static
-@@|yastatic.net^
-@@|avatars.mds.yandex.net^
+#@@|yastatic.net^
+#@@|avatars.mds.yandex.net^
 
 # Maps - worked as expected.
-@@|maps.yandex.ru^
-@@|maps.yastatic.net^
-@@|maps-yandex-ru.naydex.net^
-@@|core-renderer-tiles.maps.yandex.ru^
-@@|sat*.maps.yandex.net^
+#@@|maps.yandex.ru^
+#@@|maps.yastatic.net^
+#@@|maps-yandex-ru.naydex.net^
+#@@|core-renderer-tiles.maps.yandex.ru^
+#@@|sat*.maps.yandex.net^
 
 # Market - worked as expected.
-@@|market.yandex.ru^
+#@@|market.yandex.ru^
 
 # Mail - worked as expected.
-@@|mail.yandex.ru^
+#@@|mail.yandex.ru^
 
 # Your reviews - worked as expected.
-@@|reviews.yandex.ru^
+#@@|reviews.yandex.ru^
 
 # Kinopoisk - worked as expected.
-@@|www.kinopoisk.ru^
-@@|graphql.kinopoisk.ru^
-@@|st.kp.yandex.net^
+#@@|www.kinopoisk.ru^
+#@@|graphql.kinopoisk.ru^
+#@@|st.kp.yandex.net^
 ##################################################################################
 # Sberbank - worked as expected.
-/^(.+\.)?(sber|sberbank|sbrf)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(sber|sberbank|sbrf)\..(ru|com)$/
 @@|id.sber.ru^
 @@|mc-cbro.online.sberbank.ru^
 @@|cdn.sberbank.ru^
@@ -474,7 +474,7 @@
 @@|docs.2gis.com^
 
 # Rambler if you need it, please give mework PR
-/^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
+#/^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
 
 ##################################################################################
 /^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
