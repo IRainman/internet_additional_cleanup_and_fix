@@ -65,14 +65,12 @@
 ||antivirus.*^
 ||internetsehat.*^
 ||resolver.*^
-||sponsor.*^
-||dns*tls.*^
-||tls-dns-u.*^
+||dns-tls.*^
+||tls-dns.*^
 ||http-dns*.*^
 ||httpdns*.*^
 ||httpsdns.*^
 ||freedns.*^
-||ordns.*^
 ||*-doh.*^
 ||*-dot.*^
 ||*dnscrypt*.*^
@@ -91,12 +89,7 @@
 ||kids.*^
 ||dns.pub^
 ||dnsapi.cn^
-||dnspod.cn^
-||dnspod.com^
-||dnspod.com.cn^
-||dnspod.mobi^
-||dnspod.net^
-||dnspod.org^
+||dnspod.*^
 ||dnsv?.com^
 ||ublockdns.com^
 ||joindns4.eu^
@@ -346,8 +339,6 @@
 ||tlgrm.ru^
 ||telega.info^
 ||telega.me^
-||calls.okcdn.ru^
-||dal.mvk.com^
 ##################################################################################
 # Mobile OP's unfck
 ||tb.beeline.ru^
@@ -473,10 +464,7 @@
 @@|me.2gis.ru^
 @@|keys.api.2gis.com^
 @@|d-assets.2gis.ru^
-@@|tile0.maps.2gis.com^
-@@|tile1.maps.2gis.com^
-@@|tile2.maps.2gis.com^
-@@|tile3.maps.2gis.com^
+@@|tile*.maps.2gis.com^
 @@|favorites.api.2gis.ru^
 @@|mobile-weather.api.2gis.ru^
 @@|eta.api.2gis.ru^
@@ -485,7 +473,7 @@
 @@|info.2gis.com^
 @@|docs.2gis.com^
 
-# Rambler if you need it, please tell me?
+# Rambler if you need it, please give mework PR
 /^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
 
 ##################################################################################
@@ -547,7 +535,7 @@
 @@|id.tbank.ru^
 @@|sso-forms-prod.t-static.ru^
 
-# T-pay - patches are welcome
+# T-pay - pr are welcome, not working
 @@|tpay.tbank.ru^
 #@@|u.tbank.ru^
 
