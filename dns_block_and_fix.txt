@@ -533,6 +533,9 @@
 @@|tmsg.tbank.ru
 @@|id.tbank.ru^
 @@|sso-forms-prod.t-static.ru^
+@@|3ds.tbank.ru^$
+@@|secure.tbank.ru^$
+#@@|api-common.tinkoff.ru^$
 
 # T-pay - done. Setup Mir Pay for cards and it's all.
 #@@|tpay.tbank.ru^
