@@ -383,8 +383,7 @@
 /^(.+\.)?(yandex)$/
 /^(.+\.)?(kinopoisk|meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx)\.[a-z0-9-]{2,}$/
 
-# No plus, no pay, no bank, no cloud - it's really naher. Setup Mir Pay for cards and it's all.
-# If you really need this info shit - please tell me.
+# Setup Mir Pay for cards and it's all, don't use anything else.
 @@||yandex-bank.net^
 @@||ya.ru^
 @@||yandex.ru^
@@ -395,11 +394,19 @@
 # Browser - done.
 ||browser.yandex.*^
 
+# Cloud - some - done.
+@@|yandexcloud.net^
+@@|yandex.cloud^
+@@|cloud.yandex.ru^
+@@|cloud-api.yandex.ru^
+@@|storage.yandexcloud.net^
+@@|yandex.net^
+
 # Search - worked as expected.
-#@@|ya.ru^
+@@|ya.ru^
 
 # Technical domain, all subshit cleanup by uBlock Origin. Don't use apps.
-#@@|yandex.ru^
+@@|yandex.ru^
 
 # Link shorter
 @@|ya.cc^
