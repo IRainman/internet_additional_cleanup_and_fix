@@ -383,7 +383,7 @@
 /^(.+\.)?(yandex)$/
 /^(.+\.)?(kinopoisk|meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx)\.[a-z0-9-]{2,}$/
 
-# Setup Mir Pay for cards and it's all, don't use anything else.
+# Setup Mir Pay for cards and it is. All subshit cleanup by uBlock Origin. Don't use apps!
 @@||yandex-bank.net^
 @@||ya.ru^
 @@||yandex.ru^
@@ -391,7 +391,7 @@
 @@||yandexcloud.net^
 @@||yandex.cloud^
 
-# Browser - done.
+# Browser - done (scam, spam, trash, security breach)
 ||browser.yandex.*^
 
 # Cloud - some - done.
@@ -450,6 +450,7 @@
 @@|www.kinopoisk.ru^
 @@|graphql.kinopoisk.ru^
 @@|st.kp.yandex.net^
+@@|widgets.kinopoisk.ru^
 ##################################################################################
 # Sberbank - worked as expected.
 /^(.+\.)?(sber|sberbank|sbrf)\..(ru|com)$/
