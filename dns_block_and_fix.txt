@@ -389,17 +389,11 @@
 /^(.+\.)?(kinopoisk|meteum|naydex|ya|yandex|yandex.com|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx|webvisor)\.[a-z0-9-]{2,}$/
 
 # Setup Mir Pay for cards and it is. All subshit cleanup by uBlock Origin. Don't use apps!
-@@||yandex-bank.net^
-@@||ya.ru^
-@@||yandex.ru^
-@@||yandex.net^
-@@||yandexcloud.net^
-@@||yandex.cloud^
 
 # Browser - done (scam, spam, trash, security breach)
 ||browser.yandex.*^
 
-# Cloud - some - done.
+# Cloud - some - done. Please PR if something isn't working
 @@|yandexcloud.net^
 @@|yandex.cloud^
 @@|cloud.yandex.ru^
