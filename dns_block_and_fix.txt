@@ -490,7 +490,7 @@
 #/^(.+\.)?(rambler)\.[a-z0-9-]{2,}$/
 
 ##################################################################################
-/^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vkvideo|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-analytics|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vkvideo|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
 # VK
 @@|vk.com^
 @@|static.vk.com^
