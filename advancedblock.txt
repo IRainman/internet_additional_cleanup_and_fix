@@ -578,5 +578,8 @@ rkn.gov.ru##.banner-container
 ||cdn.tbank.ru/t-bank-app/*
 ||cdn.tbank.ru/eventea/*
 ||www.tbank.ru/*/ms-gateway/*
+||cdn.tbank.ru/*/tbundle/*
 ||cdn.tbank.ru/*/bonuses/*
 @@cdn.tbank.ru/*/bonuses/*/independent-bonuses-cashback-user-checker.client.js
+@@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-main-title.client.js
+@@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-offer-categories.client.js
