@@ -424,6 +424,8 @@
 @@|runtime.video.cloud.yandex.net^
 @@|frontend.vh.yandex.ru^
 
+@@|forms.yandex.ru^
+
 @@|yandex.jobs^
 @@|jobs.s3.yandex.net^
 
@@ -437,6 +439,8 @@
 @@|education.yandex.ru^
 
 @@|strm.yandex.ru^
+@@||strm.yandex.net^
+
 
 # Link shorter
 @@|ya.cc^
