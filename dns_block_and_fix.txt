@@ -557,13 +557,22 @@
 # Setup Mir Pay for cards and it is. All subshit cleanup by uBlock Origin. Don't use any app from this company!
 
 @@|www.tbank.ru^
-#@@|cdn.tbank.ru^
+
 @@|www.cdn-tinkoff.ru^
 @@|unic-cdn-prod.cdn-tinkoff.ru^
+
+@@|cdn.tbank.ru^
+
 @@|api.tbank.ru^
+
 @@|tmsg.tbank.ru
+
 @@|id.tbank.ru^
+
 @@|sso-forms-prod.t-static.ru^
+
 @@|3ds.tbank.ru^$
+
 @@|secure.tbank.ru^$
+
 ##################################################################################
