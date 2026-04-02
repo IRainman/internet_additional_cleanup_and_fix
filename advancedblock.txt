@@ -574,3 +574,6 @@ www.theguardian.com##.top-banner-ad-container
 rutube.ru##.wdp-onboardings-inventory-banner-module__wrapper-section
 
 rkn.gov.ru##.banner-container
+
+||cdn.tbank.ru/t-bank-app/*
+||cdn.tbank.ru/eventea/*
