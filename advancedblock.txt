@@ -572,3 +572,5 @@ www.theguardian.com##.top-banner-ad-container
 
 ||premier-static.rtbcdn.ru$image
 rutube.ru##.wdp-onboardings-inventory-banner-module__wrapper-section
+
+rkn.gov.ru##.banner-container
