@@ -579,3 +579,4 @@ rkn.gov.ru##.banner-container
 ||cdn.tbank.ru/eventea/*
 ||www.tbank.ru/*/ms-gateway/*
 ||cdn.tbank.ru/*/bonuses/*
+@@cdn.tbank.ru/*/bonuses/*/independent-bonuses-cashback-user-checker.client.js
