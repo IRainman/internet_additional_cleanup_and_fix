@@ -559,21 +559,28 @@ mm.ru##.banner-block
 mm.ru##.offer
 mm.ru##.inline-banner
 
+
 pytkam.net##.agent-warning
+
 
 msk1.ru##.w-100
 msk1.ru##.block-opinions
 msk1.ru##gridOneThirdLaptop
 msk1.ru##.mt-3.mb-8
 
+
 zoom.us##.zoom-popover__trigger
 
+
 www.theguardian.com##.top-banner-ad-container
+
 
 ||premier-static.rtbcdn.ru$image
 rutube.ru##.wdp-onboardings-inventory-banner-module__wrapper-section
 
+
 rkn.gov.ru##.banner-container
+
 
 ||www.tbank.ru/*/ms-gateway/*
 ||cdn.tbank.ru/t-bank-app/*
@@ -585,3 +592,4 @@ rkn.gov.ru##.banner-container
 @@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-main-title.client.js
 @@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-offer-categories.client.js
 @@cdn.tbank.ru/*/bonuses/*/independent-bonuses-cashback-user-checker.client.js
+
