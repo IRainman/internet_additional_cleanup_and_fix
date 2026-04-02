@@ -436,6 +436,8 @@
 
 @@|education.yandex.ru^
 
+@@|strm.yandex.ru^
+
 # Link shorter
 @@|ya.cc^
 
