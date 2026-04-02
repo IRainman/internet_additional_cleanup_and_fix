@@ -1,11 +1,11 @@
 # Title: HedgehogInTheCPP additional list
-# Description: This is my extendent DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home.
-# Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
+# Description: This is my extended DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home (also work with pihole).
+#
+# Please post the issue here: https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new or give a pr ;)
+#
+# Be careful: many additional functionalities are blocked by some paranoid lists, like the 1Hosts (Xtra) or ShadowWhisperer Tracking, please don't use it! It breaks many but fixes nothing. If you really need that type of list, you need to provide me a PR with fixes for some basic functionality exclusions, like OS location services (that help users locate themselves if satellite navigation isn't working), crash reports (that help developers resolve problems), and technical telemetry for the OSs, applications, and other services. You need to give me fixes before you ask me to enable that type of lists in our networks!
 ##################################################################################
-# Fixes for other lists -> unblock.
-# Mainly additional for full, not lite lists, and especially the ShadowWhisperer Tracking List that completely broke much functionality, and I still try to integrate it.
-# If you need (for some reason) using of the 1Hosts (Xtra) list, I'm not sorry: please provide feedback to the 1Hosts BEFORE you ask me to enable this list;
-# I would rather not fix this paranoid mode list!
+# Fixes for paranoid lists -> unblock.
 @@||addons.mozilla.org^
 @@||firefox.com^
 @@||telemetry.mozilla.org^
@@ -502,7 +502,7 @@
 
 ##################################################################################
 /^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-analytics|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vkvideo|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
-# VK
+# VK - done, if you need any of this please tell me in the chat, or give me a pr in this repo.
 @@|vk.com^
 @@|static.vk.com^
 @@|api.vk.com^
@@ -520,7 +520,7 @@
 
 # Dzen - done
 
-# RuStore - done
+# RuStore - worked as expected.
 @@|www.rustore.ru^
 @@|static.rustore.ru^
 @@|backapi.rustore.ru^
@@ -534,7 +534,7 @@
 @@|api.youla.io^
 @@|api.youla.ru^
 
-# Otzovic - done
+# Otzovic - worked as expected.
 @@|otzovik.com^
 @@|i*.otzovik.com^
 ##################################################################################
