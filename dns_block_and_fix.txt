@@ -416,6 +416,21 @@
 # Technical domains, all subshit cleanup by uBlock Origin. Don't use apps!
 @@|yandex.ru^
 @@|yastatic.net^
+@@|lpc-ext.s3.yandex.net^
+@@|runtime.video.cloud.yandex.net^
+@@|frontend.vh.yandex.ru^
+
+@@|yandex.jobs^
+@@|jobs.s3.yandex.net^
+
+@@|ir.yandex.ru^
+@@|ir-static.s3.yandex.net^
+
+@@|b2b.yandex.ru^
+
+@@|events.yandex.ru^
+
+@@|education.yandex.ru^
 
 # Link shorter
 @@|ya.cc^
@@ -450,6 +465,9 @@
 
 # Mail - worked as expected.
 @@|mail.yandex.ru^
+
+# SMTP - worked as expected.
+@@|smtp.yandex.ru^
 
 # Your reviews - worked as expected.
 @@|reviews.yandex.ru^
