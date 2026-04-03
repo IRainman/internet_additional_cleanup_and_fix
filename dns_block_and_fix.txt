@@ -395,7 +395,7 @@
 ##################################################################################
 # Yandex - WIP: please give a fix if you found something. Maybe I cleanup this like mail.ru, meh.
 /^(.+\.)?(yandex)$/
-/^(.+\.)?(kinopoisk|meteum|naydex|ya|yandex|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yclients|yndx|webvisor)\.[a-z0-9-]{2,}$/
+/^(.+\.)?(kinopoisk|meteum|naydex|ya|yandex|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yastatic-net|yclients|yndx|webvisor)\.[a-z0-9-]{2,}$/
 
 # Setup Mir Pay for cards and it is. All subshit cleanup by uBlock Origin. Don't use any app from this company, use Firefox + uBo!
 
