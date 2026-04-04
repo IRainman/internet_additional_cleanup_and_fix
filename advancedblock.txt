@@ -582,8 +582,8 @@ rutube.ru##.wdp-onboardings-inventory-banner-module__wrapper-section
 rkn.gov.ru##.banner-container
 
 
-||www.tbank.ru/*/ms-gateway/*
-||cdn.tbank.ru/t-bank-app/*
+#||www.tbank.ru/*/ms-gateway/*
+#||cdn.tbank.ru/t-bank-app/*
 #||cdn.tbank.ru/eventea/*
 #||cdn.tbank.ru/*/tbundle/*
 #||cdn.tbank.ru/*/bonuses/*
