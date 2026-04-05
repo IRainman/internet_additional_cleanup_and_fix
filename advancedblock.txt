@@ -10,11 +10,6 @@
 #leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
 
 
-! Exclude fix for the error in the list located here hg.adblockplus.org/ruadlist/raw-file/tip/bitblock/annoyance_specific_block.txt 
-! Login page isn't working
-@@printdirect.ru/crud/model_call
-
-
 moslenta.ru##.social-floating
 
 
@@ -629,4 +624,14 @@ rkn.gov.ru##.banner-container
 #@@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-main-title.client.js
 #@@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-offer-categories.client.js
 #@@cdn.tbank.ru/*/bonuses/*/independent-bonuses-cashback-user-checker.client.js
+
+
+
+||x5club.ru/assets/images/bg_*.jpg
+
+5ka.ru##.css-1loitit
+||5ka-cdn.x5static.net/*/app_banner*.png$image
+5ka.ru##.appBanner_container__Bm8K5
+
+
 
