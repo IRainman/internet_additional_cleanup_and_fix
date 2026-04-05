@@ -244,6 +244,7 @@
 ||mocean.mobi^
 ||modocean.mobi^
 ||mopub.com^
+||mradx.net^
 ||msads.net^
 ||msecn.net^
 ||mydas.mobi^
@@ -298,6 +299,9 @@
 # Used with HaGeZi's Gambling Blocklist:
 ||*.casino^
 
+# 
+||horo.mail.ru^
+
 # Original is here https://meduza.io/
 ||lenta.ru^
 ||lenta.com^
@@ -322,6 +326,7 @@
 ||sdilite.com^
 #... many other, please keep other creaters of the lists to know this malwaware.
 
+# 
 ||imaill.*^
 ||megaffon.ru^
 ||mybrowserbar.com^
@@ -345,6 +350,9 @@
 ||tlgrm.ru^
 ||telega.info^
 ||telega.me^
+
+# fake news
+||news.mail.ru^
 ##################################################################################
 # Mobile OP's unfck
 ||tb.beeline.ru^
@@ -398,6 +406,29 @@
 ####/^(.+\.)?(kinopoisk|meteum|naydex|ya|yandex|yandex-bank|yandex-images|yandexcloud|yandexcom|yandexwebcache|yastat|yastatic|yastatic-net|yclients|yndx|webvisor)\.[a-z0-9-]{2,}$/
 
 # Setup Mir Pay for cards and it is. All subshit cleanup by uBlock Origin. Don't use any app from this company, use Firefox + uBo!
+
+# Yandex
+
+# many errors in Yandex services, but unfck many other apps (please don't use apps, use browser instead) - not usefull
+#|yandex.ru^
+#||yastatic.*^
+
+||favicon.yandex.*^
+||mobileproxy.*.yandex.*^
+||direct.yandex.*^
+||media-adv.market.yandex.*^
+||yandex*change.*^
+||kiks.yandex.*^
+||banners.mobile.yandex.*^
+||analytics.mobile.yandex.*^
+||appmetrica.yandex.*^
+||market-click-baobab.yandex.*^
+
+# Yandex tracker (many errors in Yandex services)
+#||clck.yandex.*^
+
+# Yandex direct in the Android apps? (many errors in Yandex services)
+#avatars-fast.yandex.*^
 
 # Team (unblocked, not exist in any list)
 #@@|yandex-team.com^
@@ -509,6 +540,8 @@
 
 # Setup Mir Pay for cards and it is. All subshit cleanup by uBlock Origin. Don't use any app from this company, use Firefox + uBo!
 
+||hostmaster.sigma.sbrf.ru^
+
 ####@@|id.sber.ru^
 ####@@|mc-cbro.online.sberbank.ru^
 ####@@|cdn.sberbank.ru^
@@ -548,6 +581,7 @@
 # Mail.ru (rebrended after they raider takeover VK company): whitlisted, because use agressive marketing (набеизнес on russian)  - if you need this please give me a pr.
 ####/^(.+\.)?(rustore|imgsmail|cdn-vk|mvk|mycdn|otzovik|vk-analytics|vk-apps|vk|vk-cdn|vkgo|vklive|vkmessenger|vkvideo|vk-portal|vkuseraudio|vkuseraudio|vkuserlive|vkuser|vkuservideo|userapi|ok|okcdn|oneme|max|dzen|dzeninfra|youla|mrgcdn)\.[a-z0-9-]{2,}$/
 # VK - done, if you need any of this please tell me in the chat what exactly needs, or give me a PR
+
 ####@@|vk.com^
 ####@@|static.vk.com^
 ####@@|api.vk.com^
@@ -561,10 +595,16 @@
 ||browser.ru
 
 # Max 🤦🏻‍♀️
-||oneme.ru
-||max.ru
+||oneme.su^
+||oneme.ru^
+||max.su^
+||max.ru^
 
 # RuStore - worked as expected, please don't use it, it's not safety and many apps have backdoors and mitm certs!
+||ads.rustore.ru^
+||vkpns.rustore.ru^
+||rebus.rustore.ru^
+||inappstory.ru^
 ####@@|www.rustore.ru^
 ####@@|static.rustore.ru^
 ####@@|backapi.rustore.ru^
