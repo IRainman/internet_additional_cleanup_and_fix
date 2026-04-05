@@ -554,6 +554,40 @@ magnit.ru##.special-offers
 magnit.ru##.popular
 magnit.ru##.partners-offers
 magnit.ru##.magazine
+magnit.ru##.pwa-install-banner
+magnit.ru##.profile-subscription-base
+magnit.ru##.unit-footer-section-apps
+||magnit.ru/np/images/mplus/gradient-banner-xs.svg$image
+||magnit.ru/np/images/mplus/*$image
+magnit.ru##.mplus-benefits
+magnit.ru##.premium-banner
+magnit.ru##.pl-install-app-banner
+magnit.ru##[href^="/mplus"]
+magnit.ru##.pl-header-bottom-menu > [href^="/promo-catalog"]
+magnit.ru##.pl-header-bottom-menu > [href^="https://magnit.ru/partners"]
+magnit.ru##.faq-categories
+magnit.ru##.push-notification__image
+magnit.ru##.week-products
+magnit.ru##.evergreen-banners
+magnit.ru##.own-brands
+magnit.ru##.top-carousel
+magnit.ru##.top-carousel-wrapper
+magnit.ru##.category-tiles-block:nth-of-type(1)
+magnit.ru##.category-tiles-block:nth-of-type(2)
+magnit.ru##.category-tiles-block:nth-of-type(3)
+magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(4)
+magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(5)
+magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(6)
+magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(24)
+magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(25)
+||magnit.ru/*/product-slot-placeholder.webp$image
+magnit.ru##.pharmacy
+magnit.ru##.recommendations-products
+magnit.ru##.carousel-wrapper
+magnit.ru##.product-details-offer
+magnit.ru##.category-previews
+magnit.ru##.cart-recommendations
+magnit.ru##.ecom-cart__old-price
 
 cosmetic.magnit.ru##.sections-ticker.ticker
 cosmetic.magnit.ru##.unit-ad-block-message
