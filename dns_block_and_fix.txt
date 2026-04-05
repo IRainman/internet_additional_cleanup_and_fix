@@ -673,9 +673,8 @@
 ||*stories*.t-bank-app.*^
 ||*feed*.t-bank-app.*^
 ||*shopping*.t-bank-app.*^
-||*-ads-*.t-static.ru^
-||as.t-bank-app.ru^
-||stories-rtb.t-bank-app.ru^
-||as.t-bank-app.ru^
+||*-ads-*.t-static.*^
+||as.t-bank-app.*^
+||*stories*.tinkoff.*^
 
 ##################################################################################
