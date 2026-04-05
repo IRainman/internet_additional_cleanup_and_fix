@@ -661,4 +661,21 @@
 
 ####@@|secure.tbank.ru^$
 
+||tmiaf.ru^
+||tmiaf.su^
+||sage-collector.tbank.*^
+||certs.t-bank-app.*^
+||acdn.t-bank-app.*^
+||*invest.t-bank-app.*^
+||*cfg.t-bank-app.*
+||*config.t-bank-app.*
+||*loyality*.t-bank-app.*^
+||*stories*.t-bank-app.*^
+||*feed*.t-bank-app.*^
+||*shopping*.t-bank-app.*^
+||*-ads-*.t-static.ru^
+||as.t-bank-app.ru^
+||stories-rtb.t-bank-app.ru^
+||as.t-bank-app.ru^
+
 ##################################################################################
