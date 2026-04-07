@@ -452,6 +452,9 @@ www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, fals
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 
 
+openvpn.net###banner-a
+
+
 roskomsvoboda.org##.article.article_type-2
 
 
