@@ -425,6 +425,9 @@
 ||appmetrica.yandex.*^
 ||market-click-baobab.yandex.*^
 
+# Browser - done (scam, spam, trash, security breach)
+||browser.yandex.*^
+
 # Yandex tracker (many errors in Yandex services)
 #||clck.yandex.*^
 
@@ -434,9 +437,6 @@
 # Team (unblocked, not exist in any list)
 #@@|yandex-team.com^
 #@@|yandex-team.ru^
-
-# Browser - done (scam, spam, trash, security breach)
-||browser.yandex.*^
 
 # Cloud - some - done. Please PR if something isn't working
 ####@@|yandexcloud.net^
