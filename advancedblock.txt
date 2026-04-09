@@ -99,8 +99,6 @@ www.inoreader.com###consent_bbb
 
 www.kinopoisk.ru##.footer
 
-||yastatic.net/*/browser-light/*
-
 ||avatars.mds.yandex.net/get-adfox-content/*$image
 ||avatars.mds.yandex.net/get-market-adv/*$image
 
