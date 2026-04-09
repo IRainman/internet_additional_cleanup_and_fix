@@ -1,7 +1,21 @@
 ! Title: HedgehogInTheCPP additional list
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
-! Expires: 1 days
+! Expires: 1 hour
+
+! ===== COMMON DEBLOAT =====
+! Реклама / промо / баннеры
+##[class*="banner"]
+##[class*="promo"]
+##[class*="advert"]
+##[data-testid*="banner"]
+! Рекомендации / "вам может понравиться"
+##:has-text(Рекомендуем)
+##:has-text(Вам может понравиться)
+##:has-text(С этим товаром покупают)
+! Попапы
+##[role="dialog"]
+##.ReactModalPortal
 
 
 # TODO fix me
@@ -76,6 +90,22 @@ www.netall.ru##.topic_1
 id41.ru##.commerc_tp
 
 
+
+
+||ozon.ru/api/*recommend*
+! Рекомендации
+ozon.ru##[class*="recommend"]
+ozon.ru##:has-text(Вам может понравиться)
+! Stories
+ozon.ru##[class*="stories"]
+! Баннеры
+ozon.ru##[class*="banner"]
+! Подписки / премиум
+ozon.ru##[class*="premium"]
+ozon.ru##:has-text(Ozon Premium)
+! Видео
+ozon.ru##video
+
 ||ozon.ru##.banner
 ||ozon.ru##.carousel-container
 ||ozon.ru##.products-carousel
@@ -105,6 +135,19 @@ www.kinopoisk.ru##.footer
 eda.yandex##div.CatalogPageCarousel_root
 
 disk.yandex.ru##.top-banner_stretch
+
+
+
+! Реклама
+market.yandex.ru##[class*="advert"]
+market.yandex.ru##[class*="banner"]
+! Рекомендации
+market.yandex.ru##:has-text(Рекомендуем)
+market.yandex.ru##:has-text(Похожие товары)
+! Блоки "часто покупают"
+market.yandex.ru##:has-text(Часто покупают вместе)
+! Подписки / плюсы
+market.yandex.ru##:has-text(Плюс)
 
 market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/header\/madvHeaderPromo
@@ -519,6 +562,20 @@ msk.t2.ru##.dashboard-two-columns
 ya.ru##.SplashscreenDefault
 
 
+||wbbasket.ru/*/sentry.*
+||wildberries.ru/api/*recommend*
+! Убрать сторис / ленту
+wildberries.ru##[class*="stories"]
+! Убрать рекомендации
+wildberries.ru##[class*="recommend"]
+wildberries.ru##[class*="similar"]
+! Убрать блоки "С этим покупают"
+wildberries.ru##:has-text(С этим товаром покупают)
+! Убрать промо-карточки
+wildberries.ru##[class*="product-card"] [class*="promo"]
+! Убрать подписки/уведомления
+wildberries.ru##[class*="subscribe"]
+
 www.wildberries.ru###smartBanner
 www.wildberries.ru##.j-lottery-banner
 www.wildberries.ru##.cards-list
@@ -638,3 +695,19 @@ rkn.gov.ru##.banner-container
 
 
 
+||aliexpress.ru/api/*feed*
+aliexpress.ru##body:style(overflow:auto!important)
+! Рекомендации и мусор
+aliexpress.ru##[class*="recommend"]
+aliexpress.ru##[class*="feed"]
+aliexpress.ru##:has-text(Рекомендации)
+! Live / стримы
+aliexpress.ru##[class*="live"]
+!aliexpress.ru##video
+! Купоны / попапы
+aliexpress.ru##[class*="coupon"]
+aliexpress.ru##[class*="popup"]
+! "Похожие товары"
+aliexpress.ru##:has-text(Похожие товары)
+! Верхние баннеры
+aliexpress.ru##[class*="header-banner"]
