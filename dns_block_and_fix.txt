@@ -118,9 +118,9 @@
 ||resolver-eu.lelux.fi^
 ||jp.tiarap.org^
 ||jp.tiar.app^
-! ===== PUSH / NOTIFICATIONS =====
-||push.*^
-||notify.*^
+#! ===== PUSH / NOTIFICATIONS =====
+#||push.*^
+#||notify.*^
 ##################################################################################
 # Data leak to Google:
 ||safebrowsing*.googleapis.com^
