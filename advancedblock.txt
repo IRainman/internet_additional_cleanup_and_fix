@@ -99,6 +99,8 @@ www.inoreader.com###consent_bbb
 
 www.kinopoisk.ru##.footer
 
+||yastatic.net/*/browser-light/*
+
 ||avatars.mds.yandex.net/get-adfox-content/*$image
 ||avatars.mds.yandex.net/get-market-adv/*$image
 
@@ -127,7 +129,6 @@ market.yandex.ru###RecommendationRoll
 market.yandex.ru###cleanable
 market.yandex.ru###optimize
 market.yandex.ru###\/content\/page\/fancyPage\/defaultPage\/loginAgitation
-market.yandex.ru##.ds-flex_ai_c.ds-flex_col.ds-flex
 
 
 yandex.ru##.media-grid__media-content
