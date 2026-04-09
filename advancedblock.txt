@@ -129,7 +129,8 @@ market.yandex.ru###RecommendationRoll
 market.yandex.ru###cleanable
 market.yandex.ru###optimize
 market.yandex.ru###\/content\/page\/fancyPage\/defaultPage\/loginAgitation
-
+market.yandex.ru###\/content\/orderContent\/touchToAppDistribution
+market.yandex.ru###\/content\/page\/fancyPage\/touchToAppDistribution
 
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
