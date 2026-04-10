@@ -562,7 +562,6 @@ msk.t2.ru##.dashboard-two-columns
 ya.ru##.SplashscreenDefault
 
 
-||wbbasket.ru/*/sentry.*
 ||wildberries.ru/api/*recommend*
 ! Убрать сторис / ленту
 wildberries.ru##[class*="stories"]
