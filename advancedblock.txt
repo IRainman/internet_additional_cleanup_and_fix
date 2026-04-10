@@ -18,10 +18,10 @@
 ##.ReactModalPortal
 
 
-# TODO fix me
-#leroymerlin.ru##.main > .drpdwn > .inner > .tng
-#leroymerlin.ru###progressBar
-#leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
+! TODO fix me
+!leroymerlin.ru##.main > .drpdwn > .inner > .tng
+!leroymerlin.ru###progressBar
+!leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
 
 
 moslenta.ru##.social-floating
@@ -88,8 +88,6 @@ www.netall.ru##.topic_1
 
 
 id41.ru##.commerc_tp
-
-
 
 
 ||ozon.ru/api/*recommend*
@@ -234,7 +232,6 @@ windowstips.ru##.test-class.main-sidebar-col.cactus-sidebar.col-md-4
 windowstips.ru###top-nav > .navbar-default.navbar > .container
 
 
-!
 !winaero.com##.winrec
 !winaero.com##div.windiv
 winaero.com###secondary
@@ -562,18 +559,16 @@ msk.t2.ru##.dashboard-two-columns
 ya.ru##.SplashscreenDefault
 
 
-||wildberries.ru/api/*recommend*
+www.wildberries.ru/api/*recommend*
 ! Убрать сторис / ленту
-wildberries.ru##[class*="stories"]
+www.wildberries.ru##[class*="stories"]
 ! Убрать рекомендации
-wildberries.ru##[class*="recommend"]
-wildberries.ru##[class*="similar"]
-! Убрать блоки "С этим покупают"
-wildberries.ru##:has-text(С этим товаром покупают)
+www.wildberries.ru##[class*="recommend"]
+www.wildberries.ru##[class*="similar"]
 ! Убрать промо-карточки
-wildberries.ru##[class*="product-card"] [class*="promo"]
+www.wildberries.ru##[class*="product-card"] [class*="promo"]
 ! Убрать подписки/уведомления
-wildberries.ru##[class*="subscribe"]
+www.wildberries.ru##[class*="subscribe"]
 
 www.wildberries.ru###smartBanner
 www.wildberries.ru##.j-lottery-banner
