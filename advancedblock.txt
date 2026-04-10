@@ -696,7 +696,7 @@ rkn.gov.ru##.banner-container
 
 
 ||aliexpress.ru/api/*feed*
-aliexpress.ru##body:style(overflow:auto!important)
+!!!!!aliexpress.ru##body:style(overflow:auto!important)
 ! Рекомендации и мусор
 aliexpress.ru##[class*="recommend"]
 aliexpress.ru##[class*="feed"]
@@ -706,7 +706,7 @@ aliexpress.ru##[class*="live"]
 !aliexpress.ru##video
 ! Купоны / попапы
 aliexpress.ru##[class*="coupon"]
-aliexpress.ru##[class*="popup"]
+!!!!aliexpress.ru##[class*="popup"]
 ! "Похожие товары"
 aliexpress.ru##:has-text(Похожие товары)
 ! Верхние баннеры
