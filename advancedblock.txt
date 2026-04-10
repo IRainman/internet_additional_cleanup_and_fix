@@ -5,17 +5,17 @@
 
 ! ===== COMMON DEBLOAT =====
 ! Реклама / промо / баннеры
-##[class*="banner"]
-##[class*="promo"]
-##[class*="advert"]
-##[data-testid*="banner"]
+!##[class*="banner"]
+!##[class*="promo"]
+!##[class*="advert"]
+!##[data-testid*="banner"]
 ! Рекомендации / "вам может понравиться"
 ##:has-text(Рекомендуем)
 ##:has-text(Вам может понравиться)
 ##:has-text(С этим товаром покупают)
 ! Попапы
-!!!!!!!!!!##[role="dialog"]
-##.ReactModalPortal
+!##[role="dialog"]
+!##.ReactModalPortal
 
 
 ! TODO fix me
@@ -137,15 +137,15 @@ disk.yandex.ru##.top-banner_stretch
 
 
 ! Реклама
-market.yandex.ru##[class*="advert"]
-market.yandex.ru##[class*="banner"]
+!market.yandex.ru##[class*="advert"]
+!market.yandex.ru##[class*="banner"]
 ! Рекомендации
-market.yandex.ru##:has-text(Рекомендуем)
-market.yandex.ru##:has-text(Похожие товары)
+!market.yandex.ru##:has-text(Рекомендуем)
+!market.yandex.ru##:has-text(Похожие товары)
 ! Блоки "часто покупают"
-market.yandex.ru##:has-text(Часто покупают вместе)
+!market.yandex.ru##:has-text(Часто покупают вместе)
 ! Подписки / плюсы
-market.yandex.ru##:has-text(Плюс)
+!market.yandex.ru##:has-text(Плюс)
 
 market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/header\/madvHeaderPromo
@@ -559,16 +559,16 @@ msk.t2.ru##.dashboard-two-columns
 ya.ru##.SplashscreenDefault
 
 
-www.wildberries.ru/api/*recommend*
+!www.wildberries.ru/api/*recommend*
 ! Убрать сторис / ленту
-www.wildberries.ru##[class*="stories"]
+!www.wildberries.ru##[class*="stories"]
 ! Убрать рекомендации
-www.wildberries.ru##[class*="recommend"]
-www.wildberries.ru##[class*="similar"]
+!www.wildberries.ru##[class*="recommend"]
+!www.wildberries.ru##[class*="similar"]
 ! Убрать промо-карточки
-www.wildberries.ru##[class*="product-card"] [class*="promo"]
+!www.wildberries.ru##[class*="product-card"] [class*="promo"]
 ! Убрать подписки/уведомления
-www.wildberries.ru##[class*="subscribe"]
+!www.wildberries.ru##[class*="subscribe"]
 
 www.wildberries.ru###smartBanner
 www.wildberries.ru##.j-lottery-banner
@@ -689,19 +689,19 @@ rkn.gov.ru##.banner-container
 
 
 
-||aliexpress.ru/api/*feed*
-aliexpress.ru##body:style(overflow:auto!important)
+!||aliexpress.ru/api/*feed*
+!aliexpress.ru##body:style(overflow:auto!important)
 ! Рекомендации и мусор
-aliexpress.ru##[class*="recommend"]
-aliexpress.ru##[class*="feed"]
-aliexpress.ru##:has-text(Рекомендации)
+!aliexpress.ru##[class*="recommend"]
+!aliexpress.ru##[class*="feed"]
+!aliexpress.ru##:has-text(Рекомендации)
 ! Live / стримы
-aliexpress.ru##[class*="live"]
+!aliexpress.ru##[class*="live"]
 !aliexpress.ru##video
 ! Купоны / попапы
-aliexpress.ru##[class*="coupon"]
-aliexpress.ru##[class*="popup"]
+!aliexpress.ru##[class*="coupon"]
+!aliexpress.ru##[class*="popup"]
 ! "Похожие товары"
-aliexpress.ru##:has-text(Похожие товары)
+!aliexpress.ru##:has-text(Похожие товары)
 ! Верхние баннеры
-aliexpress.ru##[class*="header-banner"]
+!aliexpress.ru##[class*="header-banner"]
