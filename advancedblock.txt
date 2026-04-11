@@ -171,6 +171,9 @@ market.yandex.ru###\/content\/page\/fancyPage\/defaultPage\/loginAgitation
 market.yandex.ru###\/content\/orderContent\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/orderDetails\/orderContent\/touchToAppDistribution
+market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/touchToAppDistribution
+
+
 
 
 yandex.ru##.media-grid__media-content
