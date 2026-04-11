@@ -172,9 +172,8 @@ market.yandex.ru###\/content\/orderContent\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/orderDetails\/orderContent\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/touchToAppDistribution
-
-
-
+market.yandex.ru###\/content\/page\/fancyPage\/content\/gamesHubEntryPoint
+market.yandex.ru###\/content\/page\/fancyPage\/content\/referralEntry
 
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
