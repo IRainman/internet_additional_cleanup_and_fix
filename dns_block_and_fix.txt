@@ -55,7 +55,7 @@
 @@||config.edge.skype.com^
 @@||firebaseinstallations.googleapis.com^
 @@||lcdn-locator.apple.com^
-@@||dit.whatsapp.net^
+@@||orbot.app^
 ##################################################################################
 # Global fixes -> reblock by masks
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
