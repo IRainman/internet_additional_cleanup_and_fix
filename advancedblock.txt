@@ -38,6 +38,7 @@ www.washingtonpost.com##.adslot-c
 
 
 qna.habr.com##.fixed-ad-banner
+habr.com##.tm-event-card_responsive
 
 
 meduza.io##.Material-related
@@ -134,8 +135,6 @@ eda.yandex##div.CatalogPageCarousel_root
 
 disk.yandex.ru##.top-banner_stretch
 
-
-
 ! Реклама
 !market.yandex.ru##[class*="advert"]
 !market.yandex.ru##[class*="banner"]
@@ -174,6 +173,9 @@ market.yandex.ru###\/content\/page\/fancyPage\/orderDetails\/orderContent\/touch
 market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/content\/gamesHubEntryPoint
 market.yandex.ru###\/content\/page\/fancyPage\/content\/referralEntry
+market.yandex.ru###\/content\/header\/header\/fortuneWheelBalance
+market.yandex.ru###promoBlockPart
+||vh.yandex.ru$subdocument
 
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
@@ -379,9 +381,6 @@ medialeaks.ru##.native_block
 medialeaks.ru###tlg_link_aftertext
 
 
-www.utorrent.com##.container:nth-of-type(1) > .span12
-
-
 ||www.onlime.ru/warning.php$subdocument
 
 
@@ -418,6 +417,7 @@ speedtest.net##.eot-dd-content
 
 
 ||lk.cdek.ru/*.gif$image
+www.cdek.ru##.smart-app-banner
 
 
 msk.tele2.ru##.combined-offers
