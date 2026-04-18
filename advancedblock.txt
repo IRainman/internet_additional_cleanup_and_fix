@@ -175,6 +175,7 @@ market.yandex.ru###\/content\/page\/fancyPage\/content\/gamesHubEntryPoint
 market.yandex.ru###\/content\/page\/fancyPage\/content\/referralEntry
 market.yandex.ru###\/content\/header\/header\/fortuneWheelBalance
 market.yandex.ru###promoBlockPart
+market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/recommendationRoll
 ||vh.yandex.ru$subdocument
 
 yandex.ru##.media-grid__media-content
