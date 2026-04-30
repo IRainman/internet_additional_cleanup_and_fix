@@ -104,12 +104,15 @@ ozon.ru##[class*="premium"]
 ozon.ru##:has-text(Ozon Premium)
 ! Видео
 ozon.ru##video
-
+!
 ||ozon.ru##.banner
 ||ozon.ru##.carousel-container
 ||ozon.ru##.products-carousel
 ||ozone.ru/s3/*.png$image
 www.ozon.ru##.dt3
+!
+finance.ozon.ru##.ozon
+finance.ozon.ru##.ozonbank
 
 
 magicair.tion.ru###shop-button
@@ -127,14 +130,14 @@ www.inoreader.com###consent_bbb
 
 
 www.kinopoisk.ru##.footer
-
+!
 ||avatars.mds.yandex.net/get-adfox-content/*$image
 ||avatars.mds.yandex.net/get-market-adv/*$image
-
+!
 eda.yandex##div.CatalogPageCarousel_root
-
+!
 disk.yandex.ru##.top-banner_stretch
-
+!
 ! Реклама
 !market.yandex.ru##[class*="advert"]
 !market.yandex.ru##[class*="banner"]
@@ -145,7 +148,9 @@ disk.yandex.ru##.top-banner_stretch
 !market.yandex.ru##:has-text(Часто покупают вместе)
 ! Подписки / плюсы
 !market.yandex.ru##:has-text(Плюс)
-
+!
+||vh.yandex.ru$subdocument
+!
 market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/header\/madvHeaderPromo
 market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation
@@ -176,19 +181,20 @@ market.yandex.ru###\/content\/page\/fancyPage\/content\/referralEntry
 market.yandex.ru###\/content\/header\/header\/fortuneWheelBalance
 market.yandex.ru###promoBlockPart
 market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/recommendationRoll
-||vh.yandex.ru$subdocument
-
+market.yandex.ru##.ds-button_brand_market
+market.yandex.ru###\/cardRecommendationRollV42
+!
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
 ||avatars.mds.yandex.net/get-vh$image
 yandex.ru##.thumb-preview_js_inited
 yandex.ru##.home-panel-content-view__body
-
+!
 music.yandex.ru##.audio-advert__block
 music.yandex.ru##.app-sms_theme_banner.app-sms > .app-sms__content
 music.yandex.ru##.app-sms__content_details.app-sms__content
 music.yandex.ru##.footer-app-install
-
+!
 telemost.yandex.ru##.Orb-Empty
 telemost.yandex.ru##.stubWrapper_
 
@@ -418,7 +424,12 @@ speedtest.net##.eot-dd-content
 
 
 ||lk.cdek.ru/*.gif$image
+||cdek.ru/*stories*/*$image
 www.cdek.ru##.smart-app-banner
+!my.cdek.ru##.bg-surface-card
+!my.cdek.ru##.mobile-scroll
+my.cdek.ru##.my-8.gap-4.lg\:grid-cols-3.grid-cols-2.grid
+my.cdek.ru##.mb-4.mt-9
 
 
 msk.tele2.ru##.combined-offers
