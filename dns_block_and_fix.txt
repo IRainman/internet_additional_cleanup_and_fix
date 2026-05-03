@@ -123,7 +123,7 @@
 #||notify.*^
 ##################################################################################
 # Data leak to Google:
-||safebrowsing*.googleapis.com^
+||safebrowsing*.google*.com^
 
 # Data leak: now Mozilla is advertising company (see Google fix below, this domain is also used)
 ||*-error.mozilla.com^
