@@ -60,6 +60,7 @@ moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-soci
 
 
 mos.ru##.mos-footer-tizer
+mos.ru##.lazyload-wrapper
 
 
 postnauka.ru###ad_h
