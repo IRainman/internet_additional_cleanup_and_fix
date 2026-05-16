@@ -59,6 +59,9 @@ moschange.ru##.container-fluid.page__wrapper > .js-social-floating.social-floati
 moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-social-floating.social-floating
 
 
+mos.ru##.mos-footer-tizer
+
+
 postnauka.ru###ad_h
 postnauka.ru###sb
 postnauka.ru###project
