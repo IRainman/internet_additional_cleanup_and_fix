@@ -13,6 +13,8 @@
 ##:has-text(Рекомендуем)
 ##:has-text(Вам может понравиться)
 ##:has-text(С этим товаром покупают)
+##:has-text(Recommendations for your purchases)
+##:has-text(Chosen according to your interests)
 ! Попапы
 !##[role="dialog"]
 !##.ReactModalPortal
