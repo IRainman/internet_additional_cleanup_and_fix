@@ -727,3 +727,14 @@ rkn.gov.ru##.banner-container
 !aliexpress.ru##:has-text(Похожие товары)
 ! Верхние баннеры
 !aliexpress.ru##[class*="header-banner"]
+
+
+
+||www.pochta.ru/*/promotion/*
+||www.pochta.ru/*/yandex*
+||www.pochta.ru/*/vtb*
+www.pochta.ru##.swiper-container
+www.pochta.ru##section:nth-of-type(8)
+www.pochta.ru/assets/jam_*
+||www.pochta.ru/assets/Banner_*$image
+
