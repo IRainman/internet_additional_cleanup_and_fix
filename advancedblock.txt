@@ -190,6 +190,9 @@ market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/recommendationRoll
 !market.yandex.ru##.ds-button_brand_market
 market.yandex.ru###\/cardRecommendationRollV42
 market.yandex.ru###\/content\/page\/content\/defaultPage\/loginAgitation
+market.yandex.ru###\/content\/page\/orderDetails\/orderContent\/touchToAppDistribution
+market.yandex.ru###\/content\/header
+market.yandex.ru###\/content\/page\/fancyPage\/content\/promoWidgets
 !
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
