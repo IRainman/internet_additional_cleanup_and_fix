@@ -746,3 +746,8 @@ www.pochta.ru##section:nth-of-type(8)
 www.pochta.ru/assets/jam_*
 ||www.pochta.ru/assets/Banner_*$image
 
+
+
+||cdn.pvs-studio.ru/static/images/roulette/*$image
+pvs-studio.ru###roulette-banner
+
