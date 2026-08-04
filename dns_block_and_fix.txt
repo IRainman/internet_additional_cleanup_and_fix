@@ -217,6 +217,7 @@
 ||curiousblogs.com^
 ||dawacsolutions.com^
 ||dealply.com^
+||demdex.net^
 ||directadvert.ru^
 ||earnshill.com^
 ||email-ultra.ru^
