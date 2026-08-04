@@ -165,6 +165,7 @@
 #||ad.*^
 ||sentry.*^
 ||xapi.*^
+||adsmeasurement.*^
 
 ||51.la^
 ||ad.ddestiny.ru^
