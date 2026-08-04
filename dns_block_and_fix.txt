@@ -10,6 +10,7 @@
 @@||firefox.com^
 @@||telemetry.mozilla.org^
 @@||telemetry-incoming.*.services.mozilla.com^
+@@||mozgcp.net^
 @@||browser.pipe.aria.microsoft.com^
 @@||telemetry.visualstudio.microsoft.com^
 @@||data.microsoft.com^
