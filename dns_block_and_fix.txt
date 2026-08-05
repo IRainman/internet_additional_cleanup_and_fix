@@ -7,7 +7,6 @@
 # There's fixes for paranoid lists -> unblock.
 @@||activity.windows.com^
 @@||addons.mozilla.org^
-@@||app-measurement.com^
 @@||angelfire.com^
 @@||archlinux32.org^
 @@||blob.core.windows.net^
@@ -24,8 +23,10 @@
 @@||crashlyticsreports-pa.googleapis.com
 @@||data.microsoft.com^
 @@||events.data.microsoft.com^
+@@||federatedcompute-pa.googleapis.com^
 @@||findmydevice-pa.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
+@@||firebaselogging.googleapis.com^
 @@||firefox.com^
 @@||geomobileservices-pa.googleapis.com^
 @@||gfe.nvidia.com^
