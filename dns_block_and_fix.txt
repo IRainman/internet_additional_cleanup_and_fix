@@ -8,6 +8,7 @@
 @@||activity.windows.com^
 @@||addons.mozilla.org^
 @@||angelfire.com^
+@@||app-analytics-services.com^
 @@||archlinux32.org^
 @@||blob.core.windows.net^
 @@||blogspot.com^
