@@ -27,6 +27,7 @@
 @@||findmydevice-pa.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
 @@||firebaselogging.googleapis.com^
+@@||firebaselogging-pa.googleapis.com^
 @@||firefox.com^
 @@||geomobileservices-pa.googleapis.com^
 @@||gfe.nvidia.com^
