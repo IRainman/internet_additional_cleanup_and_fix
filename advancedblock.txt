@@ -751,3 +751,6 @@ www.pochta.ru/assets/jam_*
 ||cdn.pvs-studio.ru/static/images/roulette/*$image
 pvs-studio.ru###roulette-banner
 
+
+drivers.softpedia.com##.ad
+
