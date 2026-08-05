@@ -145,12 +145,12 @@
 # Data leak to Microsoft:
 ||smartscreen*.microsoft.com^
 ##################################################################################
-# Mobile filters fixes
+# Mobile filters fixes for DNS performance improve by reducing lists size
 ||ad.*.xiaomi.*^
 ||tracking.*.miui.*^
 ||ads.heytapmobi.*^
 ||ads.heytapmobile.*^
-||push.hihonorcloud.*^
+||mdp-appconf-*.heytapdl.*^
 
 # Chinese companies are full of cringe;
 # this is the craziest absurdity I've ever seen before for scams:
@@ -163,6 +163,7 @@
 ||metrics.dt.hicloud.*^
 ||cloudrom-global.emui.dbankcloud.*^
 ||query-channel.hicloud.*^
+||push.hihonorcloud.*^
 # unfck and have a nice day ;)
 ||dnkeeper.*^
 ||dnkeeper-*.*^
