@@ -79,6 +79,7 @@
 @@||rum.ngenix.net^
 @@||s.youtube.com^
 @@||sage-collector.tbank.ru^
+@@||sentry-mobile.avito.ru^
 @@||sentry-relay.beeline.ru^
 @@||sentry-cdn.com^
 @@||sentry.io^
