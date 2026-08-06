@@ -66,6 +66,7 @@
 @@||log.strm.yandex.ru^
 @@||log-gateway.zoom.us^
 @@||log.aliyuncs.com^
+@@||log-drru.platform.hihonorcloud.com^
 @@||login.live.com^
 @@||lostfilm.top^
 @@||mosmetro.edna.io^
