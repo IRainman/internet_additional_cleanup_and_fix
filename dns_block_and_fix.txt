@@ -31,8 +31,10 @@
 @@||crashlogs.whatsapp.net^
 @@||crashlytics.com^
 @@||crashlyticsreports-pa.googleapis.com
+@@||cstat.cdn-apple.com^
 @@||data.microsoft.com^
 @@||dc.services.visualstudio.com^
+@@||dit.whatsapp.net^
 @@||events.data.microsoft.com^
 @@||federatedcompute-pa.googleapis.com^
 @@||findmydevice-pa.googleapis.com^
@@ -86,6 +88,7 @@
 @@||userlocation.googleapis.com^
 @@||x230.0fees.us^
 @@||yacy.net^
+@@||xp.apple.com^
 @@||www.telecommandsvc.microsoft.com^
 ##################################################################################
 # Global fixes -> reblock by masks
