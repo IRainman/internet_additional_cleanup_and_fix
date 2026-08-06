@@ -62,7 +62,7 @@
 @@||log-gateway.zoom.us^
 @@||log.aliyuncs.com^
 @@||login.live.com^
-@@||lostfilm.top^^
+@@||lostfilm.top^
 @@||mozgcp.net^
 @@||newslink.reuters.com^
 @@||nhacmp3youtube.com^
