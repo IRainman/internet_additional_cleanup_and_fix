@@ -336,8 +336,8 @@
 ||xevil.net^
 ##################################################################################
 # Human rights violations
-||masterok.livejournal.com
 ||kak2z.ru^
+||masterok.livejournal.com^
 ||smokenosov.blogspot.com^
 ||topwar.ru^
 
