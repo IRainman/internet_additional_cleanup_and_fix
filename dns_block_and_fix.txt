@@ -28,6 +28,7 @@
 @@||consent.trustarc.com^
 @@||copilot-telemetry.githubusercontent.com^
 @@||coppersurfer.tk^
+@@||crash.ant.sberbank.ru^
 @@||crashlogs.whatsapp.net^
 @@||crashlytics.com^
 @@||crashlyticsreports-pa.googleapis.com^
@@ -79,6 +80,7 @@
 @@||s.youtube.com^
 @@||sage-collector.tbank.ru^
 @@||sentry-relay.beeline.ru^
+@@||sentry.io^
 @@||settings-win.data.microsoft.com^
 @@||static-mon.yandex.net^
 @@||t1.gstatic.com^
@@ -307,7 +309,6 @@
 ||rutrk.org^
 ||samilia.ru^
 ||scorecardresearch.com^
-||sentry.*^
 ||shorek.ru^
 ||smaato.net^
 ||socfishing.ru^
