@@ -30,10 +30,12 @@
 @@||coppersurfer.tk^
 @@||crashlogs.whatsapp.net^
 @@||crashlytics.com^
-@@||crashlyticsreports-pa.googleapis.com
+@@||crashlyticsreports-pa.googleapis.com^
+@@||clienttracing-pa.googleapis.com^
 @@||cstat.cdn-apple.com^
 @@||data.microsoft.com^
 @@||dc.services.visualstudio.com^
+@@||dc1-cert.ksn.kaspersky-labs.com^
 @@||dit.whatsapp.net^
 @@||events.data.microsoft.com^
 @@||federatedcompute-pa.googleapis.com^
@@ -65,6 +67,7 @@
 @@||log.aliyuncs.com^
 @@||login.live.com^
 @@||lostfilm.top^
+@@||mosmetro.edna.io^
 @@||mozgcp.net^
 @@||newslink.reuters.com^
 @@||nhacmp3youtube.com^
@@ -72,7 +75,10 @@
 @@||ogads-pa.googleapis.com^
 @@||openairinfo.com^
 @@||orbot.app^
+@@||rum.ngenix.net^
 @@||s.youtube.com^
+@@||sage-collector.tbank.ru^
+@@||sentry-relay.beeline.ru^
 @@||settings-win.data.microsoft.com^
 @@||static-mon.yandex.net^
 @@||t1.gstatic.com^
@@ -86,10 +92,11 @@
 @@||tor4me.info^
 @@||uniondht.org^
 @@||userlocation.googleapis.com^
-@@||x230.0fees.us^
-@@||yacy.net^
-@@||xp.apple.com^
+@@||verify.yandex.ru^
 @@||www.telecommandsvc.microsoft.com^
+@@||x230.0fees.us^
+@@||xp.apple.com^
+@@||yacy.net^
 ##################################################################################
 # Global fixes -> reblock by masks
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
