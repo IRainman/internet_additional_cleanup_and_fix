@@ -25,6 +25,7 @@
 @@||bt.nnm-club.cc^
 @@||cdn.eapteka.ru^
 @@||config.edge.skype.com^
+@@||consent.trustarc.com^
 @@||copilot-telemetry.githubusercontent.com^
 @@||coppersurfer.tk^
 @@||crashlogs.whatsapp.net^
@@ -39,6 +40,7 @@
 @@||firebaselogging.googleapis.com^
 @@||firebaselogging-pa.googleapis.com^
 @@||firefox.com^
+@@||fourier.alibaba.com^
 @@||geomobileservices-pa.googleapis.com^
 @@||gfe.nvidia.com^
 @@||glpals.com^
@@ -57,6 +59,8 @@
 @@||locationiq.com^
 @@||log.api-maps.yandex.ru^
 @@||log.strm.yandex.ru^
+@@||log-gateway.zoom.us^
+@@||log.aliyuncs.com^
 @@||login.live.com^
 @@||lostfilm.top^^
 @@||mozgcp.net^
@@ -75,6 +79,7 @@
 @@||telemetry.microsoft.com^
 @@||telemetry.mozilla.org^
 @@||telemetry.visualstudio.microsoft.com^
+@@||telemetry.zoom.us^
 @@||tfile.co^
 @@||tor4me.info^
 @@||uniondht.org^
@@ -318,7 +323,6 @@
 ||wifly.net^
 ||wiflyad.net^
 ||xad.com^
-||xapi.*^
 ||xevil.net^
 ##################################################################################
 # Human rights violations
