@@ -80,6 +80,7 @@
 @@||s.youtube.com^
 @@||sage-collector.tbank.ru^
 @@||sentry-relay.beeline.ru^
+@@||sentry-cdn.com^
 @@||sentry.io^
 @@||settings-win.data.microsoft.com^
 @@||static-mon.yandex.net^
