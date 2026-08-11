@@ -468,21 +468,21 @@
 #|yandex.ru^
 #||yastatic.*^
 
-#||favicon.yandex.*^
-#||mobileproxy.*.yandex.*^
-#||direct.yandex.*^
-#||media-adv.market.yandex.*^
-#||yandex*change.*^
-#||kiks.yandex.*^
-#||banners.mobile.yandex.*^
-#||analytics.mobile.yandex.*^
-#||appmetrica.yandex.*^
-#||market-click-baobab.yandex.*^
-#||mc.yandex.ru^
+||favicon.yandex.*^
+||mobileproxy.*.yandex.*^
+||direct.yandex.*^
+||media-adv.market.yandex.*^
+||yandex*change.*^
+||kiks.yandex.*^
+||banners.mobile.yandex.*^
+||analytics.mobile.yandex.*^
+||appmetrica.yandex.*^
+||market-click-baobab.yandex.*^
+||mc.yandex.ru^
 #||metrika.yandex.ru^
 
 # Browser - done (scam, spam, trash, security breach)
-#||browser.yandex.*^
+||browser.yandex.*^
 
 # Yandex tracker (many errors in Yandex services)
 #||clck.yandex.*^
