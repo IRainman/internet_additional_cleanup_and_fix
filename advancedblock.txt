@@ -178,7 +178,6 @@ market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf
 market.yandex.ru###\/content\/page\/content\/defaultPage\/kkmCarousel
 market.yandex.ru###\/content\/page\/content\/defaultPage\/loginAgitation
 market.yandex.ru###\/content\/page\/content\/defaultPage\/vtbPromo
-market.yandex.ru###\/content\/page\/fancyPage\/cms
 market.yandex.ru###\/content\/page\/fancyPage\/content\/gamesHubEntryPoint
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/DISCOUNTS
