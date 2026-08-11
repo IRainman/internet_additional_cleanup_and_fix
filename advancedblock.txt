@@ -197,6 +197,22 @@ market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf
 market.yandex.ru###\/marketfrontProfileMenuView44\/promoWidgets
 market.yandex.ru###\/monetizeHeroBannerCarousel44
 market.yandex.ru###\/cardRecommendationRollV44
+!||yastatic.net/*/browser-light/*
+
+! Aug 11, 2026 https://market.yandex.ru
+market.yandex.ru###\/content\/page\/thanksAppDistribution
+market.yandex.ru###\/content\/page\/recommendationRoll
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/GAMES
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/FORTUNE_WHEEL
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/DISCOUNTS
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/VTB_SPECIAL
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-3\/HELP_IS_NEAR
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1
+market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartFintechAgitation
+market.yandex.ru###\/cardRecommendationRollV42
+market.yandex.ru###\/marketfrontRecomLayout42
+||avatars.mds.yandex.net/get-marketcms/*$image
+
 !
 yandex.ru##.media-grid__media-content
 yandex.ru##.news__header
