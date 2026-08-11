@@ -141,7 +141,7 @@ www.kinopoisk.ru##.footer
 ||avatars.mds.yandex.net/get-adfox-content/*
 ||avatars.mds.yandex.net/get-market-adv/*
 ||avatars.mds.yandex.net/get-marketcms/*
-||yastatic.net/*/browser-light/*
+!||yastatic.net/*/browser-light/*
 !
 eda.yandex##div.CatalogPageCarousel_root
 !
@@ -190,14 +190,12 @@ market.yandex.ru###\/content\/page\/fancyPage\/content\/referralEntry
 market.yandex.ru###\/content\/page\/fancyPage\/defaultPage\/loginAgitation
 market.yandex.ru###\/content\/page\/fancyPage\/fomoPopup
 market.yandex.ru###\/content\/page\/fancyPage\/heroBannerCarousel
-market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation
 market.yandex.ru###\/content\/page\/fancyPage\/orderConfirmation\/recommendationRoll
 market.yandex.ru###\/content\/page\/fancyPage\/orderDetails\/orderContent\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/recommendationRoll
 market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/recommendationRollt
 market.yandex.ru###\/content\/page\/fancyPage\/ordersList\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/fancyPage\/promoBlockHeroCarouselContainer
-market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/page\/fancyPage\/recommendationRoll
 market.yandex.ru###\/content\/page\/fancyPage\/touchToAppDistribution
 market.yandex.ru###\/content\/page\/layout\/header\/vendorsAndShops
