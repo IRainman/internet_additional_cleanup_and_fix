@@ -197,10 +197,12 @@ market.yandex.ru###\/content\/page\/layout\/header\/vendorsAndShops
 market.yandex.ru##.urbanads-dark
 market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartPromoHub
 market.yandex.ru###\/marketfrontProfileMenuView42\/promoWidgets
+market.yandex.ru###\/monetizeHeroSlideshow42
 market.yandex.ru###\/monetizeHeroBannerCarousel42
 market.yandex.ru###\/cardRecommendationRollV42
 market.yandex.ru###\/cardRecommendationRollV42
 market.yandex.ru###\/marketfrontRecomLayout42
+market.yandex.ru###\/monetizeHeroSlideshow44
 market.yandex.ru###\/marketfrontProfileMenuView44\/promoWidgets
 market.yandex.ru###\/monetizeHeroBannerCarousel44
 market.yandex.ru###\/cardRecommendationRollV44
@@ -215,6 +217,9 @@ market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSl
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/VTB_SPECIAL
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-3\/HELP_IS_NEAR
 market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartFintechAgitation
+market.yandex.ru###\/content\/page\/content\/defaultPage\/kkmCarousel
+market.yandex.ru###\/content\/page\/content\/defaultPage\/vtbPromo
+
 
 !
 yandex.ru##.media-grid__media-content
