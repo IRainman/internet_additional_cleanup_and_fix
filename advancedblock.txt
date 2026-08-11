@@ -138,8 +138,10 @@ www.inoreader.com###consent_bbb
 
 www.kinopoisk.ru##.footer
 !
-||avatars.mds.yandex.net/get-adfox-content/*$image
-||avatars.mds.yandex.net/get-market-adv/*$image
+||avatars.mds.yandex.net/get-adfox-content/*
+||avatars.mds.yandex.net/get-market-adv/*
+||avatars.mds.yandex.net/get-marketcms/*
+||yastatic.net/*/browser-light/*
 !
 eda.yandex##div.CatalogPageCarousel_root
 !
@@ -194,24 +196,25 @@ market.yandex.ru###\/content\/page\/fancyPage\/content\/promoWidgets
 market.yandex.ru###\/content\/page\/layout\/header\/vendorsAndShops
 market.yandex.ru##.urbanads-dark
 market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartPromoHub
+market.yandex.ru###\/marketfrontProfileMenuView42\/promoWidgets
+market.yandex.ru###\/monetizeHeroBannerCarousel42
+market.yandex.ru###\/cardRecommendationRollV42
+market.yandex.ru###\/cardRecommendationRollV42
+market.yandex.ru###\/marketfrontRecomLayout42
 market.yandex.ru###\/marketfrontProfileMenuView44\/promoWidgets
 market.yandex.ru###\/monetizeHeroBannerCarousel44
 market.yandex.ru###\/cardRecommendationRollV44
-!||yastatic.net/*/browser-light/*
-
-! Aug 11, 2026 https://market.yandex.ru
+market.yandex.ru###\/cardRecommendationRollV44
+market.yandex.ru###\/marketfrontRecomLayout44
 market.yandex.ru###\/content\/page\/thanksAppDistribution
 market.yandex.ru###\/content\/page\/recommendationRoll
+market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/GAMES
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/FORTUNE_WHEEL
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/DISCOUNTS
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1\/VTB_SPECIAL
 market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-3\/HELP_IS_NEAR
-market.yandex.ru###\/content\/page\/fancyPage\/content\/menuBlocks\/menuBlocksSlot\/menu-block-1
 market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartFintechAgitation
-market.yandex.ru###\/cardRecommendationRollV42
-market.yandex.ru###\/marketfrontRecomLayout42
-||avatars.mds.yandex.net/get-marketcms/*$image
 
 !
 yandex.ru##.media-grid__media-content
