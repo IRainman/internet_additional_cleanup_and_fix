@@ -217,6 +217,8 @@ market.yandex.ru###promoBlockPart
 market.yandex.ru##.premiumIncutDesktop
 market.yandex.ru##.urbanads-dark
 market.yandex.ru##RecomLayout
+market.yandex.ru###\/marketfrontProfileMenuView42\/menuBlocks\/menuBlocksSlot\/menu-block-1
+market.yandex.ru###\/marketfrontProfileMenuView44\/menuBlocks\/menuBlocksSlot\/menu-block-1
 
 !
 yandex.ru##.media-grid__media-content
