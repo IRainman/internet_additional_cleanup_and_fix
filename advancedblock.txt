@@ -163,8 +163,7 @@ disk.yandex.ru##.top-banner_stretch
 !market.yandex.ru###ServerLayoutRendererp
 market.yandex.ru###RecommendationRoll
 market.yandex.ru###\/cardRecommendationRollV42
-market.yandex.ru###\/cardRecommendationRollV42
-market.yandex.ru###\/cardRecommendationRollV44
+market.yandex.ru###\/cardRecommendationRollV43
 market.yandex.ru###\/cardRecommendationRollV44
 market.yandex.ru###\/content\/footer\/appPromoLoader
 market.yandex.ru###\/content\/header\/headerPromo
@@ -203,12 +202,16 @@ market.yandex.ru###\/content\/page\/orderDetails\/orderContent\/touchToAppDistri
 market.yandex.ru###\/content\/page\/recommendationRoll
 market.yandex.ru###\/content\/page\/thanksAppDistribution
 market.yandex.ru###\/marketfrontProfileMenuView42\/promoWidgets
+market.yandex.ru###\/marketfrontProfileMenuView43\/promoWidgets
 market.yandex.ru###\/marketfrontProfileMenuView44\/promoWidgets
 market.yandex.ru###\/marketfrontRecomLayout42
+market.yandex.ru###\/marketfrontRecomLayout43
 market.yandex.ru###\/marketfrontRecomLayout44
 market.yandex.ru###\/monetizeHeroBannerCarousel42
+market.yandex.ru###\/monetizeHeroBannerCarousel43
 market.yandex.ru###\/monetizeHeroBannerCarousel44
 market.yandex.ru###\/monetizeHeroSlideshow42
+market.yandex.ru###\/monetizeHeroSlideshow43
 market.yandex.ru###\/monetizeHeroSlideshow44
 market.yandex.ru###cleanable
 market.yandex.ru###journal-pages
@@ -218,6 +221,7 @@ market.yandex.ru##.premiumIncutDesktop
 market.yandex.ru##.urbanads-dark
 market.yandex.ru##RecomLayout
 market.yandex.ru###\/marketfrontProfileMenuView42\/menuBlocks\/menuBlocksSlot\/menu-block-1
+market.yandex.ru###\/marketfrontProfileMenuView43\/menuBlocks\/menuBlocksSlot\/menu-block-1
 market.yandex.ru###\/marketfrontProfileMenuView44\/menuBlocks\/menuBlocksSlot\/menu-block-1
 
 !
