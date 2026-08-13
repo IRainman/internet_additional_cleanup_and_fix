@@ -482,7 +482,7 @@
 #||metrika.yandex.ru^
 
 # Browser - done (scam, spam, trash, security breach)
-||browser.yandex.*^
+#||browser.yandex.*^
 
 # Yandex tracker (many errors in Yandex services)
 #||clck.yandex.*^
