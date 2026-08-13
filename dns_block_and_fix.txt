@@ -468,7 +468,7 @@
 #|yandex.ru^
 #||yastatic.*^
 
-||favicon.yandex.*^
+#||favicon.yandex.*^
 ||mobileproxy.*.yandex.*^
 ||direct.yandex.*^
 ||media-adv.market.yandex.*^
