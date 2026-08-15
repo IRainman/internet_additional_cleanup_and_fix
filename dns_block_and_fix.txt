@@ -42,6 +42,7 @@
 @@||events.data.microsoft.com^
 @@||federatedcompute-pa.googleapis.com^
 @@||findmydevice-pa.googleapis.com^
+@@||find.api.micloud.xiaomi.net^
 @@||firebaseinstallations.googleapis.com^
 @@||firebaselogging.googleapis.com^
 @@||firebaselogging-pa.googleapis.com^
@@ -54,6 +55,7 @@
 @@||icann.org^
 @@||ieonlinews.microsoft.com^
 @@||ifconfig.me^
+@@||ifsau.coloros.com^
 @@||inference.location.live.net^
 @@||intake-analytics.wikimedia.org^
 @@||international^
@@ -70,6 +72,7 @@
 @@||log-drru.platform.hihonorcloud.com^
 @@||login.live.com^
 @@||lostfilm.top^
+@@||metrics-drru.dt.hihonorcloud.com^
 @@||mosmetro.edna.io^
 @@||mozgcp.net^
 @@||newslink.reuters.com^
