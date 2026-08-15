@@ -61,7 +61,7 @@
 @@||ifsau.coloros.com^
 @@||inference.location.live.net^
 @@||intake-analytics.wikimedia.org^
-@@||international^
+@@||improving.duckduckgo.com^
 @@||lcdn-locator.apple.com^
 @@||limetorrents.lol^
 @@||limetorrents.pro^
