@@ -15,6 +15,7 @@
 @@||addons.mozilla.org^
 @@||angelfire.com^
 @@||api.lbs.yandex.ru^
+@@||api.micloud.xiaomi.net^
 @@||app-analytics-services.com^
 @@||archlinux32.org^
 @@||blob.core.windows.net^
