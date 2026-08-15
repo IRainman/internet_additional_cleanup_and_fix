@@ -25,6 +25,7 @@
 @@||boincstats.com^
 @@||browser.pipe.aria.microsoft.com^
 @@||bt.nnm-club.cc^
+@@||c1.microsoft.com^
 @@||cdn.eapteka.ru^
 @@||config.edge.skype.com^
 @@||consent.trustarc.com^
@@ -151,6 +152,7 @@
 ||juuri.hagezi.org^
 ||kaitain.restena.lu^
 ||kids.*^
+||metric.gstatic.com^
 ||ns.*^
 ||ns?.*^
 ||ns??.*^
