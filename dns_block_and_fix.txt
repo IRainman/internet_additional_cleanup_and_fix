@@ -82,7 +82,6 @@
 @@||nhacmp3youtube.com^
 @@||oca.microsoft.com^
 @@||ogads-pa.googleapis.com^
-@@||openairinfo.com^
 @@||orbot.app^
 @@||rum.ngenix.net^
 @@||s.youtube.com^
