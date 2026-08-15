@@ -13,6 +13,7 @@
 # There's some fixes for paranoid lists -> unblock:
 @@||activity.windows.com^
 @@||addons.mozilla.org^
+@@||analytics.languagetoolplus.com^
 @@||angelfire.com^
 @@||api.lbs.yandex.ru^
 @@||api.micloud.xiaomi.net^
@@ -55,6 +56,7 @@
 @@||icann.org^
 @@||ieonlinews.microsoft.com^
 @@||ifconfig.me^
+@@||ifrus.coloros.com^
 @@||ifsau.coloros.com^
 @@||inference.location.live.net^
 @@||intake-analytics.wikimedia.org^
