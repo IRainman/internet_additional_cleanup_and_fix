@@ -97,6 +97,7 @@
 @@||telemetry-incoming.*.services.mozilla.com^
 @@||telemetry.microsoft.com^
 @@||telemetry.mozilla.org^
+@@||telemetry.individual.githubcopilot.com^
 @@||telemetry.visualstudio.microsoft.com^
 @@||telemetry.zoom.us^
 @@||tfile.co^
