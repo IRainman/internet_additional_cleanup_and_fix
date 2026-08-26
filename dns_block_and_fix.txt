@@ -43,7 +43,9 @@
 @@||dc1-cert.ksn.kaspersky-labs.com^
 @@||device-api.urbanairship.com^
 @@||dit.whatsapp.net^
+@@||dl.delivery.mp.microsoft.com^
 @@||events.data.microsoft.com^
+@@||excess-ga.duolingo.com^
 @@||federatedcompute-pa.googleapis.com^
 @@||find.api.micloud.xiaomi.net^
 @@||findmydevice-pa.googleapis.com^
@@ -94,6 +96,7 @@
 @@||sentry-mobile.avito.ru^
 @@||sentry-relay.beeline.ru^
 @@||sentry.io^
+@@||sentry.sutochno.ru^
 @@||settings-win.data.microsoft.com^
 @@||static-mon.yandex.net^
 @@||t1.gstatic.com^
