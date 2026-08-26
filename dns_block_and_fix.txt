@@ -84,6 +84,7 @@
 @@||mozgcp.net^
 @@||newslink.reuters.com^
 @@||nhacmp3youtube.com^
+@@||obs.mts.ru^
 @@||obus-sg.dc.heytapmobile.com^
 @@||oca.microsoft.com^
 @@||ogads-pa.googleapis.com^
