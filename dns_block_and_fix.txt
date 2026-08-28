@@ -676,7 +676,6 @@
 
 # RuStore - worked as expected, please don't use it, it's not safety and many apps have backdoors and mitm certs!
 ||ads.rustore.ru^
-||vkpns.rustore.ru^
 ||rebus.rustore.ru^
 ||inappstory.ru^
 ####@@|www.rustore.ru^
