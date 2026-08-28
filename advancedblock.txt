@@ -781,3 +781,4 @@ pvs-studio.ru###roulette-banner
 
 drivers.softpedia.com##.ad
 
+||spotify.com/api/masthead/*
