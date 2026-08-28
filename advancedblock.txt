@@ -779,6 +779,13 @@ www.pochta.ru/assets/jam_*
 pvs-studio.ru###roulette-banner
 
 
+
 drivers.softpedia.com##.ad
 
+
+
 ||spotify.com/api/masthead/*
+
+
+
+chatgpt.com##.md\:justify-between
