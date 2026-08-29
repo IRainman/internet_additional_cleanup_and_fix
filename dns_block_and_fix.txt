@@ -97,6 +97,7 @@
 @@||sentry-mobile.avito.ru^
 @@||sentry-relay.beeline.ru^
 @@||sentry.io^
+@@||sentry.ozon.ru^
 @@||sentry.sutochno.ru^
 @@||settings-win.data.microsoft.com^
 @@||static-mon.yandex.net^
