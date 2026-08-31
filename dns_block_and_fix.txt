@@ -97,6 +97,8 @@
 @@||sentry-cdn.com^
 @@||sentry-mobile.avito.ru^
 @@||sentry-relay.beeline.ru^
+@@||sentry2.emias.info^
+@@||sentry.emias.info^
 @@||sentry.io^
 @@||sentry.ozon.ru^
 @@||sentry.sutochno.ru^
