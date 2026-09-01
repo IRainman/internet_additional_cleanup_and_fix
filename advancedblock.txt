@@ -788,4 +788,4 @@ drivers.softpedia.com##.ad
 
 
 
-chatgpt.com##.md\:justify-between
+!chatgpt.com##.md\:justify-between
