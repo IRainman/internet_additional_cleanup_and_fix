@@ -122,6 +122,7 @@
 @@||x230.0fees.us^
 @@||xp.apple.com^
 @@||yacy.net^
+@@||cdn.prod.metrics.imdb.com^
 ##################################################################################
 # Global fixes -> reblock by masks
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
