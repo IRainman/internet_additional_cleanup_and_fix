@@ -27,6 +27,7 @@
 @@||bt.nnm-club.cc^
 @@||c1.microsoft.com^
 @@||cdn.eapteka.ru^
+@@||cdn.prod.metrics.imdb.com^
 @@||clienttracing-pa.googleapis.com^
 @@||config.edge.skype.com^
 @@||consent.trustarc.com^
@@ -93,16 +94,17 @@
 @@||rum.ngenix.net^
 @@||s.youtube.com^
 @@||sage-collector.tbank.ru^
-@@||sntr.avito.ru^
+@@||sdk.privacy-center.org^
 @@||sentry-cdn.com^
 @@||sentry-mobile.avito.ru^
 @@||sentry-relay.beeline.ru^
-@@||sentry2.emias.info^
 @@||sentry.emias.info^
 @@||sentry.io^
 @@||sentry.ozon.ru^
 @@||sentry.sutochno.ru^
+@@||sentry2.emias.info^
 @@||settings-win.data.microsoft.com^
+@@||sntr.avito.ru^
 @@||static-mon.yandex.net^
 @@||t1.gstatic.com^
 @@||t2.gstatic.com^
@@ -122,7 +124,6 @@
 @@||x230.0fees.us^
 @@||xp.apple.com^
 @@||yacy.net^
-@@||cdn.prod.metrics.imdb.com^
 ##################################################################################
 # Global fixes -> reblock by masks
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
