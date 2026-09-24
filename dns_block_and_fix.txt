@@ -74,6 +74,7 @@
 @@||locationhistory-pa.googleapis.com^
 @@||locationiq.com^
 @@||log32-normal-sg.capcutapi.com^
+@@||log-drcn.platform.hihonorcloud.com^
 @@||log-drru.platform.hihonorcloud.com^
 @@||log-gateway.zoom.us^
 @@||log.aliyuncs.com^
@@ -81,6 +82,7 @@
 @@||log.strm.yandex.ru^
 @@||login.live.com^
 @@||lostfilm.top^
+@@||metrics-drcn.dt.hihonorcloud.com^
 @@||metrics-drru.dt.hihonorcloud.com^
 @@||mosmetro.edna.io^
 @@||mozgcp.net^
@@ -221,11 +223,6 @@
 ||www.css^
 #
 
-||configserver.platform.hicloud.*^
-||metrics.dt.hicloud.*^
-||cloudrom-global.emui.dbankcloud.*^
-||query-channel.hicloud.*^
-||push.hihonorcloud.*^
 # unfck and have a nice day ;)
 ||dnkeeper.*^
 ||dnkeeper-*.*^
