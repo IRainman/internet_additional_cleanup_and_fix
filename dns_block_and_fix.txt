@@ -229,8 +229,9 @@
 # unfck and have a nice day ;)
 ||dnkeeper.*^
 ||dnkeeper-*.*^
+||ad-host-backup-*.*^
 ##################################################################################
-# Fixes for other lists -> reblock
+# Fixes for other lists -> block
 
 ||51.la^
 ||ad.ddestiny.ru^
