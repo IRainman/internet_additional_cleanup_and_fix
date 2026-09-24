@@ -73,6 +73,7 @@
 @@||location.services.mozilla.com^
 @@||locationhistory-pa.googleapis.com^
 @@||locationiq.com^
+@@||log32-normal-sg.capcutapi.com^
 @@||log-drru.platform.hihonorcloud.com^
 @@||log-gateway.zoom.us^
 @@||log.aliyuncs.com^
