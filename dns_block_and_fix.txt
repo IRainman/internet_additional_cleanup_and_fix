@@ -109,6 +109,7 @@
 @@||t1.gstatic.com^
 @@||t2.gstatic.com^
 @@||telemetry-incoming.*.services.mozilla.com^
+@@||telemetry.eyeo.com^
 @@||telemetry.individual.githubcopilot.com^
 @@||telemetry.microsoft.com^
 @@||telemetry.mozilla.org^
