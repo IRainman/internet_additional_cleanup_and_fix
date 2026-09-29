@@ -59,6 +59,7 @@
 @@||geomobileservices-pa.googleapis.com^
 @@||gfe.nvidia.com^
 @@||glpals.com^
+@@||gravatar.com^
 @@||gs-loc.apple.com^
 @@||icann.org^
 @@||ieonlinews.microsoft.com^
