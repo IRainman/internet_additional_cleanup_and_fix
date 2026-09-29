@@ -30,6 +30,7 @@
 @@||cdn.eapteka.ru^
 @@||cdn.prod.metrics.imdb.com^
 @@||clienttracing-pa.googleapis.com^
+@@||collector.github.com^
 @@||config.edge.skype.com^
 @@||consent.trustarc.com^
 @@||copilot-telemetry.githubusercontent.com^
@@ -89,6 +90,7 @@
 @@||mosmetro.edna.io^
 @@||mozgcp.net^
 @@||newslink.reuters.com^
+@@||nflxvideo.net^
 @@||nhacmp3youtube.com^
 @@||oci.oraclecloud.com^
 @@||obs.mts.ru^
@@ -114,8 +116,10 @@
 @@||sntr.avito.ru^
 @@||stats.free-dc.org^
 @@||static-mon.yandex.net^
+@@||static.cloudflareinsights.com^
 @@||t1.gstatic.com^
 @@||t2.gstatic.com^
+@@||telegra.ph^
 @@||telemetry-incoming.*.services.mozilla.com^
 @@||telemetry.eyeo.com^
 @@||telemetry.individual.githubcopilot.com^
@@ -418,6 +422,13 @@
 ||v2-mail.ru^
 ||viglink.com^
 ||vkmix.com^
+||puts23.com^
+||gservicev1.com^
+||miccuu.com^
+||cakgopfw892.com^
+||ssl-run.com^
+||dpaios.com^
+||ckupdate.com^
 
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^
