@@ -112,6 +112,7 @@
 @@||sentry2.emias.info^
 @@||settings-win.data.microsoft.com^
 @@||sntr.avito.ru^
+@@||stats.free-dc.org^
 @@||static-mon.yandex.net^
 @@||t1.gstatic.com^
 @@||t2.gstatic.com^
