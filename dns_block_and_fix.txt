@@ -208,6 +208,7 @@
 #||push.*^
 #||notify.*^
 ##################################################################################
+# Data leaks and other pseudo safety mechanism for traking, that also eat many energy resources by hashing every URL, every file, etc.
 # Data leak to Google:
 ||safebrowsing*.google*.com^
 
