@@ -18,6 +18,7 @@
 @@||api.lbs.yandex.ru^
 @@||api.micloud.xiaomi.net^
 @@||app-analytics-services.com^
+@@||app-analytics-services-att.com^
 @@||archlinux32.org^
 @@||blob.core.windows.net^
 @@||blogspot.com^
