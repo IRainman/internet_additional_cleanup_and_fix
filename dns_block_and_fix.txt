@@ -17,8 +17,9 @@
 @@||angelfire.com^
 @@||api.lbs.yandex.ru^
 @@||api.micloud.xiaomi.net^
-@@||app-analytics-services.com^
 @@||app-analytics-services-att.com^
+@@||app-analytics-services.com^
+@@||apptracer.ru^
 @@||archlinux32.org^
 @@||blob.core.windows.net^
 @@||blogspot.com^
