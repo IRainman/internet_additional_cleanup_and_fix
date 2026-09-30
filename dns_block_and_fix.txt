@@ -401,7 +401,7 @@
 ||res-nsdi.ru^
 ||auth-nsdi.ru^
 ##################################################################################
-# Bad security, fakes, honeypots
+# Bad security, fakes, honeypots, and some malware and control centre's 
 
 # It's a fake site. The author confirms it. The original is here https://github.com/hagezi/, and he doesn't have his site!
 ||hagezi.com^
@@ -416,11 +416,24 @@
 #... many other, please keep other creaters of the lists to know this malwaware.
 
 # 
+||3ko1.com^
+||5hej.com^
+||b28e82a1d.net^
+||b7cc213c6.net^
+||bugreportsync.com^
+||bullishlifer.com^
 ||cakgopfw892.com^
 ||ckupdate.com^
+||clock.via.net^
+||d3foliqmg5knr6.cloudfront.net^
 ||dpaios.com^
+||eternitynostalgia.com^
+||flurrydata.com^
 ||gservicev1.com^
+||hshh.org^
 ||imaill.*^
+||int9long.com^
+||itinerantponytail.com^
 ||megaffon.ru^
 ||miccuu.com^
 ||mybrowserbar.com^
@@ -429,12 +442,21 @@
 ||picforall.ru^
 ||profi-forex.org^
 ||puts23.com^
+||qb6ges.com^
 ||real-flirt-dating.com^
+||redstone.net.cn^
 ||s-mail-google.com^
+||smaxdn.com^
 ||ssl-run.com^
+||techlore.tech^
 ||v2-mail.ru^
 ||viglink.com^
 ||vkmix.com^
+||whecloud.com^
+||xiaoshuzhan.net^
+||xinfu300.com^
+||xxpwgxx.com^
+||zcnewy.com^
 
 # Original is here https://ublockorigin.com/ and code is here https://github.com/gorhill/uBlock
 ||ublock.org^
