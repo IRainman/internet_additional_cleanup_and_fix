@@ -806,13 +806,13 @@ drivers.softpedia.com##.ad
 
 
 !||st.aestatic.net/*/webview-core.*
-||st.aestatic.net/*/ad-tracker.*
+!||st.aestatic.net/*/ad-tracker.*
 !||st.aestatic.net/*/haze-platform-modal.*
 !||st.aestatic.net/*/tracking.*
 !||st.aestatic.net/*/tracker.*
-||st.aestatic.net/*/haze-mobile-animated-overlay.*
-||st.aestatic.net/*/mobile-animated-overlay.*
-||st.aestatic.net/*/ModuleBannerNew/*
+!||st.aestatic.net/*/haze-mobile-animated-overlay.*
+!||st.aestatic.net/*/mobile-animated-overlay.*
+!||st.aestatic.net/*/ModuleBannerNew/*
 !||st.aestatic.net/*/RecommendationError/*
 !||st.aestatic.net/*/local-tracking.*
 !||st.aestatic.net/*/GeoContextWidget/*
@@ -824,13 +824,13 @@ drivers.softpedia.com##.ad
 
 !||st.aliexpress.ru/media-kit-storage/*
 
-||st.aestatic.net/*/CarouselShelfWrapper/*
-||st.aestatic.net/*/CarouselBannerAdaptive/*
+!||st.aestatic.net/*/CarouselShelfWrapper/*
+!||st.aestatic.net/*/CarouselBannerAdaptive/*
 !||st.aestatic.net/*/CommonShelfV2/*
 !||st.aestatic.net/*/CommonShelf/*
-||st.aestatic.net/*/CarouselBanner/*
+!||st.aestatic.net/*/CarouselBanner/*
 !||st.aestatic.net/*/RecommendationDataContext/*
-||st.aestatic.net/*/StickyBanner/*
+!||st.aestatic.net/*/StickyBanner/*
 
 
 market.yandex.ru###\/marketfrontDynamicPopupLoader42
