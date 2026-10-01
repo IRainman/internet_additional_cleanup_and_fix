@@ -194,7 +194,6 @@
 ||protective.joindns4.eu^
 ||rabbitdns.org^
 ||resolver-eu.lelux.fi^
-||resolver.*^
 ||rethinkdns.com^
 ||root.hagezi.org^
 ||router.comss.one^
@@ -206,6 +205,8 @@
 ||wikimedia-dns.org^
 ||wurzn.hagezi.org^
 #! ===== PUSH / NOTIFICATIONS =====
+#resolver.msg.global.xiaomi.net
+#||resolver.*^
 #||push.*^
 #||notify.*^
 ##################################################################################
