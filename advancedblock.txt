@@ -788,4 +788,51 @@ drivers.softpedia.com##.ad
 
 
 
-!chatgpt.com##.md\:justify-between
+
+
+
+
+
+# in progress:
+
+
+
+
+#||wbbasket.ru/*/sentry.*
+||wbbasket.ru/*/btnAdvertising-component.*
+#||wbbasket.ru/*/banners-component.*
+||wbbasket.ru/*/btnAdvertising.*
+
+
+
+!||st.aestatic.net/*/webview-core.*
+||st.aestatic.net/*/ad-tracker.*
+!||st.aestatic.net/*/haze-platform-modal.*
+!||st.aestatic.net/*/tracking.*
+!||st.aestatic.net/*/tracker.*
+||st.aestatic.net/*/haze-mobile-animated-overlay.*
+||st.aestatic.net/*/mobile-animated-overlay.*
+||st.aestatic.net/*/ModuleBannerNew/*
+!||st.aestatic.net/*/RecommendationError/*
+!||st.aestatic.net/*/local-tracking.*
+!||st.aestatic.net/*/GeoContextWidget/*
+!||st.aestatic.net/*/UniversalFeed/*
+!||st.aestatic.net/*/gallery.*
+!||st.aestatic.net/*/RecommendationFeedV2/*
+!||st.aestatic.net/*/RecommendationFeed/*
+!||st.aestatic.net/media-kit-storage/*
+
+!||st.aliexpress.ru/media-kit-storage/*
+
+||st.aestatic.net/*/CarouselShelfWrapper/*
+||st.aestatic.net/*/CarouselBannerAdaptive/*
+!||st.aestatic.net/*/CommonShelfV2/*
+!||st.aestatic.net/*/CommonShelf/*
+||st.aestatic.net/*/CarouselBanner/*
+!||st.aestatic.net/*/RecommendationDataContext/*
+||st.aestatic.net/*/StickyBanner/*
+
+
+market.yandex.ru###\/marketfrontDynamicPopupLoader42
+market.yandex.ru###\/content\/drawer
+
