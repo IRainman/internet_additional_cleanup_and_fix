@@ -19,6 +19,8 @@
 @@||api.micloud.xiaomi.net^
 @@||app-analytics-services-att.com^
 @@||app-analytics-services.com^
+######################################## Shold be unblocked or needs to be blocked, what do you think? 
+########################################@@||app-measurement.com^
 @@||apptracer.ru^
 @@||archlinux32.org^
 @@||blob.core.windows.net^
