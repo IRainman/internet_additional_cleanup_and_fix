@@ -119,6 +119,7 @@
 @@||sentry.ozon.ru^
 @@||sentry.sutochno.ru^
 @@||sentry2.emias.info^
+@@||shazam-insights.cdn-apple.com^
 @@||settings-win.data.microsoft.com^
 @@||sntr.avito.ru^
 @@||static-mon.yandex.net^
