@@ -92,6 +92,7 @@
 @@||lostfilm.top^
 @@||metrics-drcn.dt.hihonorcloud.com^
 @@||metrics-drru.dt.hihonorcloud.com^
+@@||metrics-config.icloud.com^
 @@||mosmetro.edna.io^
 @@||mozgcp.net^
 @@||newslink.reuters.com^
