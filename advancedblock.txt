@@ -634,6 +634,9 @@ www.wildberries.ru##.goods-carousel
 www.wildberries.ru##.goods-slider
 www.wildberries.ru##[href="/lk/myorders/mechtalliontickets"]
 www.wildberries.ru##[href="/lk/certificates"]
+www.wildberries.ru##.bnr
+
+
 
 
 rule34.xxx##.postListSidebarRight
