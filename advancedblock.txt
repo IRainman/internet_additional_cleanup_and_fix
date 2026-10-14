@@ -223,6 +223,7 @@ market.yandex.ru##RecomLayout
 market.yandex.ru###\/marketfrontProfileMenuView42\/menuBlocks\/menuBlocksSlot\/menu-block-1
 market.yandex.ru###\/marketfrontProfileMenuView43\/menuBlocks\/menuBlocksSlot\/menu-block-1
 market.yandex.ru###\/marketfrontProfileMenuView44\/menuBlocks\/menuBlocksSlot\/menu-block-1
+market.yandex.ru###\/content\/header
 
 !
 yandex.ru##.media-grid__media-content
@@ -788,6 +789,10 @@ drivers.softpedia.com##.ad
 
 
 ||spotify.com/api/masthead/*
+
+
+
+parniplus.com##.post-mid-banner
 
 
 
