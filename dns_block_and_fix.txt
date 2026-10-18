@@ -454,7 +454,6 @@
 ||v2-mail.ru^
 ||viglink.com^
 ||vkmix.com^
-||whecloud.com^
 ||xiaoshuzhan.net^
 ||xinfu300.com^
 ||xxpwgxx.com^
