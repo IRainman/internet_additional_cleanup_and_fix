@@ -129,7 +129,6 @@
 @@||static-mon.yandex.net^
 @@||static.cloudflareinsights.com^
 @@||stats.free-dc.org^
-@@||storage.yandexcloud.net^
 @@||t1.gstatic.com^
 @@||t2.gstatic.com^
 @@||telegra.ph^
