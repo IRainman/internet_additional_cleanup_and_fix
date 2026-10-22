@@ -107,6 +107,7 @@
 @@||orbot.app^
 @@||pi.reddit.com^
 @@||remote-data.urbanairship.com^
+@@||retcode.taobao.com^
 @@||rum.ngenix.net^
 @@||s.youtube.com^
 @@||s-cdn.anthropic.com^
