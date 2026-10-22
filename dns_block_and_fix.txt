@@ -113,6 +113,7 @@
 @@||sage-collector.tbank.ru^
 @@||sdk.privacy-center.org^
 @@||sentry-cdn.com^
+@@||sentry-mobile.alfabank.ru^
 @@||sentry-mobile.avito.ru^
 @@||sentry-relay.beeline.ru^
 @@||sentry.emias.info^
