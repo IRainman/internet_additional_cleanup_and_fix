@@ -107,6 +107,7 @@
 @@||oci.oraclecloud.com^
 @@||ogads-pa.googleapis.com^
 @@||orbot.app^
+@@||plausible.io^
 @@||pi.reddit.com^
 @@||remote-data.urbanairship.com^
 @@||retcode.taobao.com^
