@@ -108,6 +108,7 @@
 @@||remote-data.urbanairship.com^
 @@||rum.ngenix.net^
 @@||s.youtube.com^
+@@||s-cdn.anthropic.com^
 @@||sage-collector.tbank.ru^
 @@||sdk.privacy-center.org^
 @@||sentry-cdn.com^
