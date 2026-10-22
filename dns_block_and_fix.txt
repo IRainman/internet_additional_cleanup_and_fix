@@ -94,6 +94,7 @@
 @@||metrics-drcn.dt.hihonorcloud.com^
 @@||metrics-drru.dt.hihonorcloud.com^
 @@||metrics-config.icloud.com^
+@@||metrika.mos.ru^
 @@||mosmetro.edna.io^
 @@||mstat.mos.ru^
 @@||mozgcp.net^
