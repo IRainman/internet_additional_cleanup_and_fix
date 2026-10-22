@@ -56,6 +56,7 @@
 @@||feeds.feedburner.com^
 @@||find.api.micloud.xiaomi.net^
 @@||findmydevice-pa.googleapis.com^
+@@||firebasestorage.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
 @@||firebaselogging-pa.googleapis.com^
 @@||firebaselogging.googleapis.com^
