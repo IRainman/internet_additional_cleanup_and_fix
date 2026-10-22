@@ -50,6 +50,7 @@
 @@||device-api.urbanairship.com^
 @@||dit.whatsapp.net^
 @@||dl.delivery.mp.microsoft.com^
+@@||duelmasters.gamer.gd^
 @@||events.data.microsoft.com^
 @@||excess-ga.duolingo.com^
 @@||federatedcompute-pa.googleapis.com^
