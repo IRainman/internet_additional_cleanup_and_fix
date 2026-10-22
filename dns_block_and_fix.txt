@@ -122,6 +122,7 @@
 @@||sentry.emias.info^
 @@||sentry.io^
 @@||sentry.mos.ru^
+@@||sentry.x5.ru^
 @@||sentry.ozon.ru^
 @@||sentry.sutochno.ru^
 @@||sentry2.emias.info^
