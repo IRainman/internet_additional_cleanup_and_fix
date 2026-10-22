@@ -95,6 +95,7 @@
 @@||metrics-drru.dt.hihonorcloud.com^
 @@||metrics-config.icloud.com^
 @@||mosmetro.edna.io^
+@@||mstat.mos.ru^
 @@||mozgcp.net^
 @@||newslink.reuters.com^
 @@||nflxvideo.net^
