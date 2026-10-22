@@ -13,6 +13,7 @@
 # There's some fixes for paranoid lists -> unblock:
 @@||activity.windows.com^
 @@||addons.mozilla.org^
+@@||analytics.archive.org^
 @@||analytics.languagetoolplus.com^
 @@||angelfire.com^
 @@||api.lbs.yandex.ru^
