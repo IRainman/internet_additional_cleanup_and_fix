@@ -109,6 +109,7 @@
 @@||orbot.app^
 @@||plausible.io^
 @@||pi.reddit.com^
+@@||player.stats.live-video.net^
 @@||remote-data.urbanairship.com^
 @@||retcode.taobao.com^
 @@||rum.ngenix.net^
