@@ -739,6 +739,14 @@ parniplus.com##.post-mid-banner
 !||st.aestatic.net/*/StickyBanner/*
 
 
-market.yandex.ru###\/marketfrontDynamicPopupLoader42
-market.yandex.ru###\/content\/drawer
 
+
+||avatars.mds.yandex.net/get-market-adv$image
+market.yandex.ru###indexPageLayout
+market.yandex.ru###\/content\/header\/header\/promoBlock
+market.yandex.ru###\/content\/header\/header\/superAppHotlinks
+market.yandex.ru###\/content\/header\/header\/fortuneWheelBalance
+market.yandex.ru###\/content\/page\/layout\/header\/vendorsAndShops
+market.yandex.ru###\/content\/page\/profileMenu\/promoWidgets
+||avatars.mds.yandex.net/get-market-wheel/*$image
+market.yandex.ru###\/content\/page\/content\/defaultPage\/loginAgitation
