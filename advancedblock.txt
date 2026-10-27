@@ -750,3 +750,6 @@ market.yandex.ru###\/content\/page\/layout\/header\/vendorsAndShops
 market.yandex.ru###\/content\/page\/profileMenu\/promoWidgets
 ||avatars.mds.yandex.net/get-market-wheel/*$image
 market.yandex.ru###\/content\/page\/content\/defaultPage\/loginAgitation
+market.yandex.ru###\/content\/page\/content\/loginAgitation
+
+
