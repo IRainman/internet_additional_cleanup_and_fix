@@ -50,6 +50,7 @@
 @@||dc1-cert.ksn.kaspersky-labs.com^
 @@||device-api.urbanairship.com^
 @@||dit.whatsapp.net^
+@@||directory.cookieyes.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||gamer.gd^
 @@||events.data.microsoft.com^
