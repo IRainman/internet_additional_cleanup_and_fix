@@ -135,6 +135,7 @@
 @@||shazam-insights.cdn-apple.com^
 @@||settings-win.data.microsoft.com^
 @@||sntr.avito.ru^
+@@||stat-analytics.mediavitrina.ru^
 @@||static-mon.yandex.net^
 @@||static.cloudflareinsights.com^
 @@||stats.free-dc.org^
