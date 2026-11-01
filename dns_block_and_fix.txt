@@ -110,6 +110,7 @@
 @@||plausible.io^
 @@||pi.reddit.com^
 @@||performance.radar.cloudflare.com^
+@@||privacy.reverso.net^
 @@||player.stats.live-video.net^
 @@||remote-data.urbanairship.com^
 @@||retcode.taobao.com^
