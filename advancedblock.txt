@@ -539,13 +539,13 @@ rkn.gov.ru##.banner-container
 !||st.aestatic.net/*/webview-core.*
 ||st.aestatic.net/*/ad-tracker.*
 !||st.aestatic.net/*/haze-platform-modal.*
-!||st.aestatic.net/*/tracking.*
-!||st.aestatic.net/*/tracker.*
-||st.aestatic.net/*/haze-mobile-animated-overlay.*
-||st.aestatic.net/*/mobile-animated-overlay.*
-!||st.aestatic.net/*/ModuleBannerNew/*
+||st.aestatic.net/*/tracking.*
+||st.aestatic.net/*/tracker.*
+!||st.aestatic.net/*/haze-mobile-animated-overlay.*
+!||st.aestatic.net/*/mobile-animated-overlay.*
+||st.aestatic.net/*/ModuleBannerNew/*
 ||st.aestatic.net/*/RecommendationError/*
-!||st.aestatic.net/*/local-tracking.*
+||st.aestatic.net/*/local-tracking.*
 !||st.aestatic.net/*/GeoContextWidget/*
 !||st.aestatic.net/*/UniversalFeed/*
 !||st.aestatic.net/*/gallery.*
@@ -561,7 +561,7 @@ rkn.gov.ru##.banner-container
 !||st.aestatic.net/*/CommonShelf/*
 ||st.aestatic.net/*/CarouselBanner/*
 !||st.aestatic.net/*/RecommendationDataContext/*
-!||st.aestatic.net/*/StickyBanner/*
+||st.aestatic.net/*/StickyBanner/*
 !||aliexpress.ru/api/*feed*
 !aliexpress.ru##body:style(overflow:auto!important)
 ! Рекомендации и мусор
