@@ -552,9 +552,8 @@ rkn.gov.ru##.banner-container
 !||st.aestatic.net/*/RecommendationFeedV2/*
 !||st.aestatic.net/*/RecommendationFeed/*
 !||st.aestatic.net/media-kit-storage/*
-
+||st.aestatic.net/mixer/ssr/1/aer-assets/tracker.*.js
 !||st.aliexpress.ru/media-kit-storage/*
-
 ||st.aestatic.net/*/CarouselShelfWrapper/*
 ||st.aestatic.net/*/CarouselBannerAdaptive/*
 !||st.aestatic.net/*/CommonShelfV2/*
