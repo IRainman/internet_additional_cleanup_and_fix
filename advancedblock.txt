@@ -754,6 +754,8 @@ market.yandex.ru###\/content\/page\/content\/loginAgitation
 market.yandex.ru###\/content\/page\/thanksAppDistribution
 market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartFintechAgitation
 ||avatars.mds.yandex.net/get-marketcms/*/favicon_*$image
+market.yandex.ru##.urbanads-dark
+market.yandex.ru##.urbanads
 
 
 
