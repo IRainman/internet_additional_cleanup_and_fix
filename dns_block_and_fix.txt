@@ -91,6 +91,7 @@
 @@||log32-normal-sg.capcutapi.com^
 @@||login.live.com^
 @@||lostfilm.top^
+@@||metric.gstatic.com^
 @@||metrics-drcn.dt.hihonorcloud.com^
 @@||metrics-drru.dt.hihonorcloud.com^
 @@||metrics-config.icloud.com^
@@ -200,7 +201,6 @@
 ||juuri.hagezi.org^
 ||kaitain.restena.lu^
 ||kids.*^
-||metric.gstatic.com^
 ||ns.*^
 ||ns?.*^
 ||ns??.*^
