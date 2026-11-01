@@ -2,7 +2,7 @@
 ! Description: This is the my extendent list for cleanup the Internet and crutches to other lists. Suitable and tested only with uBlock origin.
 ! Please post issue here https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new
 ! Expires: 1 hour
-
+! ========================================================================================================================================================
 ! ===== COMMON DEBLOAT =====
 ! Реклама / промо / баннеры
 !##[class*="banner"]
@@ -19,68 +19,54 @@
 ! Попапы
 !##[role="dialog"]
 !##.ReactModalPortal
-
-
+! ========================================================================================================================================================
 ! TODO fix me
 !leroymerlin.ru##.main > .drpdwn > .inner > .tng
 !leroymerlin.ru###progressBar
 !leroymerlin.ru###owl-small-top-banner > .owl-wrapper-outer > .owl-origin.owl-wrapper > .owl--in.owl--out.owl-item > .item > .drpdwn
-
-
+! ========================================================================================================================================================
 moslenta.ru##.social-floating
-
-
+! ========================================================================================================================================================
 www.moya-planeta.ru##.relap-default__visible.relap-default__animate.relap-default__pos-right.relap-default__with-shadow.relap-default__popup-container
 www.moya-planeta.ru###interview_popup_topper
 www.moya-planeta.ru###interview_popup_mider
 www.moya-planeta.ru###ajax_pageload_block_23848 > .standart_table > tbody > tr > .standart_table_right
-
-
+! ========================================================================================================================================================
 www.washingtonpost.com##div.ad-slot-component
 www.washingtonpost.com##.adslot-c
-
-
+! ========================================================================================================================================================
 qna.habr.com##.fixed-ad-banner
 habr.com##.tm-event-card_responsive
-
-
+! ========================================================================================================================================================
 meduza.io##.Material-related
 meduza.io##.RelatedBlock-root
 meduza.io##.Grid-module-container
-
-
+! ========================================================================================================================================================
 yablyk.com###arvlbdata
 yablyk.com##.ArevicoModal-iframe.ArevicoModal
 yablyk.com##.ArevicoModal-iframe.ArevicoModal-bg
 yablyk.com##.clearfix.wrap > .sidebar__single.sidebar
-
-
+! ========================================================================================================================================================
 www.macdigger.ru##._panaur-popover._panaur-welcome
-
-
-moschange.ru##.container-fluid.page__wrapper > .js-social-floating.social-floating
-moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-social-floating.social-floating
-
-
+! ========================================================================================================================================================
+moschange.ru##.container-fluid.page__wrapper > .js-social-floating
+moschange.ru##.container-fluid.page__wrapper > noindex:nth-of-type(2) > .js-social-floating
+! ========================================================================================================================================================
 mos.ru##.mos-footer-tizer
 mos.ru##.lazyload-wrapper
-
-
+! ========================================================================================================================================================
 postnauka.ru###ad_h
 postnauka.ru###sb
 postnauka.ru###project
 postnauka.ru###m
 postnauka.ru###menu-courses
 postnauka.ru##.notification__wrapper
-
-
+! ========================================================================================================================================================
 iscience.ru###secondary
 iscience.ru##.related-posts
-
-
-www.gosthelp.ru###ya_direct1 > div
-
-
+! ========================================================================================================================================================
+www.gosthelp.ru###ya_direct1
+! ========================================================================================================================================================
 www.netall.ru##.DetailButtom
 www.netall.ru##.rightCol
 www.netall.ru##.leftCol
@@ -93,11 +79,9 @@ www.netall.ru##.podmain > div:nth-of-type(1) > table
 www.netall.ru##.detail_text > table
 www.netall.ru##.r_a
 www.netall.ru##.topic_1
-
-
+! ========================================================================================================================================================
 id41.ru##.commerc_tp
-
-
+! ========================================================================================================================================================
 ||ozon.ru/api/*recommend*
 ! Рекомендации
 ozon.ru##[class*="recommend"]
@@ -120,56 +104,44 @@ www.ozon.ru##.dt3
 !
 finance.ozon.ru##.ozon
 finance.ozon.ru##.ozonbank
-
-
+! ========================================================================================================================================================
 magicair.tion.ru###shop-button
-
-
+! ========================================================================================================================================================
 www.yahoo.com###YDC-Stream
-
-
+! ========================================================================================================================================================
 www.bbc.com##.story-more
-
-
+! ========================================================================================================================================================
 www.inoreader.com###sinner_container
 www.inoreader.com###sb_rp_upgrade_button
 www.inoreader.com###consent_bbb
-
-
+! ========================================================================================================================================================
 www.kinopoisk.ru##.footer
-
-
+! ========================================================================================================================================================
 mail.ru##.grid_newscol
 mail.ru##.horoscope
 mail.ru##.tabs__container
-
-
+! ========================================================================================================================================================
 vc.ru##.b-container > .viewed.b-articles-p-w_sponsored.b-articles-p-w
 vc.ru##.b-container > .b-content-w-comments_live.b-content-w-comments.b-content-w > .b-content > .b-content__main-w
 vc.ru##.b-last-comments
 vc.ru##.js-popular-articles
 vc.ru##.js-best-articles
-
-
+! ========================================================================================================================================================
 fishki.net##.clearfix.container-slider-top.container
 fishki.net##.sidebar--right.sidebar
 fishki.net##.slider--captions > .inited.cycle-slideshow
 fishki.net##.slider--captions > .slider__arrow--left.slider__arrow
 fishki.net##.slider--captions > .slider__arrow--right.slider__arrow
 fishki.net##.related-posts-wrap
-
-
+! ========================================================================================================================================================
 novafilm.tv##.column.vatop.right
-
-
+! ========================================================================================================================================================
 www.ksv.ru##.a-toTop.a-side
-
-
+! ========================================================================================================================================================
 theoryandpractice.ru##.facebook__modal-overlay.show.overlay
 theoryandpractice.ru##.facebook__modalcontent-wrapper
 theoryandpractice.ru##.filter-popup.pop_up.facebook__modal
-
-
+! ========================================================================================================================================================
 lifehacker.ru##.article-card__middle
 lifehacker.ru##.other-content__sidebar-widgets
 lifehacker.ru##.zen-rotation__article-card
@@ -177,67 +149,56 @@ lifehacker.ru##.left-sidebar
 lifehacker.ru##.above-comments-widgets__container
 lifehacker.ru##.widgets-renderer
 lifehacker.ru##.read-also
-
-
+! ========================================================================================================================================================
 windowstips.ru##.related-posts-content > .cactus-listing-wrap > .style-3.style-1.cactus-listing-config > .container > .row > .cactus-listing-content.col-md-12
 windowstips.ru##.title-related-post
 windowstips.ru##.test-class.main-sidebar-col.cactus-sidebar.col-md-4
 windowstips.ru###top-nav > .navbar-default.navbar > .container
-
-
+! ========================================================================================================================================================
 !winaero.com##.winrec
 !winaero.com##div.windiv
 winaero.com###secondary
+! fix
 @@winaero.com/blog/wp-content/uploads
-
-
+! ========================================================================================================================================================
 remontka.pro##.SPOSTARBUST-Related-Posts
 remontka.pro##.rem-linkdiv
 remontka.pro###nrelate_related_0
 remontka.pro##aside > .uk-panel-box-primary.uk-panel-box.uk-panel
-
-
+! ========================================================================================================================================================
 www.popmech.ru##.slider_spec_proj
 www.popmech.ru##.feature
 www.popmech.ru##.social
 www.popmech.ru##.announces_list
 www.popmech.ru##.article-relevant-insertion
-
-
+! ========================================================================================================================================================
 pikabu.ru##.login_f
 pikabu.ru##.b-story-blocks.b-social
-
-
+! ========================================================================================================================================================
 www.native-english.ru##.wrapper > .in.alert_error.fade.alert
-
-
+! ========================================================================================================================================================
 www.xgay.ru###also_block
 www.xgay.ru###other_block
 www.xgay.ru###most_discussed
 www.xgay.ru##.right_column_target
-
-
+! ========================================================================================================================================================
 www.flightradar24.com###menuBlog
 www.flightradar24.com###menuTwitter
-
-
+! ========================================================================================================================================================
 spark.ru##.other_posts
 spark.ru###readAlsoBlock
-
-
+! ========================================================================================================================================================
 wikihow.com###side_related_articles
 wikihow.com###side_featured_articles
 wikihow.com###side_rc_widget
-
-
+! ========================================================================================================================================================
 tjournal.ru##.best_entries
 tjournal.ru##.live__item
 tjournal.ru##.live
 tjournal.ru##.live-wrapper
 tjournal.ru##.best_comments
 tjournal.ru##.entry_related_entries
-
-
+! ========================================================================================================================================================
 naked-science.ru##.no-mobile
 naked-science.ru##.pane-block-in-article-top-choice
 naked-science.ru##.content-right
@@ -251,8 +212,7 @@ naked-science.ru##.view-id-advertising_node_text_bottom
 naked-science.ru##.pane-node-similar
 naked-science.ru##.pane-advertising-sidebar
 naked-science.ru##.animate-custom
-
-
+! ========================================================================================================================================================
 nplus1.ru###adv-banner-link-sidebar
 nplus1.ru###latest
 nplus1.ru###also
@@ -261,108 +221,85 @@ nplus1.ru###wrapper-footer
 nplus1.ru###next
 nplus1.ru###earlier
 nplus1.ru###header > .line-up.container > .line-second.line
-
-
+! ========================================================================================================================================================
 3dnews.ru###most-commented
 3dnews.ru##.relatedbox
-
-
+! ========================================================================================================================================================
 ixbt.com,www.ixbt.com##.block__newslist
 ixbt.com,www.ixbt.com##.b-ixbttv
 ixbt.com,www.ixbt.com##.block__rightnewslist
 ixbt.com,www.ixbt.com##.b-block__conflist
 prosound.ixbt.com##.ym-gbox-right
-
-
+! ========================================================================================================================================================
 4pda.to###fo_-1
 4pda.to##.materials-box
-
-
+! ========================================================================================================================================================
 welcomeworld.ru##.itemRelated
 welcomeworld.ru###yt_spotlight1 > .yt-main
 welcomeworld.ru###position-4
-
-
+! ========================================================================================================================================================
 varlamov.ru##.j-e-afterpost
-
-
+! ========================================================================================================================================================
 proglib.io##.td-pb-border-top
-
-
+! ========================================================================================================================================================
 www.zelenograd.ru##.news-item_theme_advertising
 www.zelenograd.ru##.news-item_banner1
-
-
+! ========================================================================================================================================================
 onliner.by##.news-popular
-
-
+! ========================================================================================================================================================
 ||experience.tripster.ru/partner/$subdocument
-
-
+! ========================================================================================================================================================
+! ========================================================================================================================================================
 skepticsociety.ru##.yuzo_related_post
 skepticsociety.ru##.yuzo_related_post_widget
 skepticsociety.ru###yuzo_widget-3
-
-
+! ========================================================================================================================================================
 lk.megafon.ru##.ng_personal_popup_start
 lk.megafon.ru##.ng_personal_popup
 lk.megafon.ru##.lk_banner_large
 lk.megafon.ru##.lk_banner_mid
 lk.megafon.ru##.available-options-interesting
-
-
+! ========================================================================================================================================================
 joyreactor.cc##.sidebar_block
 joyreactor.cc##.blog_results
 joyreactor.cc##.mainheader
 joyreactor.cc###contentinner > table
-
-
+! ========================================================================================================================================================
 www.sobyanin.ru##.see-also
 www.sobyanin.ru##.see-also-header
-
-
+! ========================================================================================================================================================
 medialeaks.ru##.seealso
 medialeaks.ru##.-ns-more
 medialeaks.ru##.post_most_popular
 medialeaks.ru##.native_block
 medialeaks.ru###tlg_link_aftertext
-
-
-||www.onlime.ru/warning.php$subdocument
-
-
+! ========================================================================================================================================================
 www.mk.ru##.main__left-column
 www.mk.ru##.main__right-column
 www.mk.ru###article > aside
 www.mk.ru##.breaking-news
-
-
+! ========================================================================================================================================================
 www.znak.com##.bytags
 www.znak.com##div.c1-ads
 www.znak.com##.news
 www.znak.com##.rubber-wrapper
 www.znak.com##.x1
-
-
+! ========================================================================================================================================================
 moscowwalks.ru##.related_post
 moscowwalks.ru##.related_post_title
-
-
+! ========================================================================================================================================================
 printbar.ru##.productCard__features-madeInRussia
 printbar.ru##.line-ark
 printbar.ru##.happy_clients
 printbar.ru##.nreviews__title
 printbar.ru##.spinner__fix
-
-
+! ========================================================================================================================================================
 22century.ru##.content_sidebar_wrapper
 22century.ru##.further_block
-
-
+! ========================================================================================================================================================
 www.speedtest.net##.eot-dd-content
 speedtest.net##.eot-dd-content
-
-
+! ========================================================================================================================================================
 ||lk.cdek.ru/*.gif$image
 ||cdek.ru/*stories*/*$image
 www.cdek.ru##.smart-app-banner
@@ -370,11 +307,9 @@ www.cdek.ru##.smart-app-banner
 !my.cdek.ru##.mobile-scroll
 my.cdek.ru##.my-8.gap-4.lg\:grid-cols-3.grid-cols-2.grid
 my.cdek.ru##.mb-4.mt-9
-
-
+! ========================================================================================================================================================
 msk.tele2.ru##.combined-offers
-
-
+! ========================================================================================================================================================
 akket.com##posts_uni
 akket.com##.tagcloud
 akket.com###sidebar
@@ -382,51 +317,40 @@ akket.com###interesting_articles
 akket.com###interesting_articles_google
 akket.com##.navleft
 akket.com##.botnavi
-
-
+! ========================================================================================================================================================
 www.techwalla.com##.right-rail
 www.techwalla.com###jwplayer-section
-
-
+! ========================================================================================================================================================
 likeyou.io###sidebar
 likeyou.io##.artItems
-
-
+! ========================================================================================================================================================
 ||userstyles.org/ui/images/280x294.png$image
 userstyles.org##.fallbackDiv
-
-
+! ========================================================================================================================================================
 archspeech.com###notification_response
 archspeech.com##.right-side-list
 archspeech.com##.relative-posts.main-wrap
-
-
+! ========================================================================================================================================================
 wikium.ru,www.wikium.net##.news
 wikium.ru,www.wikium.net##.footer
 wikium.ru,www.wikium.net##.train-sidenav
 wikium.ru,www.wikium.net##.header__premium-btn
 wikium.ru,www.wikium.net##.header__premium-btn--animation
-
-
+! ========================================================================================================================================================
 www.boincstats.com###japie
 www.boincstats.com##.tableAd
-
-
+! ========================================================================================================================================================
 www.nsnews.com###adBoxWithLinksContainer
 www.nsnews.com##.article-continues
 www.nsnews.com###relatedElementsLinks
-
-
+! ========================================================================================================================================================
 www.last.fm##li.js-link-block.features-footer-item
-
-
+! ========================================================================================================================================================
 levelkitchen.com##.container.ticker
 levelkitchen.com##.swiper-container
-
-
+! ========================================================================================================================================================
 ||www.rlsnet.ru/images/banners
-
-
+! ========================================================================================================================================================
 zdravcity.ru##.b-donations
 zdravcity.ru##.b-main-banner-new
 zdravcity.ru##.js-slider-brand-new-container
@@ -435,25 +359,20 @@ zdravcity.ru##.b-slider-main-new--banner
 zdravcity.ru##.form-donation
 zdravcity.ru##section:nth-of-type(2)
 zdravcity.ru##section:nth-of-type(3)
-
-
+! ========================================================================================================================================================
 docs.exponenta.ru##.splash
-
-
+! ========================================================================================================================================================
+||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
 !www.youtube.com###secondary
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
-||googlevideo.com/videoplayback$xhr,3p,method=get,domain=www.youtube.com
 www.youtube.com##ytd-watch-next-secondary-results-renderer
-
-
+! ========================================================================================================================================================
 openvpn.net###banner-a
-
-
+! ========================================================================================================================================================
 roskomsvoboda.org##.article.article_type-2
-
-
+! ========================================================================================================================================================
 afisha.ru##.js-hover-item
 afisha.ru##.article-details
 afisha.ru##.js-recommends-block
@@ -461,71 +380,57 @@ afisha.ru##.afisha-recommends
 afisha.ru##.yandex-dzen
 afisha.ru##.another-materials
 afisha.ru##noindex
-
-
+! ========================================================================================================================================================
 rlsnet.ru##.js-banner-group
 rlsnet.ru##.b-tile-banner-wrap
-
-
+! ========================================================================================================================================================
 www.ucom.am##.landing-button-list
-
-
-lk.mgts.ru###zoneBottomCarousel
-lk.mgts.ru###news
-
-
+! ========================================================================================================================================================
 ||live.mts.ru/widget-mtsru$subdocument
 ||goodok.mts.ru$subdocument
-lk.mts.ru##.goodok
 ||widget.kion.ru$subdocument
+lk.mts.ru##.goodok
 lk.mts.ru##.ng-trigger-toggleBanner
 lk.ssl.mts.ru##.banner
-
-
+!
+lk.mgts.ru###zoneBottomCarousel
+lk.mgts.ru###news
+! ========================================================================================================================================================
 ||gorzdrav.org/medias/21-1-1920x120.jpg$image
-
-
+! ========================================================================================================================================================
 cian.ru###similarOffers
-
-
+! ========================================================================================================================================================
 happymod.com##.appx.cbox
-
-
+! ========================================================================================================================================================
 leetcode.com##.justify-start.items-start.w-full.flex.group\/ads
-
-
+! ========================================================================================================================================================
+||www.onlime.ru/warning.php$subdocument
+!
 msk.rt.ru##.cmp-client-only
 msk.rt.ru##.popular-services__cards
 msk.rt.ru##.productBanner
 msk.rt.ru##.special-services__cards
 msk.rt.ru##.sp-t-orange
-
-
+!
 my.rt.ru##.news-block
 my.rt.ru##.banners
 my.rt.ru###top-banner-opener
 my.rt.ru##.omch-wink-player-container
-
-
+!
 msk.t2.ru##.space-holder-top16
 msk.t2.ru##.dashboard-banner-mixx__content
 msk.t2.ru##.dashboard-two-columns
-
-
-ya.ru##.SplashscreenDefault
-
-
+! ========================================================================================================================================================
+#||wbbasket.ru/*/sentry.*
+||wbbasket.ru/*/btnAdvertising-component.*
+#||wbbasket.ru/*/banners-component.*
+||wbbasket.ru/*/btnAdvertising.*
 !www.wildberries.ru/api/*recommend*
-! Убрать сторис / ленту
 !www.wildberries.ru##[class*="stories"]
-! Убрать рекомендации
 !www.wildberries.ru##[class*="recommend"]
 !www.wildberries.ru##[class*="similar"]
-! Убрать промо-карточки
 !www.wildberries.ru##[class*="product-card"] [class*="promo"]
-! Убрать подписки/уведомления
 !www.wildberries.ru##[class*="subscribe"]
-
 www.wildberries.ru###smartBanner
 www.wildberries.ru##.j-lottery-banner
 www.wildberries.ru##.cards-list
@@ -534,18 +439,13 @@ www.wildberries.ru##.goods-slider
 www.wildberries.ru##[href="/lk/myorders/mechtalliontickets"]
 www.wildberries.ru##[href="/lk/certificates"]
 www.wildberries.ru##.bnr
-
-
-
-
+! ========================================================================================================================================================
 rule34.xxx##.postListSidebarRight
-
-
+! ========================================================================================================================================================
 www.amazon.com##div#audible-carousel-container.a-carousel-initialized.audible-carousel-desktop-style.a-spacing-top-medium.a-carousel-transition-slide.a-carousel-display-stretchyGoodness.a-carousel-container.a-begin
 www.amazon.com##div#similarities_feature_div.celwidget
 www.amazon.com###similarities_feature_div:has-text(/Customers who bought this also listened to these Amazon Music podcasts/)
-
-
+! ========================================================================================================================================================
 www.giantfreakinrobot.com##.related-article
 www.giantfreakinrobot.com##.ml-lg-3.d-block
 www.giantfreakinrobot.com##.posts-trending
@@ -554,8 +454,10 @@ www.giantfreakinrobot.com##.top-stories
 www.giantfreakinrobot.com##.posts-top-stories
 www.giantfreakinrobot.com##.breaking-now
 www.giantfreakinrobot.com##.posts-breaking-now
-
-
+! ========================================================================================================================================================
+||magnit.ru/*/product-slot-placeholder.webp$image
+||magnit.ru/np/images/mplus/gradient-banner-xs.svg$image
+||magnit.ru/np/images/mplus/*$image
 magnit.ru##.adfox-slider
 magnit.ru##.adfox-slider-wrapper
 magnit.ru##.special-offers
@@ -565,8 +467,6 @@ magnit.ru##.magazine
 magnit.ru##.pwa-install-banner
 magnit.ru##.profile-subscription-base
 magnit.ru##.unit-footer-section-apps
-||magnit.ru/np/images/mplus/gradient-banner-xs.svg$image
-||magnit.ru/np/images/mplus/*$image
 magnit.ru##.mplus-benefits
 magnit.ru##.premium-banner
 magnit.ru##.pl-install-app-banner
@@ -588,7 +488,6 @@ magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(5)
 magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(6)
 magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(24)
 magnit.ru##div.category-tiles__block.category-tiles-block:nth-of-type(25)
-||magnit.ru/*/product-slot-placeholder.webp$image
 magnit.ru##.pharmacy
 magnit.ru##.recommendations-products
 magnit.ru##.carousel-wrapper
@@ -596,37 +495,31 @@ magnit.ru##.product-details-offer
 magnit.ru##.category-previews
 magnit.ru##.cart-recommendations
 magnit.ru##.ecom-cart__old-price
-
+!
 cosmetic.magnit.ru##.sections-ticker.ticker
 cosmetic.magnit.ru##.unit-ad-block-message
-
+!
 mm.ru##.banner-block
 mm.ru##.offer
 mm.ru##.inline-banner
-
-
+! ========================================================================================================================================================
 pytkam.net##.agent-warning
-
-
+! ========================================================================================================================================================
 msk1.ru##.w-100
 msk1.ru##.block-opinions
 msk1.ru##gridOneThirdLaptop
 msk1.ru##.mt-3.mb-8
-
-
+! ========================================================================================================================================================
 zoom.us##.zoom-popover__trigger
-
-
+! ========================================================================================================================================================
 www.theguardian.com##.top-banner-ad-container
-
-
+! ========================================================================================================================================================
 ||premier-static.rtbcdn.ru$image
 rutube.ru##.wdp-onboardings-inventory-banner-module__wrapper-section
-
-
+! ========================================================================================================================================================
 rkn.gov.ru##.banner-container
-
-
+! ========================================================================================================================================================
+!www.tbank-online.com/
 #||www.tbank.ru/*/ms-gateway/*
 #||cdn.tbank.ru/t-bank-app/*
 #||cdn.tbank.ru/eventea/*
@@ -637,17 +530,38 @@ rkn.gov.ru##.banner-container
 #@@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-main-title.client.js
 #@@cdn.tbank.ru/*/bonuses/*/desktop-bonuses-offer-categories.client.js
 #@@cdn.tbank.ru/*/bonuses/*/independent-bonuses-cashback-user-checker.client.js
-
-
-
+! ========================================================================================================================================================
 ||x5club.ru/assets/images/bg_*.jpg
-
-5ka.ru##.css-1loitit
 ||5ka-cdn.x5static.net/*/app_banner*.png$image
+5ka.ru##.css-1loitit
 5ka.ru##.appBanner_container__Bm8K5
+! ========================================================================================================================================================
+!||st.aestatic.net/*/webview-core.*
+||st.aestatic.net/*/ad-tracker.*
+!||st.aestatic.net/*/haze-platform-modal.*
+!||st.aestatic.net/*/tracking.*
+!||st.aestatic.net/*/tracker.*
+||st.aestatic.net/*/haze-mobile-animated-overlay.*
+||st.aestatic.net/*/mobile-animated-overlay.*
+!||st.aestatic.net/*/ModuleBannerNew/*
+||st.aestatic.net/*/RecommendationError/*
+!||st.aestatic.net/*/local-tracking.*
+!||st.aestatic.net/*/GeoContextWidget/*
+!||st.aestatic.net/*/UniversalFeed/*
+!||st.aestatic.net/*/gallery.*
+!||st.aestatic.net/*/RecommendationFeedV2/*
+!||st.aestatic.net/*/RecommendationFeed/*
+!||st.aestatic.net/media-kit-storage/*
 
+!||st.aliexpress.ru/media-kit-storage/*
 
-
+||st.aestatic.net/*/CarouselShelfWrapper/*
+||st.aestatic.net/*/CarouselBannerAdaptive/*
+!||st.aestatic.net/*/CommonShelfV2/*
+!||st.aestatic.net/*/CommonShelf/*
+||st.aestatic.net/*/CarouselBanner/*
+!||st.aestatic.net/*/RecommendationDataContext/*
+!||st.aestatic.net/*/StickyBanner/*
 !||aliexpress.ru/api/*feed*
 !aliexpress.ru##body:style(overflow:auto!important)
 ! Рекомендации и мусор
@@ -664,98 +578,45 @@ rkn.gov.ru##.banner-container
 !aliexpress.ru##:has-text(Похожие товары)
 ! Верхние баннеры
 !aliexpress.ru##[class*="header-banner"]
-
-
-
+! ========================================================================================================================================================
+||www.pochta.ru/assets/Banner_*$image
 ||www.pochta.ru/*/promotion/*
 ||www.pochta.ru/*/yandex*
 ||www.pochta.ru/*/vtb*
 www.pochta.ru##.swiper-container
 www.pochta.ru##section:nth-of-type(8)
 www.pochta.ru/assets/jam_*
-||www.pochta.ru/assets/Banner_*$image
-
-
-
+! ========================================================================================================================================================
 ||cdn.pvs-studio.ru/static/images/roulette/*$image
 pvs-studio.ru###roulette-banner
-
-
-
+! ========================================================================================================================================================
 drivers.softpedia.com##.ad
-
-
-
+! ========================================================================================================================================================
 ||spotify.com/api/masthead/*
-
-
-
+! ========================================================================================================================================================
 parniplus.com##.post-mid-banner
-
-
-
-
-
-
-
-
-# in progress:
-
-
-
-
-#||wbbasket.ru/*/sentry.*
-||wbbasket.ru/*/btnAdvertising-component.*
-#||wbbasket.ru/*/banners-component.*
-||wbbasket.ru/*/btnAdvertising.*
-
-
-
-!||st.aestatic.net/*/webview-core.*
-!||st.aestatic.net/*/ad-tracker.*
-!||st.aestatic.net/*/haze-platform-modal.*
-!||st.aestatic.net/*/tracking.*
-!||st.aestatic.net/*/tracker.*
-!||st.aestatic.net/*/haze-mobile-animated-overlay.*
-!||st.aestatic.net/*/mobile-animated-overlay.*
-!||st.aestatic.net/*/ModuleBannerNew/*
-!||st.aestatic.net/*/RecommendationError/*
-!||st.aestatic.net/*/local-tracking.*
-!||st.aestatic.net/*/GeoContextWidget/*
-!||st.aestatic.net/*/UniversalFeed/*
-!||st.aestatic.net/*/gallery.*
-!||st.aestatic.net/*/RecommendationFeedV2/*
-!||st.aestatic.net/*/RecommendationFeed/*
-!||st.aestatic.net/media-kit-storage/*
-
-!||st.aliexpress.ru/media-kit-storage/*
-
-!||st.aestatic.net/*/CarouselShelfWrapper/*
-!||st.aestatic.net/*/CarouselBannerAdaptive/*
-!||st.aestatic.net/*/CommonShelfV2/*
-!||st.aestatic.net/*/CommonShelf/*
-!||st.aestatic.net/*/CarouselBanner/*
-!||st.aestatic.net/*/RecommendationDataContext/*
-!||st.aestatic.net/*/StickyBanner/*
-
-
-
-
+! ========================================================================================================================================================
+www.reverso.net##.notification-message
+www.reverso.net##app-mapp-banner-translation
+www.reverso.net##.translation-home-page__app-banner-wrapper
+www.reverso.net##app-premium-banner-translation
+! ========================================================================================================================================================
+ya.ru##.SplashscreenDefault
+!
+||avatars.mds.yandex.net/get-marketcms/*/favicon_*$image
 ||avatars.mds.yandex.net/get-market-adv$image
+||avatars.mds.yandex.net/get-market-wheel/*$image
 market.yandex.ru###indexPageLayout
 market.yandex.ru###\/content\/header\/header\/promoBlock
 market.yandex.ru###\/content\/header\/header\/superAppHotlinks
 market.yandex.ru###\/content\/header\/header\/fortuneWheelBalance
 market.yandex.ru###\/content\/page\/layout\/header\/vendorsAndShops
 market.yandex.ru###\/content\/page\/profileMenu\/promoWidgets
-||avatars.mds.yandex.net/get-market-wheel/*$image
 market.yandex.ru###\/content\/page\/content\/defaultPage\/loginAgitation
 market.yandex.ru###\/content\/page\/content\/loginAgitation
 market.yandex.ru###\/content\/page\/thanksAppDistribution
 market.yandex.ru###\/content\/page\/content\/\@mf-online-ux\\\/CartContent\/\@mf-online-ux\\\/CartFintechAgitation
-||avatars.mds.yandex.net/get-marketcms/*/favicon_*$image
 market.yandex.ru##.urbanads-dark
 market.yandex.ru##.urbanads
-
-
-
+market.yandex.ru###\/content\/page\/orderDetails\/touchToAppDistribution
+! ========================================================================================================================================================
