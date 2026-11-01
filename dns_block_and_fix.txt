@@ -30,6 +30,7 @@
 @@||bt.nnm-club.cc^
 @@||c1.microsoft.com^
 @@||cdn.cookielaw.org^
+@@||cdn.cookie-script.com^
 @@||cdn.eapteka.ru^
 @@||cdn.prod.metrics.imdb.com^
 @@||clienttracing-pa.googleapis.com^
