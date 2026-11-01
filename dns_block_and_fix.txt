@@ -101,6 +101,7 @@
 @@||mosmetro.edna.io^
 @@||mstat.mos.ru^
 @@||mozgcp.net^
+@@||new-sentry.gitlab.net^
 @@||newslink.reuters.com^
 @@||nflxvideo.net^
 @@||nhacmp3youtube.com^
