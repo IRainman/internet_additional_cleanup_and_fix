@@ -52,8 +52,7 @@
 @@||dit.whatsapp.net^
 @@||directory.cookieyes.com^
 @@||dl.delivery.mp.microsoft.com^
-@@||gamer.gd^
-@@||geolocation.onetrust.com^
+@@||qcc.qualcomm.com^
 @@||events.data.microsoft.com^
 @@||excess-ga.duolingo.com^
 @@||federatedcompute-pa.googleapis.com^
@@ -66,6 +65,8 @@
 @@||firebaselogging.googleapis.com^
 @@||firefox.com^
 @@||fourier.alibaba.com^
+@@||gamer.gd^
+@@||geolocation.onetrust.com^
 @@||geomobileservices-pa.googleapis.com^
 @@||gfe.nvidia.com^
 @@||glpals.com^
