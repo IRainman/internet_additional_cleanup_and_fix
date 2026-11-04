@@ -53,6 +53,7 @@
 @@||directory.cookieyes.com^
 @@||dl.delivery.mp.microsoft.com^
 @@||gamer.gd^
+@@||geolocation.onetrust.com^
 @@||events.data.microsoft.com^
 @@||excess-ga.duolingo.com^
 @@||federatedcompute-pa.googleapis.com^
