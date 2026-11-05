@@ -623,4 +623,7 @@ market.yandex.ru##.urbanads
 market.yandex.ru##.urbanads-dark
 market.yandex.ru###\/marketfrontprofileProfileNavigation42\/profile\/referralEntry
 market.yandex.ru###\/marketfrontprofileProfileNavigation42\/profile\/promoWidgets
-! ========================================================================================================================================================
+market.yandex.ru###\/content\/template\/drawer
+market.yandex.ru###\/marketfrontDynamicPopupLoader42
+market.yandex.ru###\/content\/drawer
+!========================================================================================================================================================
