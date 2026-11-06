@@ -234,6 +234,9 @@
 # Data leaks and other pseudo safety mechanism for traking, that also eat many energy resources by hashing every URL, every file, etc.
 # Data leak to Google:
 ||safebrowsing*.google*.com^
+||sb-ssl.google.com^
+||enterprise-safebrowsing.google*.com^
+||webrisk.googleapis.com^
 
 # Data leak to Brave
 ||safebrowsing*.brave.com^
@@ -249,6 +252,66 @@
 ||smartscreen*.microsoft.com^
 ||urs.microsoft.com^
 ||checkappexec.microsoft.com^
+||wdcp.microsoft.com^
+||wdcpalt.microsoft.com^
+||wd.microsoft.com^
+||endpoint.security.microsoft.com^
+||smartscreen.microsoft.com^
+||smartscreen-prod.microsoft.com^
+||checkappexec.microsoft.com^
+||urs.microsoft.com^
+||europe.x.cp.wd.microsoft.com^
+
+# Data leak to Yandex:
+||sba.yandex.net^
+||sba.*.yandex.net^
+
+# Data leak to Kaspersky:
+||ds.kaspersky.com^
+||ksn.kaspersky-labs.com^
+||ksn-a-stat-geo.kaspersky-labs.com^
+||ksn-file-geo.kaspersky-labs.com^
+||ksn-verdict-geo.kaspersky-labs.com^
+||ksn-url-geo.kaspersky-labs.com^
+||ksn-a-p2p-geo.kaspersky-labs.com^
+||ksn-info-geo.kaspersky-labs.com^
+||ksn-cinfo-geo.kaspersky-labs.com^
+#||upd.kaspersky.com^
+#||kaspersky-labs.com^
+
+# Data leak to Sophos:
+||sophosxl.com^
+||sophosxl.net^
+#||sophosupd.com^
+#||sophosupd.net^
+||hitmanpro.com^
+
+# Data leak to Avast:
+#||avast.com^
+#||avg.com^
+#||avcdn.net^
+
+# Data leak to Apple:
+#||push.apple.com^
+#||gdmf.apple.com^
+#||gdmf-ados.apple.com^
+#||mesu.apple.com^
+#||updates.cdn-apple.com^
+#||updates-http.cdn-apple.com^
+#||swcdn.apple.com^
+#||swdist.apple.com^
+#||swdownload.apple.com^
+||swscan.apple.com^
+#||ocsp.apple.com^
+#||ocsp2.apple.com^
+#||crl.apple.com^
+#||certs.apple.com^
+#||valid.apple.com^
+
+# Data leak to Samsung:
+||samsungknox.com^
+||secb2b.com^
+||samsunggsl.com^
 ##################################################################################
 # Data leak to Meta (sorry for the regexp):
 /^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
