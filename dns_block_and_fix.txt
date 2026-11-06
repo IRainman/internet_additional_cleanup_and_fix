@@ -235,6 +235,13 @@
 # Data leak to Google:
 ||safebrowsing*.google*.com^
 
+# Data leak to Brave
+||safebrowsing*.brave.com^
+||sb-ssl.brave.com^
+
+# Data leak to Apple
+||safebrowsing*.apple^
+
 # Data leak: now Mozilla is advertising company (see Google fix below, this domain is also used)
 ||*-error.mozilla.com^
 
@@ -243,6 +250,8 @@
 
 # Data leak to Microsoft:
 ||smartscreen*.microsoft.com^
+||urs.microsoft.com^
+||checkappexec.microsoft.com^
 ##################################################################################
 # Mobile filters fixes for DNS performance improve by reducing lists size
 ||ad.*.xiaomi.*^
