@@ -17,6 +17,7 @@
 @@||analytics.languagetoolplus.com^
 @@||angelfire.com^
 @@||api.lbs.yandex.ru^
+@@||api.device.xiaomi.net^
 @@||api.micloud.xiaomi.net^
 @@||app-analytics-services-att.com^
 @@||app-analytics-services.com^
