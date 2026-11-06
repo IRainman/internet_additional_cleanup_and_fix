@@ -245,13 +245,13 @@
 # Data leak: now Mozilla is advertising company (see Google fix below, this domain is also used)
 ||*-error.mozilla.com^
 
-# Data leak to Meta (sorry for the regexp):
-/^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
-
 # Data leak to Microsoft:
 ||smartscreen*.microsoft.com^
 ||urs.microsoft.com^
 ||checkappexec.microsoft.com^
+##################################################################################
+# Data leak to Meta (sorry for the regexp):
+/^(?:[a-zA-Z0-9-]+\.)?[a-zA-Z0-9-]*graph(?:\.[\w-]+)?\.(fb|facebook|instagram)\.(com|net|org|me)$/
 ##################################################################################
 # Mobile filters fixes for DNS performance improve by reducing lists size
 ||ad.*.xiaomi.*^
