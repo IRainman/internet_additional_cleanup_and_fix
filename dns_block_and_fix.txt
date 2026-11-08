@@ -243,9 +243,6 @@
 ||safebrowsing*.brave.com^
 ||sb-ssl.brave.com^
 
-# Data leak to Apple
-||safebrowsing*.apple^
-
 # Data leak: now Mozilla is advertising company (see Google fix below, this domain is also used)
 ||*-error.mozilla.com^
 
@@ -302,6 +299,7 @@
 #||swcdn.apple.com^
 #||swdist.apple.com^
 #||swdownload.apple.com^
+||safebrowsing*.apple^
 ||swscan.apple.com^
 #||ocsp.apple.com^
 #||ocsp2.apple.com^
