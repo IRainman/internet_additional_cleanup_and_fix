@@ -165,6 +165,9 @@
 @@||x230.0fees.us^
 @@||xp.apple.com^
 @@||yacy.net^
+@@||api.device.xiaomi.net^$important
+@@||printable.samsung-easydrivers.com^$important
+@@||apkpure.com^$important
 ##################################################################################
 # Global fixes -> reblock by masks
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
