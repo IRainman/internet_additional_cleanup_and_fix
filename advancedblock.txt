@@ -367,6 +367,7 @@ docs.exponenta.ru##.splash
 www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.ab_pl_man, false)
 www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.web_enable_ab_rsp_cl, false)
+www.youtube.com###secondary.ytd-watch-flexy
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 ! ========================================================================================================================================================
 openvpn.net###banner-a
