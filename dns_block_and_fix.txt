@@ -2,7 +2,7 @@
 # Description: This is my extended DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home (also work with pihole).
 #
 # Please post the issue here: https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new or give a pr ;)
-#
+##################################################################################
 # Be careful: many additional functionalities are blocked absolutely incorrectly by some paranoid lists, like the 1Hosts, ShadowWhisperer, Hagezi and other lists, please don't use it!
 # It breaks many but fixes nothing. If you really need that type of list, you need to provide me a PR with fixes for some basic functionality exclusions first!
 # Any functionality like
@@ -16,9 +16,10 @@
 @@||analytics.archive.org^
 @@||analytics.languagetoolplus.com^
 @@||angelfire.com^
-@@||api.lbs.yandex.ru^
 @@||api.device.xiaomi.net^
+@@||api.lbs.yandex.ru^
 @@||api.micloud.xiaomi.net^
+@@||apkpure.com^
 @@||app-analytics-services-att.com^
 @@||app-analytics-services.com^
 @@||apptracer.ru^
@@ -30,8 +31,8 @@
 @@||browser.pipe.aria.microsoft.com^
 @@||bt.nnm-club.cc^
 @@||c1.microsoft.com^
-@@||cdn.cookielaw.org^
 @@||cdn.cookie-script.com^
+@@||cdn.cookielaw.org^
 @@||cdn.eapteka.ru^
 @@||cdn.prod.metrics.imdb.com^
 @@||clienttracing-pa.googleapis.com^
@@ -50,20 +51,19 @@
 @@||dc.services.visualstudio.com^
 @@||dc1-cert.ksn.kaspersky-labs.com^
 @@||device-api.urbanairship.com^
-@@||dit.whatsapp.net^
 @@||directory.cookieyes.com^
+@@||dit.whatsapp.net^
 @@||dl.delivery.mp.microsoft.com^
-@@||qcc.qualcomm.com^
 @@||events.data.microsoft.com^
 @@||excess-ga.duolingo.com^
 @@||federatedcompute-pa.googleapis.com^
 @@||feeds.feedburner.com^
 @@||find.api.micloud.xiaomi.net^
 @@||findmydevice-pa.googleapis.com^
-@@||firebasestorage.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
 @@||firebaselogging-pa.googleapis.com^
 @@||firebaselogging.googleapis.com^
+@@||firebasestorage.googleapis.com^
 @@||firefox.com^
 @@||fourier.alibaba.com^
 @@||gamer.gd^
@@ -97,13 +97,13 @@
 @@||login.live.com^
 @@||lostfilm.top^
 @@||metric.gstatic.com^
+@@||metrics-config.icloud.com^
 @@||metrics-drcn.dt.hihonorcloud.com^
 @@||metrics-drru.dt.hihonorcloud.com^
-@@||metrics-config.icloud.com^
 @@||metrika.mos.ru^
 @@||mosmetro.edna.io^
-@@||mstat.mos.ru^
 @@||mozgcp.net^
+@@||mstat.mos.ru^
 @@||new-sentry.gitlab.net^
 @@||newslink.reuters.com^
 @@||nflxvideo.net^
@@ -114,16 +114,18 @@
 @@||oci.oraclecloud.com^
 @@||ogads-pa.googleapis.com^
 @@||orbot.app^
-@@||plausible.io^
-@@||pi.reddit.com^
 @@||performance.radar.cloudflare.com^
-@@||privacy.reverso.net^
+@@||pi.reddit.com^
+@@||plausible.io^
 @@||player.stats.live-video.net^
+@@||printable.samsung-easydrivers.com^
+@@||privacy.reverso.net^
+@@||qcc.qualcomm.com^
 @@||remote-data.urbanairship.com^
 @@||retcode.taobao.com^
 @@||rum.ngenix.net^
-@@||s.youtube.com^
 @@||s-cdn.anthropic.com^
+@@||s.youtube.com^
 @@||sage-collector.tbank.ru^
 @@||sdk.privacy-center.org^
 @@||sentry-cdn.com^
@@ -133,12 +135,13 @@
 @@||sentry.emias.info^
 @@||sentry.io^
 @@||sentry.mos.ru^
-@@||sentry.x5.ru^
 @@||sentry.ozon.ru^
 @@||sentry.sutochno.ru^
+@@||sentry.x5.ru^
 @@||sentry2.emias.info^
-@@||shazam-insights.cdn-apple.com^
 @@||settings-win.data.microsoft.com^
+@@||shazam-insights.cdn-apple.com^
+@@||snoop.minecraft.net^
 @@||sntr.avito.ru^
 @@||stat-analytics.mediavitrina.ru^
 @@||static-mon.yandex.net^
@@ -165,9 +168,6 @@
 @@||x230.0fees.us^
 @@||xp.apple.com^
 @@||yacy.net^
-@@||api.device.xiaomi.net^$important
-@@||printable.samsung-easydrivers.com^$important
-@@||apkpure.com^$important
 ##################################################################################
 # Global fixes -> reblock by masks
 # The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
