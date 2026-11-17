@@ -20,6 +20,7 @@
 @@||api.lbs.yandex.ru^
 @@||api.micloud.xiaomi.net^
 @@||apkpure.com^
+@@||apm-ru.yun.hihonor.com^
 @@||app-analytics-services-att.com^
 @@||app-analytics-services.com^
 @@||apptracer.ru^
@@ -185,7 +186,9 @@
 ||cleanbrowsing.org^
 ||dns-tls.*^
 ||dns-tunnel-check.googlezip.net^
+||dns.*^
 ||dns.pub^
+||dns.wikicn.top^
 ||dnsapi.cn^
 ||dnsforfamily.com^
 ||dnsnl.alekberg.net^
@@ -324,6 +327,7 @@
 ||ads.heytapmobi.*^
 ||ads.heytapmobile.*^
 ||mdp-appconf-*.heytapdl.*^
+||remoteconfig*.hihonorcloud.com^
 
 # Chinese companies are full of cringe;
 # this is the craziest absurdity I've ever seen before for scams:
