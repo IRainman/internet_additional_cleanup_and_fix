@@ -1,9 +1,9 @@
 # Title: HedgehogInTheCPP additional list
-# Description: This is my extended DNS filter and fixes for other lists. Suitable and tested only with AdGuard Home (also work with pihole).
+# Description: This is my extended DNS filter and fixes for other lists, especially for our networks. Suitable and tested only with AdGuard Home (also work with pihole).
 #
-# Please post the issue here: https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new or give a pr ;)
+# Please post the issue here: https://github.com/IRainman/internet_additional_cleanup_and_fix/issues/new or better give a pr ;)
 ##################################################################################
-# Be careful: many additional functionalities are blocked absolutely incorrectly by some paranoid lists, like the 1Hosts, ShadowWhisperer, Hagezi and other lists, please don't use it!
+# Be careful: many additional functionalities are blocked absolutely incorrectly by some paranoid lists, like the 1Hosts, ShadowWhisperer, Hagezi and other lists, please don't use it in uBlockOrigin or in Adguard Home!
 # It breaks many but fixes nothing. If you really need that type of list, you need to provide me a PR with fixes for some basic functionality exclusions first!
 # Any functionality like
 # - OS location services (that help users locate themselves if satellite navigation isn't working),
@@ -171,7 +171,7 @@
 @@||yacy.net^
 ##################################################################################
 # Global fixes -> reblock by masks
-# The our networks is already securely configured via DHCP, and we use DNS filtering and gates to keep it that way.
+# The our networks is already securely configured via DHCP, and we use DNS filtering (many lists used) and gates to keep it that way.
 # When we have remote clients, we use VPNs to protect their information. 
 # Many programs and operating systems employ DoH and other DNS servers to transmit unwanted content, including malware, spam, and advertisements.
 # This is additional and optimization for the HaGeZi's Encrypted DNS Bypass DNS Blocklist.
@@ -187,8 +187,6 @@
 ||dns-tls.*^
 ||dns-tunnel-check.googlezip.net^
 ||dns.*^
-||dns.pub^
-||dns.wikicn.top^
 ||dnsapi.cn^
 ||dnsforfamily.com^
 ||dnsnl.alekberg.net^
