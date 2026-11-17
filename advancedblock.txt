@@ -601,11 +601,14 @@ www.reverso.net##app-mapp-banner-translation
 www.reverso.net##.translation-home-page__app-banner-wrapper
 www.reverso.net##app-premium-banner-translation
 ! ========================================================================================================================================================
-ya.ru##.SplashscreenDefault
-!
 ||avatars.mds.yandex.net/get-marketcms/*/favicon_*$image
 ||avatars.mds.yandex.net/get-market-adv$image
 ||avatars.mds.yandex.net/get-market-wheel/*$image
+!
+ya.ru##.SplashscreenDefault
+!
+mail.yandex.ru##.promozavr-anchor-servicePremiumButton
+!
 market.yandex.ru###\/content\/header\/header\/fortuneWheelBalance
 market.yandex.ru###\/content\/header\/header\/promoBlock
 market.yandex.ru###\/content\/header\/header\/superAppHotlinks
