@@ -164,6 +164,7 @@
 @@||uniondht.org^
 @@||userlocation.googleapis.com^
 @@||verify.yandex.ru^
+@@||w3-reporting.reddit.com^
 @@||w3-reporting-nel.reddit.com^
 @@||www.telecommandsvc.microsoft.com^
 @@||x230.0fees.us^
