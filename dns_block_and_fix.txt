@@ -30,6 +30,7 @@
 @@||bodis.com^
 @@||boincstats.com^
 @@||browser.pipe.aria.microsoft.com^
+@@||bt.booktracker.work^
 @@||bt.nnm-club.cc^
 @@||c1.microsoft.com^
 @@||cdn.cookie-script.com^
