@@ -39,6 +39,7 @@
 @@||clienttracing-pa.googleapis.com^
 @@||collector.github.com^
 @@||config.edge.skype.com^
+@@||consentag.eu^
 @@||consent.trustarc.com^
 @@||copilot-telemetry.githubusercontent.com^
 @@||coppersurfer.tk^
