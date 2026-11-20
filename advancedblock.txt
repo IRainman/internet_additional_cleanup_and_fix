@@ -630,4 +630,9 @@ market.yandex.ru###\/marketfrontprofileProfileNavigation42\/profile\/promoWidget
 market.yandex.ru###\/content\/template\/drawer
 market.yandex.ru###\/marketfrontDynamicPopupLoader42
 market.yandex.ru###\/content\/drawer
+market.yandex.ru###\/content\/page\/recommendationRoll
+market.yandex.ru###\/cardRecommendationRollV42
+!========================================================================================================================================================
+holod.media##.kg-bookmark-container
+holod.media##.holod-article-ad
 !========================================================================================================================================================
