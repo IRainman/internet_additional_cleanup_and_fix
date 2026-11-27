@@ -581,6 +581,11 @@ rkn.gov.ru##.banner-container
 !aliexpress.ru##:has-text(Похожие товары)
 ! Верхние баннеры
 !aliexpress.ru##[class*="header-banner"]
+!!!! crutches:
+aliexpress.ru##.CarouselBanner_CarouselBannercontainer1jyjb
+aliexpress.ru##.CommonShelf_CommonShelfcommonShelf887b0
+aliexpress.ru##.RedEntryPoints_RedEntryPointsouter5gjjc
+aliexpress.ru##.CommonStoriesWithoutPreview_CommonStoriesWithoutPreviewrootstv8y
 ! ========================================================================================================================================================
 ||www.pochta.ru/assets/Banner_*$image
 ||www.pochta.ru/*/promotion/*
