@@ -245,6 +245,8 @@
 ||sb-ssl.google.com^
 ||enterprise-safebrowsing.google*.com^
 ||webrisk.googleapis.com^
+! blocked because google do this: developers.google.com/safe-browsing
+||developers.google.com^
 
 # Data leak to Brave
 ||safebrowsing*.brave.com^
@@ -252,6 +254,7 @@
 
 # Data leak: now Mozilla is advertising company (see Google fix below, this domain is also used)
 ||*-error.mozilla.com^
+||shavar.services.mozilla.com^
 
 # Data leak to Microsoft:
 ||smartscreen*.microsoft.com^
